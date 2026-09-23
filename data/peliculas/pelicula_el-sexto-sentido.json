@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/el-sexto-sentido/",
+  "tipo": "pelicula",
+  "titulo": "El sexto sentido",
+  "titulo_original": "The Sixth Sense",
+  "fecha_lanzamiento": "06-08-1999",
+  "generos": [
+    "Drama",
+    "Misterio",
+    "Suspense"
+  ],
+  "directores": [
+    "M. Night Shyamalan"
+  ],
+  "sinopsis": "El Dr. Malcom Crowe es un conocido psicólogo infantil obsesionado con el doloroso recuerdo de un joven paciente desequilibrado al que fue incapaz de ayudar. Cole Sear es un aterrorizado y confuso niño de ocho años que necesita tratamiento, y Crowe ve la oportunidad de redimirse haciendo todo lo posible por ayudarle. Sin embargo, el psicólogo infantil no está preparado para conocer la terrible verdad acerca del don sobrenatural de su paciente: recibe visitas no deseadas de espíritus atormentados.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/6TjllWT3cGrPFyqDXurVZ3L8bBi.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11119&trtype=1"
+  ]
+}

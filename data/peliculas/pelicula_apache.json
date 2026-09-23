@@ -1,0 +1,18 @@
+{
+  "url": "https://retrotve.com/pelicula/apache/",
+  "tipo": "pelicula",
+  "titulo": "Apache",
+  "titulo_original": "Apache",
+  "fecha_lanzamiento": "09-07-1954",
+  "generos": [
+    "Acción",
+    "Western"
+  ],
+  "directores": [
+    "Robert Aldrich"
+  ],
+  "imagen_hd": "//image.tmdb.org/t/p/w780/u6JfwUGjZsOgK0tqVYKxZLTHstJ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12162&trtype=1"
+  ]
+}

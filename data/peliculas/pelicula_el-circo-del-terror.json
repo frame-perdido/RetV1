@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/el-circo-del-terror/",
+  "tipo": "pelicula",
+  "titulo": "El circo del terror",
+  "titulo_original": "Circus of Horrors",
+  "fecha_lanzamiento": "01-04-1960",
+  "generos": [
+    "Crimen",
+    "Terror"
+  ],
+  "directores": [
+    "Sidney Hayers"
+  ],
+  "sinopsis": "Un cirujano plástico (con muy poca ética) se escapa de Inglaterra y se oculta en un circo que recorre Francia. Ahí consigue hermosas jóvenes a las que somete a operaciones de cirugía plástica. Cuando sus pacientes intentan escapar, el galeno las mata y simula accidentes.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/4jMjsSdLHA4ccDPNunPnnuAX9NH.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10463&trtype=1"
+  ]
+}

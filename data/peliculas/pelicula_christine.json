@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/christine/",
+  "tipo": "pelicula",
+  "titulo": "Christine",
+  "titulo_original": "Christine",
+  "fecha_lanzamiento": "09-12-1983",
+  "generos": [
+    "Terror"
+  ],
+  "directores": [
+    "Jack Philbrick",
+    "John Carpenter",
+    "Kisuna Jacobsen",
+    "Larry Franco"
+  ],
+  "sinopsis": "Nació en Detroit en una línea de montaje de automóviles, pero no es un coche cualquiera. En el fondo de su chasis se aloja el mismísimo diablo. Es Christine un Plymouth Fury de 1958, rojo y blanco, cuyo único equipo “normalizado” comprende un deseo de venganza insaciable, que hiela la sangre a cualquiera y destruye todo aquello que encuentra en su camino.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/4ZQIEbCwrD1cTvslORZcrNtQqYO.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11106&trtype=1"
+  ]
+}

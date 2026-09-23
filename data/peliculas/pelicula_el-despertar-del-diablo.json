@@ -1,0 +1,29 @@
+{
+  "url": "https://retrotve.com/pelicula/el-despertar-del-diablo/",
+  "tipo": "pelicula",
+  "titulo": "El despertar del diablo",
+  "titulo_original": "The Hills Have Eyes",
+  "fecha_lanzamiento": "10-03-2006",
+  "generos": [
+    "Suspense",
+    "Terror"
+  ],
+  "directores": [
+    "Alexandre Aja",
+    "Bertrand Gagey",
+    "Cheryl Leigh",
+    "Dexter Locke",
+    "Franklin A. Vallette",
+    "Grégory Levasseur",
+    "Jon-Luke Lourens",
+    "Michael Gregory",
+    "Olivier Agostini",
+    "Rachid Doha",
+    "Shamiel Soni"
+  ],
+  "sinopsis": "La película gira en torno a los Carter, una familia de clase media cuyas vacaciones, acompañando a sus padres en sus bodas de plata, quedan truncadas cuando su caravana sufre un extraño accidente en el desierto de Nuevo México. Aislados del mundo, pronto se darán cuenta de que no están solos: en las colinas habita una estirpe de sanguinarios mutantes fruto de las continuas pruebas nucleares del ejército,como son Gruñidos y Slott y que no dudarán en aniquilar a los Carter de las formas más espeluznantes.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/vrFI0I3M8ROZduj9XbFDoQKZyao.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12096&trtype=1"
+  ]
+}

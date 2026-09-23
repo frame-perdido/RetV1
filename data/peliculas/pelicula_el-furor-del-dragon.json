@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/el-furor-del-dragon/",
+  "tipo": "pelicula",
+  "titulo": "El furor del dragón",
+  "titulo_original": "猛龍過江",
+  "fecha_lanzamiento": "30-12-1972",
+  "generos": [
+    "Acción",
+    "Crimen"
+  ],
+  "directores": [
+    "Bruce Lee",
+    "Chih Yao-Chang",
+    "張同祖"
+  ],
+  "sinopsis": "Bruce Lee llega a Roma para ayudar a Chen Ching-Hua, una amiga de su familia que está siendo amenazada por la mafia local que pretende cotrolar su restaurante. Al principio a Tang le chocan un montón las costumbres europeas y por su pinta de campesino, sus compañeros del restaurante creen que no les servirá de gran ayuda.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/aBPok9tHcYb9mcHPsLnPIXdkQc2.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10651&trtype=1"
+  ]
+}

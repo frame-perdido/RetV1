@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/alejandro-el-magno/",
+  "tipo": "pelicula",
+  "titulo": "Alejandro el Magno",
+  "titulo_original": "Alexander the Great",
+  "fecha_lanzamiento": "28-03-1956",
+  "generos": [
+    "Aventura",
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Elaine Schreyeck",
+    "Robert Rossen"
+  ],
+  "sinopsis": "Alejandro Magno (356-323 a.C.) tuvo como preceptor a Aristóteles y su libro de cabecera fue la Ilíada, de Homero. A los veinte años sucedió a su padre como rey de Macedonia y fue un general excepcional, capaz de conducir inmensos ejércitos. Sus numerosas y brillantes victorias le permitieron crear un gran imperio que se extendía desde Grecia hasta la India.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/yk1ovkzAXZZY02jtzjaazi3FjaU.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11337&trtype=1"
+  ]
+}

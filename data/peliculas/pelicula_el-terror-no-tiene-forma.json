@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/el-terror-no-tiene-forma/",
+  "tipo": "pelicula",
+  "titulo": "La mancha voraz",
+  "titulo_original": "The Blob",
+  "fecha_lanzamiento": "05-08-1988",
+  "generos": [
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "Chuck Russell",
+    "Helen Caldwell",
+    "Josh McLaglen"
+  ],
+  "sinopsis": "Una malévola forma de vida viscosa irrumpe en un tranquilo pueblo de Arborville. No tiene problemas de conciencia ni inteligencia alguna, y sólo sabe hacer una cosa, pero es todo un experto en ello: comerse todo lo que se mueve, hombres, mujeres o niños.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/druVwdaFSyqGpK2q4w6hSFOoIqS.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11316&trtype=1"
+  ]
+}

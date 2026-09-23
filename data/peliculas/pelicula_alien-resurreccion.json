@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/alien-resurreccion/",
+  "tipo": "pelicula",
+  "titulo": "Alien: Resurrección",
+  "titulo_original": "Alien Resurrection",
+  "fecha_lanzamiento": "12-11-1997",
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "Jackie C. Lee",
+    "Jean-Pierre Jeunet",
+    "Mark Oppenheimer",
+    "Nancy King",
+    "Shannon Kenny",
+    "Susan Walter"
+  ],
+  "sinopsis": "Más de doscientos años después de su muerte, Ellen Ripley vuelve a la vida gracias al empleo de técnicas avanzadas de clonación. Pero, durante el proceso, el ADN de Ripley se ha mezclado con el de la Reina Alien, por lo que Ripley empieza a desarrollar ciertas características de la peligrosa alienígena.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/zQI8yxl61JTpjCB3MrTbcQBOT82.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10684&trtype=1"
+  ]
+}

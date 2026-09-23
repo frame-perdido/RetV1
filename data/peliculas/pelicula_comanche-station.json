@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/comanche-station/",
+  "tipo": "pelicula",
+  "titulo": "Estación Comanche",
+  "titulo_original": "Comanche Station",
+  "fecha_lanzamiento": "01-03-1960",
+  "generos": [
+    "Acción",
+    "Western"
+  ],
+  "directores": [
+    "Budd Boetticher",
+    "Sam Nelson"
+  ],
+  "sinopsis": "Jefferson Cody, un exmilitar, acude al rescate de una mujer que se encuentra con los comanches. Dicha mujer, según él, es su esposa que desapareció hace años. Sin embargo, una vez paga el rescate para encontrarse con ella, se da cuenta de que no es así. Aun así, decide volver con ella a casa pero, en el camino de vuelta, se encuentra con un enemigo suyo que impide, con todas sus fuerzas, que la pareja regrese a casa.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/cxsxTW93MYtGPCQ0mXILkLYgNyK.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8388&trtype=1"
+  ]
+}

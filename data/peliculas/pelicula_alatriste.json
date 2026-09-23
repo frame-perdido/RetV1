@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/alatriste/",
+  "tipo": "pelicula",
+  "titulo": "Alatriste",
+  "titulo_original": "Alatriste",
+  "fecha_lanzamiento": "01-09-2006",
+  "generos": [
+    "Acción"
+  ],
+  "directores": [
+    "Agustín Díaz Yanes",
+    "Charlie Lázaro",
+    "Eugenia Cuesta",
+    "Francisco Barrionuevo"
+  ],
+  "sinopsis": "España Imperial, siglo XVII. Diego Alatriste, valeroso soldado al servicio de su majestad, combate en una guerra en las frías tierras de Flandes. En una emboscada de los holandeses, Balboa, amigo y compañero de armas, cae herido de muerte. Alatriste escucha de los labios de su amigo una última petición y promete cumplirla: cuidará de su hijo Iñigo y le alejará del oficio de soldado. El propio Alatriste, que malvive vendiendo su espada, se verá implicado en una de estas intrigas cuando es contratado junto a otro mercenario, el italiano Gualterio Malatesta, para dar muerte a dos misteriosos personajes que viajan de incógnito a Madrid.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/eqpkycxmFt6ETn9XuE6dT1ldCdi.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12042&trtype=1"
+  ]
+}

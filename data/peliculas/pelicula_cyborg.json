@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/cyborg/",
+  "tipo": "pelicula",
+  "titulo": "Cyborg",
+  "titulo_original": "Cyborg",
+  "fecha_lanzamiento": "07-04-1989",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "directores": [
+    "Albert Pyun",
+    "Barbara D'Alessandro",
+    "Jon Paré",
+    "Michael Katleman",
+    "Tom Elliott"
+  ],
+  "sinopsis": "Siglo XXI, en un futuro apocalíptico… América está sometida a una anarquía social donde el caos reina a sus anchas, y sobre la que se cierne el peligro de una devastadora plaga que puede acabar con la raza humana. Únicamente, la hermosa Pearl (Dayle Haddon), mitad humana mitad robot, posee el conocimiento necesario para desarrollar una vacuna que pueda salvar el mundo. Pero Pearl es capturada por un grupo de piratas del futuro que pretenden apoderarse del antídoto y así dominar el mundo. Ahora, sólo el héroe Gibson Rtickenbarker (Jean-Claude Van Damme) con su increíble habilidad para la lucha y su auténtico dominio del sable, podrá rescatarla y salvar lo que queda de civilización.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lUHhwf9VRcdnP5gQjnqa337L33M.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11919&trtype=1"
+  ]
+}

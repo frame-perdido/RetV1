@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/el-hombre-del-oeste/",
+  "tipo": "pelicula",
+  "titulo": "El hombre del oeste",
+  "titulo_original": "Man of the West",
+  "fecha_lanzamiento": "20-06-1958",
+  "generos": [
+    "Western"
+  ],
+  "directores": [
+    "Anthony Mann",
+    "Dick Moder",
+    "Sam Freedle"
+  ],
+  "sinopsis": "Arizona, 1874. Link Jones, un antiguo pistolero dedicado al bandidaje, se ha redimido y es un hombre regenerado y respetado por sus vecinos. Tanto es así, que, depositando toda su confianza en él, le han entregado seiscientos dólares destinados a contratar a una maestra para la escuela que piensan inaugurar. Con esta misión Link emprende un viaje en tren, pero inesperadamente el destino lo devuelve a su pasado, poniendo en peligro su reputación.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/qmjS9OVJc59AbRFTT0nZYz7vN3c.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11206&trtype=1"
+  ]
+}

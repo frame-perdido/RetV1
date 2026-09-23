@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/el-hundimiento/",
+  "tipo": "pelicula",
+  "titulo": "El hundimiento",
+  "titulo_original": "Der Untergang",
+  "fecha_lanzamiento": "16-09-2004",
+  "generos": [
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Bohdan Graczyk",
+    "Hanuš Polak jr.",
+    "Oliver Hirschbiegel"
+  ],
+  "sinopsis": "Berlín, abril de 1945. En las calles de Berlín se libra una encarnizada batalla. Hitler y sus fieles se han atrincherado en un búnker. Entre ellos se encuentra Traudl Junge, la secretaria personal del Führer. En el exterior, la situación se recrudece. A pesar de que Berlín ya no puede resistir más, Hitler se niega a abandonar la ciudad y, acompañado de Eva Braun, prepara su despedida.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/hvINcZ57JNLHylfjTVB6hd0Uefz.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10688&trtype=1"
+  ]
+}

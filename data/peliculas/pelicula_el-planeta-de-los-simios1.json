@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/el-planeta-de-los-simios1/",
+  "tipo": "pelicula",
+  "titulo": "El planeta de los simios",
+  "titulo_original": "Planet of the Apes",
+  "fecha_lanzamiento": "07-02-1968",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "directores": [
+    "Franklin J. Schaffner",
+    "Robert Doudell",
+    "Rose Steinberg",
+    "William Kissell"
+  ],
+  "sinopsis": "Una tripulación de astronautas se estrelló en un planeta en un futuro lejano donde los simios parlantes inteligentes son la especie dominante, y los humanos son los oprimidos y esclavos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/1i9A7wv3XXWK9cvzJjx056n0C5k.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8080&trtype=1"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "url": "https://retrotve.com/pelicula/el-regreso-de-la-momia/",
+  "tipo": "pelicula",
+  "titulo": "El regreso de la momia",
+  "titulo_original": "The Mummy Returns",
+  "fecha_lanzamiento": "04-05-2001",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "directores": [
+    "Adil Abdelwahab",
+    "Cliff Lanning",
+    "Dan John",
+    "Greg Michael",
+    "Jamie Christopher",
+    "Matthew Sharp",
+    "Stephen Sommers",
+    "Sylvie Chesneau",
+    "William Dodds"
+  ],
+  "sinopsis": "Han pasado diez años, Rick O’Connell se ha casado con Evelyn, y ambos son padres del pequeño Alex, de ocho años. Cuando, tras una serie de acontecimientos, la momia del antiguo sacerdote egipcio Im-Ho-Tep es resucitada por una extraña secta en el British Museum, y la maldición milenaria del Rey Escorpión -que seis mil años atrás traicionó al dios Anubis- lo devuelve a la vida, el choque entre ambas fuerzas malignas desencadenará el caos en el mundo… si Rick y Evelyn no consiguen evitarlo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/ifR5HhZ8nlMnVBs7H0RNX97vI2O.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10727&trtype=1"
+  ]
+}

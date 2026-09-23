@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/battle-royale/",
+  "tipo": "pelicula",
+  "titulo": "Battle Royale",
+  "titulo_original": "バトル・ロワイアル",
+  "fecha_lanzamiento": "16-12-2000",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Suspense"
+  ],
+  "directores": [
+    "深作欣二"
+  ],
+  "sinopsis": "En el amanecer de un nuevo milenio, el país está al borde del colapso. Millones de personas vagan sin empleo. La violencia en la escuela está descontrolada y adolescentes rebeldes protagonizan boicots masivos. El gobierno contrataca con “Battle Royale”. Cada año, una clase es escogida al azar para que se enfrente, en una isla abandonada, a un cruel juego de supervivencia.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/amBvmIshdsSkOtvVIgxl7YSQ9Dg.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10777&trtype=1"
+  ]
+}

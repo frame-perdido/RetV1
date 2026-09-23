@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/an-innocent-man/",
+  "tipo": "pelicula",
+  "titulo": "Un Hombre Inocente",
+  "titulo_original": "An Innocent Man",
+  "fecha_lanzamiento": "06-10-1989",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "directores": [
+    "Peter Yates"
+  ],
+  "sinopsis": "Jimmie Rainwood (Tom Selleck, ‘Magnum, P.I.’) es un hombre trabajador que vive pacíficamente con su mujer. Un fatídico día, dos policías corruptos que van buscando a un importante narcotraficante se equivocan de dirección y asaltan la casa de Rainwood. Una vez dentro se dan cuenta del error que han cometido de modo que deciden continuar con la farsa dejando restos de drogas por toda la casa y deteniendo a Rainwood.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/fDgR7vq3fqtlo2w2wPN3pNXyDm5.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=7944&trtype=1"
+  ]
+}

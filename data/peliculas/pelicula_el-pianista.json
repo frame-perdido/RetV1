@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/el-pianista/",
+  "tipo": "pelicula",
+  "titulo": "El pianista",
+  "titulo_original": "The Pianist",
+  "fecha_lanzamiento": "17-09-2002",
+  "generos": [
+    "Bélica",
+    "Drama"
+  ],
+  "directores": [
+    "Anna Zenowicz",
+    "Caroline Veyssière",
+    "Roman Polanski",
+    "Sylvette Baudrot",
+    "Weronika Migoń",
+    "Zbigniew Gruz"
+  ],
+  "sinopsis": "Varsovia, 1939. El pianista polaco de origen judío Wladyslaw Szpilman (Adrien Brody) interpreta un tema de Chopin en la radio nacional de Polonia mientras la aviación alemana bombardea la capital. El régimen nazi ha invadido el país, y como hace en otros países invadidos, lleva a cabo la misma política con respecto a los judíos. Así Szpilman y toda su familia -sus padres, su hermano y sus dos hermanas- se ven obligados a dejar su casa y todo lo que les pertenece para trasladarse con miles de personas de origen judío al ghetto de Varsovia. Mientras Wladyslaw trabaja como pianista en un restaurante propiedad de un judío que colabora con los nazis, su hermano Henryk (Ed Stoppard) prefiere luchar contra los nazis. Pero tres años más tarde, los habitantes del ghetto son trasladados en trenes hacia campos de concentración.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/dVr11o9or7AS8AMPfwjSpEU83iU.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10430&trtype=1"
+  ]
+}

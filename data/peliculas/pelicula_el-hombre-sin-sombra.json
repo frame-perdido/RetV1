@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/el-hombre-sin-sombra/",
+  "tipo": "pelicula",
+  "titulo": "El hombre sin sombra",
+  "titulo_original": "Hollow Man",
+  "fecha_lanzamiento": "04-08-2000",
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "directores": [
+    "Haley McLane",
+    "Juanma Fernández París",
+    "Louis D'Esposito",
+    "Paul Verhoeven",
+    "Scott E. Anderson",
+    "Steve Lonano"
+  ],
+  "sinopsis": "El descubrimiento de un brillante científico lo hace invisible, pero lo transforma en un omnipotente y peligroso megalómano.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/g6UIASElC5M6jwtV4TZlz1sok3h.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10474&trtype=1"
+  ]
+}

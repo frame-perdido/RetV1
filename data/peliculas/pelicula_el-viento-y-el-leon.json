@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/el-viento-y-el-leon/",
+  "tipo": "pelicula",
+  "titulo": "El viento y el león",
+  "titulo_original": "The Wind and the Lion",
+  "fecha_lanzamiento": "22-05-1975",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "John Milius"
+  ],
+  "sinopsis": "A principios del siglo XX, el jefe de los bereberes El Raisuni, secuestra en Tánger a una bella viuda estadounidense y a sus hijos para pedir un fuerte rescate. Este hecho desencadena un conflicto diplomático en el que se verán involucrados el gobierno americano (Theodore Roosevelt: 1901-1909), tropas alemanas y diversas facciones del sultanato de Marruecos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/2GpZMQyg918iWegVMqUImWnB6tQ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8381&trtype=1"
+  ]
+}

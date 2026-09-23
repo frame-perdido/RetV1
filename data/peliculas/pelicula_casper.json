@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/casper/",
+  "tipo": "pelicula",
+  "titulo": "Casper",
+  "titulo_original": "Casper",
+  "fecha_lanzamiento": "26-05-1995",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "directores": [
+    "Ana Maria Quintana",
+    "Annette Haywood-Carter",
+    "Brad Silberling",
+    "Michele Panelli-Venetis",
+    "Steve E. Andrews"
+  ],
+  "sinopsis": "La señora Crittenden contrata al doctor Harvey, para que libere la mansión de Whipstaff de los cuatro fantasmas que la habitan. Látigo, Tufo y Gordy no toleran a los mortales dentro de la casa y tienen un sentido del humor tan negro que ahuyenta a los más atrevidos. Su sobrino Casper, en cambio, es un joven amistoso que está harto de sus tíos. Harvey se presenta en la mansión con su hija Kat, una soñadora adolescente. Ella y Casper simpatizan inmediatamente, a pesar de que ambos tienen problemas para relacionarse. De Casper huye todo el mundo porque es un fantasma, y de Kat, en cuanto se enteran de la profesión de su padre. El fantasma y la joven son dos almas gemelas que entran en continuo conflicto con sus respectivos parientes por cualquier cosa.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/sQPckU0TfSeYIlUneHfIXwzQC2f.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11361&trtype=1"
+  ]
+}

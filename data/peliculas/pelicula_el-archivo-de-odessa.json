@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/el-archivo-de-odessa/",
+  "tipo": "pelicula",
+  "titulo": "El Archivo de Odessa",
+  "titulo_original": "The Odessa File",
+  "fecha_lanzamiento": "17-10-1974",
+  "generos": [
+    "Drama",
+    "Suspense"
+  ],
+  "directores": [
+    "Colin M. Brewer",
+    "Elaine Schreyeck",
+    "Ronald Neame",
+    "Wieland Liebske"
+  ],
+  "sinopsis": "En 1963, en Hamburgo, el joven periodista Peter Miller se topa con el diario de un sobreviviente judío que se ha suicidado. El diario revela la existencia de Eduard Roschmann, un excomandante nazi del campo de concentración de Riga que vive bajo una identidad falsa. Decidido a encontrarlo, Miller se infiltra en una organización secreta llamada ODESSA, formada por antiguos miembros de las SS que se protegen entre sí y planean un resurgimiento nazi. Su búsqueda lo arrastra a un mundo de conspiraciones, traiciones y un pasado que muchos quieren enterrar.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/4x7Zcu3OC3Qra9iw5XiHjemLgiD.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8384&trtype=1"
+  ]
+}

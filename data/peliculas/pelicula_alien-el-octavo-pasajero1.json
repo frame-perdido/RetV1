@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/alien-el-octavo-pasajero1/",
+  "tipo": "pelicula",
+  "titulo": "Alien: El Octavo Pasajero",
+  "titulo_original": "Alien",
+  "fecha_lanzamiento": "25-05-1979",
+  "generos": [
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "Kay Fenton",
+    "Paul Ibbetson",
+    "Raymond Becket",
+    "Ridley Scott"
+  ],
+  "sinopsis": "Después de que una nave espacial de comercio reciba una transmisión desconocida, aterrizan en la luna de origen para investigar pero un miembro de la tripulación es atacado por una forma de vida misteriosa. Pronto descubren que su ciclo de vida apenas comienza.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/AmR3JG1VQVxU8TfAvljUhfSFUOx.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8097&trtype=1"
+  ]
+}

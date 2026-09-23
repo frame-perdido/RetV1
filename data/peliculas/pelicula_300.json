@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/300/",
+  "tipo": "pelicula",
+  "titulo": "300",
+  "titulo_original": "300",
+  "fecha_lanzamiento": "07-03-2007",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Bélica"
+  ],
+  "directores": [
+    "Clay Staub",
+    "Kimi Webber",
+    "Martin Walters",
+    "Zack Snyder"
+  ],
+  "sinopsis": "Adaptación del cómic de Frank Miller (autor del cómic ‘Sin City’) sobre la famosa batalla de las Termópilas (480 a.C.). El objetivo de Jerjes, emperador de Persia, era la conquista de Grecia, lo que desencadenó las Guerras Médicas. Dada la gravedad de la situación, el rey Leónidas de Esparta (Gerard Butler) y 300 espartanos se enfrentaron a un ejército persa que era inmensamente superior.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lgBZlJ1LHQel5nneNQMoesmvc7l.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11487&trtype=1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/estados-alterados/",
+  "tipo": "pelicula",
+  "titulo": "Estados alterados",
+  "titulo_original": "Altered States",
+  "fecha_lanzamiento": "25-12-1980",
+  "generos": [
+    "Ciencia ficción",
+    "Suspense",
+    "Terror"
+  ],
+  "directores": [
+    "Carline Davis-Dyer",
+    "Gary Daigler",
+    "Ken Russell"
+  ],
+  "sinopsis": "El científico Eddie Jessup (William Hurt) cree que hay otros estados de conciencia que son tan reales como la vida cotidiana. Utilizando la privación sensorial y añadiendo medicamentos potentes y alucinógenos, investiga estos estados alterados y soporta experiencias que hacen que la locura parezca una bendición.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/8BATrghiOSFOtcpg2j2hZSHm6pm.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=7985&trtype=1"
+  ]
+}

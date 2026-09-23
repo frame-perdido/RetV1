@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/el-precio-de-un-hombre/",
+  "tipo": "pelicula",
+  "titulo": "El precio de un hombre",
+  "titulo_original": "El precio de un hombre",
+  "fecha_lanzamiento": "04-11-1966",
+  "generos": [
+    "Acción",
+    "Western"
+  ],
+  "directores": [
+    "Eugenio Martín"
+  ],
+  "sinopsis": "es una película del año 1966 dirigida por el cineasta español Eugenio Martín y protagonizada por Tomás Milián y Richard Wyler. Está enmarcada dentro del subgénero del spaghetti western. Es una película bastante interesante con un argumento bien llevado.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/f1nSp0dMbOPFpnsUUW3lIgTTRqb.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8195&trtype=1"
+  ]
+}

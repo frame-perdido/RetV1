@@ -1,0 +1,26 @@
+{
+  "url": "https://retrotve.com/pelicula/acorralado/",
+  "tipo": "pelicula",
+  "titulo": "Rambo",
+  "titulo_original": "Rambo",
+  "fecha_lanzamiento": "22-10-1982",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Bélica",
+    "Suspense"
+  ],
+  "directores": [
+    "Conrad E. Palmisano",
+    "Craig Huston",
+    "Jacques Hubert",
+    "Otta Hanus",
+    "Pattie Robertson",
+    "Ted Kotcheff"
+  ],
+  "sinopsis": "John Rambo es un veterano de la guerra de Vietnam que sufre de estrés postraumático. Un día, llega a un pequeño pueblo de Oregón, donde el sheriff Will Teasle le detiene por vagabundear. Rambo logra escapar de la comisaría y se refugia en el bosque, donde usa sus habilidades de supervivencia y combate para enfrentarse a los policías que le persiguen. El coronel Samuel Trautman, el antiguo jefe de Rambo, llega al pueblo para intentar negociar con él y evitar una masacre. Rambo tendrá que luchar contra sus propios demonios y contra las fuerzas del orden que le quieren capturar o matar.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/teCZlGivejMw4rVzyxBSYQNr6XI.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11837&trtype=1"
+  ]
+}

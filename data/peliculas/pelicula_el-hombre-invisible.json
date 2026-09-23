@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/el-hombre-invisible/",
+  "tipo": "pelicula",
+  "titulo": "El hombre invisible",
+  "titulo_original": "The Invisible Man",
+  "fecha_lanzamiento": "03-11-1933",
+  "generos": [
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "James Whale"
+  ],
+  "sinopsis": "Un químico inventa un suero invisible que le transforma en un maníaco homicida que quiere conquistar el mundo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/hW9zHASawkDleUH0pzKKUvqpnhD.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8031&trtype=1"
+  ]
+}

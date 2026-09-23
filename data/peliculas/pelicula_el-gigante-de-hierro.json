@@ -1,0 +1,38 @@
+{
+  "url": "https://retrotve.com/pelicula/el-gigante-de-hierro/",
+  "tipo": "pelicula",
+  "titulo": "El gigante de hierro",
+  "titulo_original": "The Iron Giant",
+  "fecha_lanzamiento": "06-08-1999",
+  "generos": [
+    "Animación",
+    "Aventura",
+    "Ciencia ficción",
+    "Familia"
+  ],
+  "directores": [
+    "Audrey Stedman",
+    "Bill Thyen",
+    "Brad Bird",
+    "Conor Kavanagh",
+    "Craig Voigt",
+    "Emil Mitev",
+    "Felipe Morell",
+    "Francis Lang",
+    "Frederick J. Gardner III",
+    "James P. Alles",
+    "Jennifer Yuan",
+    "Karen Hamrock",
+    "Lisa Souza",
+    "Louis Gonzales",
+    "Michael Tracy",
+    "Ron Roesch",
+    "Teresa Coffey-Wellins",
+    "William H. Frake III"
+  ],
+  "sinopsis": "En 1957, en la pequeña localidad de Rockwell, alguien ha visto cómo un enorme hombre metálico caía al mar. Un imaginativo niño descubre que se trata de un robot gigante, cuyo apetito de metal es insaciable. Entre ambos nace una fuerte amistad, pero el gobierno envía a un agente para investigar los hechos. El niño esconde a su nuevo compañero en la chatarrería de un amigo. Pero los habitantes del pueblo comienzan a sentirse aterrados porque creen que es una nueva amenaza en plena Guerra Fría.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/wfClZdRb1x4LZ8B73Y9RSn8XAPa.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10655&trtype=1"
+  ]
+}

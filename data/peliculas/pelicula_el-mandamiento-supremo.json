@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/el-mandamiento-supremo/",
+  "tipo": "pelicula",
+  "titulo": "El Mandamiento Supremo",
+  "titulo_original": "Meet John Doe",
+  "fecha_lanzamiento": "14-03-1941",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "directores": [
+    "Arthur S. Black Jr.",
+    "Frank Capra"
+  ],
+  "sinopsis": "Cuando un magnate compra un periódico y despide a casi todo el personal, una intrépida periodista decide publicar en su último artículo una falsa e incendiaria carta que lleva la firma de Juan Nadie. En ella se anuncia el suicidio de uno de los empleados despedidos. El éxito del artículo es tal que el periódico decide crear un Juan Nadie y, con este fin, contrata a un vagabundo que acaba convirtiéndose en un personaje extraordinariamente popular.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/fy2hkQgAWj1st3FWBzqc27JlytC.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10120&trtype=1"
+  ]
+}

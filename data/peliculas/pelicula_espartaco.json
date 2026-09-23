@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/espartaco/",
+  "tipo": "pelicula",
+  "titulo": "Espartaco",
+  "titulo_original": "Spartacus",
+  "fecha_lanzamiento": "13-10-1960",
+  "generos": [
+    "Aventura",
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Marshall Green",
+    "Stanley Kubrick"
+  ],
+  "sinopsis": "Hacia el año 75 antes de Cristo, un esclavo llamado Espartaco es vendido a una escuela de gladiadores donde le adiestran para combatir en la arena de los circos romanos. Pronto, Espartaco lidera una rebelión por el maltrato sufrido.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/aheSIG4h3JNxWeDvdb1NxKzgjaM.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10713&trtype=1"
+  ]
+}

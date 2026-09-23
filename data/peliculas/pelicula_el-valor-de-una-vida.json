@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/el-valor-de-una-vida/",
+  "tipo": "pelicula",
+  "titulo": "El valor de una vida",
+  "titulo_original": "Iceman",
+  "fecha_lanzamiento": "13-04-1984",
+  "generos": [
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "directores": [
+    "Christine Wilson",
+    "Dar Robinson",
+    "Fred Schepisi",
+    "Jim Van Wyck",
+    "Warren Carr"
+  ],
+  "sinopsis": "Un antropólogo que forma parte de una expedición científica en la Antártida descubre el cuerpo aún vivo de un hombre de Neanderthal de unos 40.000 años de edad e intentará defenderlo de otros miembros de la expedición que pretenden diseccionarlo en nombre de la ciencia.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/2YUfIMpvtTbLbC8CdVvKfCEmpDW.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=7952&trtype=1"
+  ]
+}

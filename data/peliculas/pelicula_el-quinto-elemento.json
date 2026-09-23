@@ -1,0 +1,36 @@
+{
+  "url": "https://retrotve.com/pelicula/el-quinto-elemento/",
+  "tipo": "pelicula",
+  "titulo": "El quinto elemento",
+  "titulo_original": "Le Cinquième Élément",
+  "fecha_lanzamiento": "02-05-1997",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "directores": [
+    "Aimée Peyronnet",
+    "Camille Lipmann",
+    "Chris Carreras",
+    "Cliff Lanning",
+    "Didier Kwak",
+    "Franck Lebreton",
+    "Frédéric Garson",
+    "Jamie Christopher",
+    "Jean Bourne",
+    "Kelly L'Estrange",
+    "Kevin Westley",
+    "Luc Besson",
+    "Pascal Chaumeil",
+    "Robert Grayson",
+    "Simon Downes",
+    "Sue Field",
+    "Susan Inge Wood"
+  ],
+  "sinopsis": "Cada 5.000 años se abre una puerta entre las dimensiones. En una dimensión existe el Universo y la vida. En la otra dimensión existe un elemento que no está hecho ni de tierra, ni de fuego, ni de aire, ni de agua, sino que es una anti-energía, la anti-vida: es el quinto elemento.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/wgvc3PmjQGtYYDWaeuV867mnFDs.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10659&trtype=1"
+  ]
+}

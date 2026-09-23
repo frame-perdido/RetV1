@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/el-hijo-de-frankenstein/",
+  "tipo": "pelicula",
+  "titulo": "El hijo de Frankenstein",
+  "titulo_original": "Son of Frankenstein",
+  "fecha_lanzamiento": "13-01-1939",
+  "generos": [
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "Rowland V. Lee"
+  ],
+  "sinopsis": "De vuelta al ancestral castillo 25 años después de la muerte del monstruo, el hijo del doctor Frankenstein conoce a Ygor, un pastor loco que esconde a la terrible criatura. Buscando limpiar el nombre de la familia, revive al monstruo y lo intenta rehabilitar.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/noPimCh5NL1YIyJvQ7eN6gXKK8X.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8054&trtype=1"
+  ]
+}

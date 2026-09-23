@@ -1,0 +1,28 @@
+{
+  "url": "https://retrotve.com/pelicula/alien%c2%b3/",
+  "tipo": "pelicula",
+  "titulo": "Alien³",
+  "titulo_original": "Alien³",
+  "fecha_lanzamiento": "22-05-1992",
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "Chris Carreras",
+    "David Fincher",
+    "Jamie Christopher",
+    "Josh McLaglen",
+    "June Randall",
+    "Ken Shane",
+    "Marcia Gay",
+    "Martin Brierley",
+    "Richard Styles"
+  ],
+  "sinopsis": "Tras conseguir escapar con Newt, Hicks y Bishop de un planeta alienígena, la teniente Ellen Ripley recala accidentalmente en Fiorina 161, una remota cárcel galáctica cuyos peligrosos reclusos están absolutamente abandonados a su suerte.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/nEmOmbCWBXS3tHU2N49z693KDK.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10663&trtype=1"
+  ]
+}

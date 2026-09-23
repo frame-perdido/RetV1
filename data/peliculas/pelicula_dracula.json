@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/dracula/",
+  "tipo": "pelicula",
+  "titulo": "Drácula",
+  "titulo_original": "Dracula",
+  "fecha_lanzamiento": "13-06-1974",
+  "generos": [
+    "Drama",
+    "Película de TV",
+    "Romance",
+    "Terror"
+  ],
+  "directores": [
+    "Angela Allen",
+    "Dan Curtis",
+    "Derek Kavanagh"
+  ],
+  "sinopsis": "Jonathan Harker viaja a Transilvania para cerrar un negocio inmobiliario con un misterioso conde que acaba de comprar varias propiedades en Londres. Después de un viaje preñado de ominosas señales, Harker es recogido en el Paso de Borgo por un siniestro carruaje que le lleva al castillo del conde.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/jZlXhthXPM5Toy7G0BC6YAEhJz7.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10948&trtype=1"
+  ]
+}

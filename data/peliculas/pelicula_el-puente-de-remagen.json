@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/el-puente-de-remagen/",
+  "tipo": "pelicula",
+  "titulo": "El puente de Remagen",
+  "titulo_original": "The Bridge at Remagen",
+  "fecha_lanzamiento": "25-06-1969",
+  "generos": [
+    "Acción",
+    "Bélica"
+  ],
+  "directores": [
+    "John Guillermin"
+  ],
+  "sinopsis": "Fin de la II Guerra Mundial, 1945. Los aliados realizan el último avance en territorio alemán, pero queda un puente, situado en un lugar estratégico sobre el Rhin, que todavía permanece en manos de los nazis. Los dos bandos tienen mucho que ganar: los alemanes, la vida de 50.000 soldados apostados en el lado equivocado del puente. los aliados: la aceleración del fin de la guerra, con el menor número posible de bajas. Aunque ambos ejércitos luchan valientemente, sólo uno podrá ganar la batalla de “El puente de Remagen”.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/dR4QmjDof7w2vqulfsSthYt9ktF.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10698&trtype=1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/django/",
+  "tipo": "pelicula",
+  "titulo": "Django",
+  "titulo_original": "Django",
+  "fecha_lanzamiento": "05-04-1966",
+  "generos": [
+    "Acción",
+    "Western"
+  ],
+  "directores": [
+    "Ruggero Deodato",
+    "Sergio Corbucci"
+  ],
+  "sinopsis": "El mercenario y ex-soldado yankee Django (Nero) llega a un desértico pueblo mexicano con un ataúd. Su objetivo: la venganza contra el mayor Jackson. Un spaghetti-western originalmente prohibido en Inglaterra por su violencia… Fan declarado del film, Quentin Tarantino “copió” la escena donde un general le rebana la oreja a un predicador para su “Reservoir Dogs” y en 2012 estrenó “Django Unchained”, una película que homenajea a ésta usando su música entre otros elementos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/emAXJbyBPcMpLeK2OdlgqIHORT2.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8398&trtype=1"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/alta-sociedad/",
+  "tipo": "pelicula",
+  "titulo": "Alta sociedad",
+  "titulo_original": "High Society",
+  "fecha_lanzamiento": "17-07-1956",
+  "generos": [
+    "Comedia",
+    "Música",
+    "Romance"
+  ],
+  "directores": [
+    "Arvid Griffen",
+    "Charles Walters"
+  ],
+  "sinopsis": "Tracy va a contraer matrimonio por segunda vez. Sin embargo, su primer marido se da cuenta de que sigue locamente enamorado de ella e intenta conseguir que vuelva a su lado. Remake de la mítica ‘Historias de Filadelfia’, adornada con un espléndido reparto y las canciones de Bing Crosby.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/onUq9yfiBreEd7XrjETGqiJc7y0.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8028&trtype=1"
+  ]
+}

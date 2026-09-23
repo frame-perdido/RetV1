@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/escape-a-la-victoria/",
+  "tipo": "pelicula",
+  "titulo": "Escape a la victoria",
+  "titulo_original": "Escape to Victory",
+  "fecha_lanzamiento": "17-06-1981",
+  "generos": [
+    "Bélica",
+    "Drama"
+  ],
+  "directores": [
+    "John Huston"
+  ],
+  "sinopsis": "Segunda Guerra Mundial, año 1943. El comandante del campo de concentración de Gensdorff (Max von Sydow), que antes de la guerra había formado parte de la selección alemana de fútbol, se interesa por un un grupo de prisioneros que practican este deporte. Se le ocurre entonces la idea de organizar un partido en el que se enfrenten una selección alemana y una selección formada por prisioneros de guerra. Aunque al principio los aliados rechazan la propuesta, al final aceptan el desafío.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/cWOpRLx5Fzz92D3zdesIcsQQxX9.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=7972&trtype=1"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/el-cuervo/",
+  "tipo": "pelicula",
+  "titulo": "El cuervo",
+  "titulo_original": "The Crow",
+  "fecha_lanzamiento": "11-05-1994",
+  "generos": [
+    "Acción",
+    "Fantasía",
+    "Suspense"
+  ],
+  "directores": [
+    "Alex Proyas",
+    "Andrew Mason",
+    "Cornelia 'Nini' Rogan",
+    "Randall LaFollette",
+    "Steve E. Andrews"
+  ],
+  "sinopsis": "Eric Draven y Shelly Websyter están a punto de casarse, pero la noche antes del enlace son asesinados brutalmente. Un año después, el alma de Eric vuelve a la Tierra en forma de cuervo para vengarse.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/cLqvQbP2utIKHRonwXnDjY3l1kk.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11080&trtype=1"
+  ]
+}

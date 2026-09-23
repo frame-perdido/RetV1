@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/bajo-el-planeta-de-los-simios/",
+  "tipo": "pelicula",
+  "titulo": "Bajo a el planeta de los simios",
+  "titulo_original": "Beneath the Planet of the Apes",
+  "fecha_lanzamiento": "23-04-1970",
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Misterio"
+  ],
+  "directores": [
+    "Chuck Roberson",
+    "Ted Post"
+  ],
+  "sinopsis": "El único sobreviviente de una misión de rescate interplanetario busca al único sobreviviente de la expedición anterior. Descubre un planeta gobernado por simios y una ciudad subterránea dirigida por humanos telepáticos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/yaF8gcZmtT55CMpvDsdDkMmDoDL.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8088&trtype=1"
+  ]
+}

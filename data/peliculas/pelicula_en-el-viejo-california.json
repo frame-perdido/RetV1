@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/en-el-viejo-california/",
+  "tipo": "pelicula",
+  "titulo": "En el viejo California",
+  "titulo_original": "In Old California",
+  "fecha_lanzamiento": "31-05-1942",
+  "generos": [
+    "Acción",
+    "Romance",
+    "Western"
+  ],
+  "directores": [
+    "Kenneth Holmes",
+    "William C. McGann"
+  ],
+  "sinopsis": "Tom Craig (John Wayne) llega a Sacramento (California) con el fin de establecer allí una farmacia. Pero la ciudad está dominada por Britt Dawson (Albert Dekker), y muy pronto estallará la guerra entre ambos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/aNUN8D9Ga6YAPa34kkj8EjbtjrH.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8375&trtype=1"
+  ]
+}

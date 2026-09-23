@@ -1,0 +1,33 @@
+{
+  "url": "https://retrotve.com/pelicula/dr-dolittle/",
+  "tipo": "pelicula",
+  "titulo": "Dr. Dolittle",
+  "titulo_original": "Doctor Dolittle",
+  "fecha_lanzamiento": "26-06-1998",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "directores": [
+    "Benita Brazier",
+    "Betty Thomas",
+    "Donald Sparks",
+    "Ernie F. Orsatti",
+    "Jon Farhat",
+    "Julie Herrin",
+    "Kris Krengel",
+    "Mads Hansen",
+    "Marvel Wakefield",
+    "Richard Graves",
+    "Sarah Auerswald",
+    "Shery Blanc",
+    "Susan J. Hellmann",
+    "Tamu Blackwell"
+  ],
+  "sinopsis": "Un cirujano que posee la facultad de entender el lenguaje de los animales intentará solucionar sus problemas personales y los de los más diversos animales que acuden a su consulta.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/kqUjxYB209bPN0DpfXZuR9E4ERW.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11202&trtype=1"
+  ]
+}

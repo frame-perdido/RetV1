@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/barrabas/",
+  "tipo": "pelicula",
+  "titulo": "Barrabás",
+  "titulo_original": "Barabbas",
+  "fecha_lanzamiento": "23-12-1961",
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Richard Fleischer"
+  ],
+  "sinopsis": "Barrabás es indultado por petición del pueblo de Jerusalén. Jesucristo es crucificado, produciéndose fenómenos naturales extraños de los que Barrabás es testigo, como la crucifixión, resurrección o negación de San Pedro.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/4tVL360DCWMcCmBnw12AFbB5cNQ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10576&trtype=1"
+  ]
+}

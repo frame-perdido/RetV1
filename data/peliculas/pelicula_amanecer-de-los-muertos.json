@@ -1,0 +1,31 @@
+{
+  "url": "https://retrotve.com/pelicula/amanecer-de-los-muertos/",
+  "tipo": "pelicula",
+  "titulo": "Amanecer de los muertos",
+  "titulo_original": "Dawn of the Dead",
+  "fecha_lanzamiento": "19-03-2004",
+  "generos": [
+    "Acción",
+    "Terror"
+  ],
+  "directores": [
+    "Adam Bocknek",
+    "Clay Staub",
+    "Dug Rotstein",
+    "Eric S. Potechin",
+    "Joel Hay",
+    "Jordana Lieberman",
+    "Michael G. Burke",
+    "Peter D. Marshall",
+    "Raymond J. Duff",
+    "Sheena Macdonald",
+    "Sheona McDonald",
+    "Steven Buhai",
+    "Zack Snyder"
+  ],
+  "sinopsis": "Un grupo de supervivientes se refugia en un centro comercial tras una epidemia que ha convertido a la mayoría de la población en zombis. El líder del grupo es el policía Kenneth Hall (Ving Rhames), que junto con otros personajes como la enfermera Ana Clark (Sarah Polley), el vendedor Michael (Jake Weber) o el experto en armas Andy (Bruce Bohne) intenta sobrevivir y escapar de los muertos vivientes. El grupo tendrá que enfrentarse a los zombis, a otros supervivientes hostiles y a sus propios conflictos internos, mientras busca una salida y una esperanza.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/rspbS1E9wJtslrb8amfJgtMBUVh.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10977&trtype=1"
+  ]
+}

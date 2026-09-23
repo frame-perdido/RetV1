@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/eduardo-manostijeras/",
+  "tipo": "pelicula",
+  "titulo": "Eduardo Manostijeras",
+  "titulo_original": "Edward Scissorhands",
+  "fecha_lanzamiento": "07-12-1990",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Romance"
+  ],
+  "directores": [
+    "Francis J. Conway",
+    "Jerry Fleck",
+    "Marilyn Bailey",
+    "Tim Burton"
+  ],
+  "sinopsis": "Érase una vez… un castillo donde vivía un inventor que dedicó parte de su vida a crear una criatura perfecta a la que llamó Edward. Pero el inventor murió de repente y dejó incompleta su creación, ya que en vez de dedos tenía unas horribles manos con hojas de tijera. El pobre Edward vivía sólo en el castillo hasta que una encantadora joven, que trabajaba para la firma Avon, lo llevó a su casa junto con su familia. Pero una criatura tan especial como Edward no estaba preparada para vivir en una ciudad tan extravagante y falsa como Suburbia.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/3Nn5BOM1EVw1IYrv6MsbOS6N1Ol.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10765&trtype=1"
+  ]
+}

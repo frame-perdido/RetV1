@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/caracortada/",
+  "tipo": "pelicula",
+  "titulo": "Caracortada",
+  "titulo_original": "Scarface",
+  "fecha_lanzamiento": "09-12-1983",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "directores": [
+    "Brian De Palma",
+    "Chris Soldo",
+    "Jerry Ziesmer"
+  ],
+  "sinopsis": "Tony Montana es un emigrante cubano frío e implacable que se instala en Miami con el propósito de convertirse en un gángster importante, y poder así ganar dinero y posición. Con la colaboración de su amigo Manny Rivera inicia una fulgurante carrera delictiva, como traficante de cocaína, con el objetivo de acceder a la cúpula de una organización de narcos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/sctvs9cUwJD15qlTlrsh2BXsK75.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8111&trtype=1"
+  ]
+}

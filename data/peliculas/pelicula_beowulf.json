@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/beowulf/",
+  "tipo": "pelicula",
+  "titulo": "Beowulf",
+  "titulo_original": "Beowulf",
+  "fecha_lanzamiento": "05-11-2007",
+  "generos": [
+    "Acción",
+    "Animación",
+    "Aventura"
+  ],
+  "directores": [
+    "Harald Kraut",
+    "Josh McLaglen",
+    "Luca Kouimelis",
+    "Maria Battle Campbell",
+    "Robert Zemeckis",
+    "Steve Starkey"
+  ],
+  "sinopsis": "El guerrero Beowulf debe luchar y derrotar al monstruo Grendel, quien está aterrorizando a Dinamarca, y más tarde a la Madre de Grendel, que busca venganza.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lIruQxRCxw5ZI3CmBL6VxwpKtUe.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11022&trtype=1"
+  ]
+}

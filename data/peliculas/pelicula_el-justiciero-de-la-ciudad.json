@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/el-justiciero-de-la-ciudad/",
+  "tipo": "pelicula",
+  "titulo": "El justiciero de la ciudad",
+  "titulo_original": "Death Wish",
+  "fecha_lanzamiento": "24-07-1974",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama"
+  ],
+  "directores": [
+    "Barbara Robinson",
+    "Charles Okun",
+    "Howard Himmelstein",
+    "Larry Y. Albucher",
+    "Michael Winner",
+    "Ralph S. Singleton"
+  ],
+  "sinopsis": "Tras sufrir una brutal agresión su mujer y su hija, Paul Kersey, un ciudadano normal de Nueva York, decide vengarse acosando a todos los delincuentes de la ciudad que actúan por la noche.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/gTO4GgaQDn5msqOvX6LeTj6H7CR.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10825&trtype=1"
+  ]
+}

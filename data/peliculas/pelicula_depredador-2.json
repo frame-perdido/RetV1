@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/depredador-2/",
+  "tipo": "pelicula",
+  "titulo": "Depredador 2",
+  "titulo_original": "Predator 2",
+  "fecha_lanzamiento": "21-11-1990",
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "directores": [
+    "Christopher T. Gerrity",
+    "J. Tom Archuleta",
+    "Josh McLaglen",
+    "Robert Grasmere",
+    "Sonny P. Filippini",
+    "Stephen Hopkins"
+  ],
+  "sinopsis": "Un grupo de policías de Los Angeles se enfrenta a un misterioso asesino que descuartiza a sus víctimas con un salvajismo inusitado. Pronto, el jefe del grupo, el capitán Harrigan, descubrirá que su enemigo es un alienígena llegado a la Tierra con el único propósito de practicar la caza.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/7PoWlbQg7ZxgwofFRrkytvpLvJD.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11383&trtype=1"
+  ]
+}

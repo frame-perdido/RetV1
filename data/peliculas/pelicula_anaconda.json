@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/anaconda/",
+  "tipo": "pelicula",
+  "titulo": "Anaconda",
+  "titulo_original": "Anaconda",
+  "fecha_lanzamiento": "11-04-1997",
+  "generos": [
+    "Aventura",
+    "Suspense",
+    "Terror"
+  ],
+  "directores": [
+    "Beau Marks",
+    "K.C. Colwell",
+    "Lisanne Sartor",
+    "Luis Llosa",
+    "Xochi Blymyer"
+  ],
+  "sinopsis": "En Anaconda, un equipo de cine documental dirigido por el antropólogo Steven Cale (Eric Stoltz) y la directora Terri Flores (Jennifer Lopez) entra en el misterioso mundo del Amazonas para buscar a los legendarios indios shirishama. El cámara Danny (Ice Cube) se huele el peligro cuando el equipo recoge a un sospechoso pasajero: Paul Sarone (Jon Voight), un “hombre del río” carismático y solitario cuyos supuestos conocimientos sobre los shirishama atraen al equipo. Pero el motivo de Sarone para llevar al equipo a las profundidades del río es su oscura búsqueda de una letal anaconda de 12 metros, y lo sacrificará todo y a todos para encontrar a su rival. La expedición se convierte en una pesadilla en la jungla cuando Sarone lleva al equipo directamente a las fauces de la serpiente asesina y deben recurrir a sus recursos más primarios para sobrevivir.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/94KpGOnZckDk6UQE9bThjnlDWcg.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11341&trtype=1"
+  ]
+}

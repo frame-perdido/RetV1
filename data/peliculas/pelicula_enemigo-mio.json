@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/enemigo-mio/",
+  "tipo": "pelicula",
+  "titulo": "Enemigo mío",
+  "titulo_original": "Enemy Mine",
+  "fecha_lanzamiento": "12-12-1985",
+  "generos": [
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "directores": [
+    "Albrecht von Bethmann",
+    "Bert Batt",
+    "Gerd Huber",
+    "Hannes Nikel",
+    "Robert Hottarek",
+    "Thomas Jauch",
+    "Wolfgang Petersen"
+  ],
+  "sinopsis": "Enemigos por instinto, amigos por necesidad, un humano y un alienígena con aspecto de reptil libran en un planeta hostil una dura batalla, parte de la salvaje guerra que enfrenta a la tierra con el planeta Dracon, habitado por seres monstruosos. Esta guerra alcanza una dimensión que puede poner en peligro la supervivencia de ambos planetas y puede conducir al exterminio total, pero sólo forzados a confiar el uno en el otro conseguirán sobrevivir.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/hw9u6P2k3Eaun0CvGYLCAJziN4h.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8227&trtype=1"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/dos-mulas-y-una-mujer/",
+  "tipo": "pelicula",
+  "titulo": "Dos mulas y una mujer",
+  "titulo_original": "Two Mules for Sister Sara",
+  "fecha_lanzamiento": "02-03-1970",
+  "generos": [
+    "Aventura",
+    "Romance",
+    "Western"
+  ],
+  "directores": [
+    "Don Siegel",
+    "Joseph C. Cavalier",
+    "Manuel Muñoz 'Torito'",
+    "René Cardona"
+  ],
+  "sinopsis": "En México ha estallado la guerra entre los seguidores de Juárez y las tropas francesas del emperador Maximiliano de Austria. Hogan, un duro mercenario, salva a una monja del ataque de unos malhechores. Juntos emprenden un accidentado viaje en el que, a pesar de sus diferencias, quedará de manifiesto que tienen mucho en común.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/A3FXi0fWl2q0LIK4RVSE3aH8Y09.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11160&trtype=1"
+  ]
+}

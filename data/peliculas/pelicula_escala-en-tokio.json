@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/escala-en-tokio/",
+  "tipo": "pelicula",
+  "titulo": "Escala en Tokio",
+  "titulo_original": "Stopover Tokyo",
+  "fecha_lanzamiento": "28-11-1957",
+  "generos": [
+    "Acción",
+    "Romance",
+    "Suspense"
+  ],
+  "directores": [
+    "Richard L. Breen"
+  ],
+  "sinopsis": "Un agente de inteligencia estadounidense es enviado a Tokio para localizar una red de espionaje comunista.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lcbuzSSZ2r6ByXEsh4cVWRqLFzF.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10969&trtype=1"
+  ]
+}

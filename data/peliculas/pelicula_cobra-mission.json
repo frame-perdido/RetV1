@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/cobra-mission/",
+  "tipo": "pelicula",
+  "titulo": "Cobra Mission",
+  "titulo_original": "Cobra Mission",
+  "fecha_lanzamiento": "31-07-1986",
+  "generos": [
+    "Acción",
+    "Aventura"
+  ],
+  "directores": [
+    "Fabrizio De Angelis",
+    "Peter Dolan"
+  ],
+  "imagen_hd": "//image.tmdb.org/t/p/w780/1bg5I0kj2CQhDwZ0Q7cNegl2sgl.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10886&trtype=1"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "url": "https://retrotve.com/pelicula/centurion/",
+  "tipo": "pelicula",
+  "titulo": "Centurión",
+  "titulo_original": "Centurion",
+  "fecha_lanzamiento": "15-02-2010",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "directores": [
+    "Anwen Bull",
+    "Caroline O'Reilly",
+    "Dan Winch",
+    "Harriet Worth",
+    "Ian D. Fleming",
+    "John William Turner",
+    "Laura Hulmes",
+    "Neil Marshall",
+    "Phil Booth",
+    "Sarah Hood",
+    "Simon Aguirre",
+    "Sylvia Parker"
+  ],
+  "sinopsis": "Bretaña, año 117 de nuestra era. Un grupo de soldados romanos lucha por salvar sus vidas después de que la legión se vea mermada tras un ataque de la guerrilla local. Los valientes soldados componían nada menos que la 9ª legión, la más legendaria por su dureza, pero las cosas no salieron como planeaban. Ahora tan sólo quedan unos cuantos supervivientes, liderados por Quintus Dias (Michael Fassbender) y su misión es resistir hasta conseguir llegar a la frontera, antes que las hordas guerreras de la fiera y vengativa Etain (Olga Kurylenko) acabe con todos ellos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/ewJTP76oGiJ85x9kM8buETLVZqe.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11828&trtype=1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/creep/",
+  "tipo": "pelicula",
+  "titulo": "La Criatura",
+  "titulo_original": "Creep",
+  "fecha_lanzamiento": "10-08-2004",
+  "generos": [
+    "Misterio",
+    "Suspense",
+    "Terror"
+  ],
+  "directores": [
+    "Christopher Smith",
+    "Elizabeth Tremblay",
+    "Max Keene"
+  ],
+  "sinopsis": "Londres. Una fría noche invernal, Kate va a coger el metro y, mientras espera en un banco del andén, se queda dormida. Cuando se despierta, se da cuenta de que todo el mundo ha desaparecido. Presa del pánico, intenta salir de la estación, pero todas las salidas están cerradas. De pronto, llega un tren completamente vacío, y ella sube. De repente, el convoy se detiene en mitad del túnel y su vagón se queda a oscuras. A Kate la esperan sucesos terroríficos que pondrán a prueba su cordura.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/ooPtDdWP2nuYCoyLJAVwdthf5dN.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11040&trtype=1"
+  ]
+}

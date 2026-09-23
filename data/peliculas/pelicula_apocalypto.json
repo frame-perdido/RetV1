@@ -1,0 +1,31 @@
+{
+  "url": "https://retrotve.com/pelicula/apocalypto/",
+  "tipo": "pelicula",
+  "titulo": "Apocalypto",
+  "titulo_original": "Apocalypto",
+  "fecha_lanzamiento": "07-12-2006",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Adrian Grünberg",
+    "Andrea Alvarez",
+    "Berenice Manjarrez Vericat",
+    "Bernardo Jasso",
+    "Israel Pasco",
+    "Lucy Thomas",
+    "Mel Gibson",
+    "Mic Rodgers",
+    "Sarah Hood",
+    "Sean Lovell",
+    "Stacy Perskie",
+    "Sylvie Chesneau"
+  ],
+  "sinopsis": "Historia ambientada en la época del imperio maya. Cuando la idílica existencia de los mayas es brutalmente interrumpida por el ataque de una fuerza invasora, un hombre emprende un arriesgado viaje a un mundo regido por el miedo y la opresión en el que le espera un incierto final. Debido a un giro del destino y espoleado por el amor a su esposa y a su familia, emprenderá el regreso a su hogar en un desesperado esfuerzo por preservar su forma de vida…",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/l7XRMURNroPYajcqLlWxyzUlucW.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11155&trtype=1"
+  ]
+}

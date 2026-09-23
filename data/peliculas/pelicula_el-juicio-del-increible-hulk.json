@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/el-juicio-del-increible-hulk/",
+  "tipo": "pelicula",
+  "titulo": "El juicio del increíble Hulk",
+  "titulo_original": "The Trial of the Incredible Hulk",
+  "fecha_lanzamiento": "07-05-1989",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción",
+    "Drama",
+    "Fantasía",
+    "Película de TV"
+  ],
+  "directores": [
+    "Bill Bixby",
+    "Lee Knippelberg",
+    "Richard Cowan"
+  ],
+  "sinopsis": "David Banner llega a Nueva York y se sube al metro. Con él van una mujer y dos tipos. Cuando los dos tipos atacan a la mujer, David intenta ayudar pero es golpeado y se convierte en Hulk y salva a la mujer. Cuando vuelve, se encuentra con que ha sido arrestado y la mujer acusa a David de ser su atacante.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/apshJk3Dp2WG4DO3ZzovyXlWwX6.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12350&trtype=1"
+  ]
+}

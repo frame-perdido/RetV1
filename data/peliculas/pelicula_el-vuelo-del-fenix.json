@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/el-vuelo-del-fenix/",
+  "tipo": "pelicula",
+  "titulo": "El vuelo del Fénix",
+  "titulo_original": "Flight of the Phoenix",
+  "fecha_lanzamiento": "17-12-2004",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "directores": [
+    "Danny Green",
+    "Ferdi Burger",
+    "Jimmy N. Roberts",
+    "John Moore",
+    "Julian Wall",
+    "Nada Pinter"
+  ],
+  "sinopsis": "1 Accidente. 10 Supervivientes. A 3.000 millas de la civilización. Un grupo de supervivientes de un accidente de aviación se encuentra perdido en medio del desierto del Gobi sin ninguna posibilidad de ser rescatados. Su única esperanza es lograr lo “imposible”: construir un nuevo aparato con los restos del avión accidentado para salir del desierto. Todo empezéo cuando el piloto del avión de carga Frank Towns y su copiloto AJ son enviados a Tan sag Basin, en Mongolia, para evacuar a la plantilla de una operación de exploración de hidrocarburos que se ha cancelado. Ambos no tienen ni idea de que esta misión rutinaria se va a convertir en una lucha a vida o muerte, haciendo cambiar por completo todos sus planteamientos de vida.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/mWXU29QjfjEG37d0c2hE11MWRGq.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10973&trtype=1"
+  ]
+}

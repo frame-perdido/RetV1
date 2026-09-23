@@ -1,0 +1,30 @@
+{
+  "url": "https://retrotve.com/pelicula/el-reino-de-los-cielos1/",
+  "tipo": "pelicula",
+  "titulo": "El reino de los cielos",
+  "titulo_original": "Kingdom of Heaven",
+  "fecha_lanzamiento": "03-05-2005",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Adil Abdelwahab",
+    "Akrame El Meziane",
+    "Alex Kirby",
+    "Anna Worley",
+    "Hugh Johnson",
+    "Ian Stone",
+    "Ridley Scott",
+    "Tarik Ait Ben Ali",
+    "William Dodds"
+  ],
+  "sinopsis": "Balián de Ibelín viaja a Jerusalén durante las cruzadas del siglo XII, donde será el defensor de su pueblo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/kP8rK9dGS1pr0HrnmXfIi2heWjo.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11521&trtype=1"
+  ]
+}

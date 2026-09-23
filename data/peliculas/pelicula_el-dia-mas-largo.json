@@ -1,0 +1,33 @@
+{
+  "url": "https://retrotve.com/pelicula/el-dia-mas-largo/",
+  "tipo": "pelicula",
+  "titulo": "El día más largo",
+  "titulo_original": "The Longest Day",
+  "fecha_lanzamiento": "25-09-1962",
+  "generos": [
+    "Acción",
+    "Bélica",
+    "Drama"
+  ],
+  "directores": [
+    "Andrew Marton",
+    "Bernard Farrel",
+    "Bernhard Wicki",
+    "Elmo Williams",
+    "Gérard Renateau",
+    "Gerd Oswald",
+    "Henry Sokal Jr.",
+    "Henry Wise",
+    "Jean Herman",
+    "Ken Annakin",
+    "Louis Pitzele",
+    "Lucie Lichtig",
+    "Romain Gary",
+    "Tom Pevsner"
+  ],
+  "sinopsis": "Reconstrucción con todo lujo de detalles de uno de los episodios claves para el desarrollo de la II Guerra Mundial: el desembarco en las playas de Normandía llevado a cabo por las tropas aliadas en junio de 1944.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/6NaqvOx3XnmnYZjPRzLYdd8UzV3.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10694&trtype=1"
+  ]
+}

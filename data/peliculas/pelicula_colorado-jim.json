@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/colorado-jim/",
+  "tipo": "pelicula",
+  "titulo": "Colorado Jim",
+  "titulo_original": "The Naked Spur",
+  "fecha_lanzamiento": "30-01-1953",
+  "generos": [
+    "Western"
+  ],
+  "directores": [
+    "Anthony Mann",
+    "Carl Roup",
+    "Howard W. Koch"
+  ],
+  "sinopsis": "Durante la guerra Civil (1861-1865), Howard Kemp (James Stewart) pierde su granja mientras lucha en el frente. Con el fin de reunir el dinero suficiente para recuperarla, trabaja como cazarrecompensas en el territorio de Colorado. Su primer objetivo será Ben Vandergroat (Robert Ryan), acusado de asesinar a un sherif. Tras acorralarlo en las Montañas Rocosas, se unen a él dos hombres que buscan compartir la jugosa recompensa: un viejo buscador de oro y un desertor del ejército de la Unión.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/guV7wy9JWUkR5Ut86t1Mqg5ADMk.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10761&trtype=1"
+  ]
+}

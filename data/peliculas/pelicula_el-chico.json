@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/el-chico/",
+  "tipo": "pelicula",
+  "titulo": "El Chico",
+  "titulo_original": "The Kid",
+  "fecha_lanzamiento": "21-01-1921",
+  "generos": [
+    "Comedia",
+    "Drama"
+  ],
+  "directores": [
+    "Charlie Chaplin"
+  ],
+  "sinopsis": "Una mujer londinense, sumamente pobre, se ve en la necesidad de abandonar a su hijo en una casa de millonarios, aunque por una serie de circustancias el niño terminará siendo cuidado por un vagabundo que se convierte así en su padre. Cinco años después, y con la madre convertida en una popular cantante, el destino tratará de separarlos…",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/mAhCW7QbpL5kwvCWGsfyY3ILoW6.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11925&trtype=1"
+  ]
+}

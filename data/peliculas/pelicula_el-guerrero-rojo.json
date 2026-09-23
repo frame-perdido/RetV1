@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/el-guerrero-rojo/",
+  "tipo": "pelicula",
+  "titulo": "El guerrero rojo",
+  "titulo_original": "Red Sonja",
+  "fecha_lanzamiento": "09-04-1985",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "directores": [
+    "Francesca Roberti",
+    "Richard Fleischer"
+  ],
+  "sinopsis": "La malvada reina Gedren arrasa la aldea de Hablac, llevándose con ella un talismán que le ofrece gran poder. Sonja es la hermana de la guardiana del talismán, asesinada durante el asalto. En busca de venganza, inicia un viaje para recuperar el talismán y asesinar a Gedren. Kalidor la sigue para cuidar de ella, pese a que ello entraña un gran riesgo, debido a la atracción que existe entre ambos, y a que los poderes de Sonja tienen una debilidad: desaparecerán si pierde su virginidad.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/iWFnany1vDQ4EoBgvm7E3Pb0RyS.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11286&trtype=1"
+  ]
+}

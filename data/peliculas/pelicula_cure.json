@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/cure/",
+  "tipo": "pelicula",
+  "titulo": "Cure",
+  "titulo_original": "キュア",
+  "fecha_lanzamiento": "27-12-1997",
+  "generos": [
+    "Crimen",
+    "Misterio",
+    "Suspense",
+    "Terror"
+  ],
+  "directores": [
+    "Kiyoshi Kurosawa"
+  ],
+  "sinopsis": "El policía Takabe investiga unos extraños asesinatos. Las víctimas aparecen con una herida de arma blanca en forma de “x” y los culpables son personas totalmente normales sin ningun motivo para haber cometido el asesinato. Takabe empieza a sospechar que algo está influenciando a la gente para matar.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/xxIRKSd9LmHojUD5grvMuGypwVC.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11876&trtype=1"
+  ]
+}

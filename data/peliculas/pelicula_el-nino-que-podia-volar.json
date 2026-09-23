@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/el-nino-que-podia-volar/",
+  "tipo": "pelicula",
+  "titulo": "El Niño que Podía Volar",
+  "titulo_original": "The Boy Who Could Fly",
+  "fecha_lanzamiento": "15-08-1986",
+  "generos": [
+    "Drama",
+    "Familia",
+    "Fantasía"
+  ],
+  "directores": [
+    "Nick Castle"
+  ],
+  "sinopsis": "La amistad crece entre una adolescente y su vecino, un muchacho autista, quien parece vivir en un mundo propio.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/4GzeZffVYpvfwMbbxVdcpgjaBzV.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=7968&trtype=1"
+  ]
+}

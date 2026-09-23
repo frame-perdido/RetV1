@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/blade/",
+  "tipo": "pelicula",
+  "titulo": "Blade",
+  "titulo_original": "Blade",
+  "fecha_lanzamiento": "21-08-1998",
+  "generos": [
+    "Acción",
+    "Terror"
+  ],
+  "directores": [
+    "Derek Johansen",
+    "Michael Neumann",
+    "Nicole Cummins-Rubio",
+    "Rebecca Strickland",
+    "Stephen Norrington"
+  ],
+  "sinopsis": "En un mundo cohabitado en guerra por hombres y vampiros Blade es un vampiro que, al contrario que el resto, no se alimenta de humanos, y que pretende acabar con la raza de “seres superiores” que mordieron a su madre cuando estaba embarazada.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/hZnnUq0mrUQ3e54SJVca4mf2oAQ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11326&trtype=1"
+  ]
+}

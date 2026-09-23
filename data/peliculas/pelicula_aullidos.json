@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/aullidos/",
+  "tipo": "pelicula",
+  "titulo": "Aullidos",
+  "titulo_original": "The Howling",
+  "fecha_lanzamiento": "21-01-1981",
+  "generos": [
+    "Terror"
+  ],
+  "directores": [
+    "Jack Cummins",
+    "Jeanne Rosenberg",
+    "Joe Dante"
+  ],
+  "sinopsis": "Karen, una popular presentadora de televisión de Los Ángeles, sufre una crisis nerviosa al estar a punto de ser asaltada por un violador. Para superar el trauma sigue el consejo de un psicólogo que le recomienda retirarse a descansar al campo. Viaja entonces a la costa norte de California, y allí su marido sufre un cambio de personalidad al ser atacado por un extraño animal, mitad hombre, mitad lobo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/fXBRuCKSnsGtAUvULvom1DOR8ep.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8412&trtype=1"
+  ]
+}

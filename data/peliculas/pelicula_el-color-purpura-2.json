@@ -1,0 +1,18 @@
+{
+  "url": "https://retrotve.com/pelicula/el-color-purpura-2/",
+  "tipo": "pelicula",
+  "titulo": "El color púrpura",
+  "titulo_original": "The Color Purple",
+  "fecha_lanzamiento": "18-12-1985",
+  "generos": [
+    "Drama"
+  ],
+  "directores": [
+    "Steven Spielberg"
+  ],
+  "sinopsis": "Principios del siglo XX. Narra la historia de Celie, una adolescente negra de catorce años que está embarazada de su propio padre, un hombre despótico y cruel. A partir de entonces su vida estará llena de dolor y humillaciones.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/rhMpAPvoy1beXd8gA6CvYoCSztj.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8245&trtype=1"
+  ]
+}

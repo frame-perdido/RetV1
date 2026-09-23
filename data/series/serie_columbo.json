@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/serie/columbo/",
+  "tipo": "serie",
+  "titulo": "Columbo",
+  "titulo_original": "Columbo",
+  "primera_emision": "15-09-1971",
+  "ultima_emision": "30-01-2003",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Live Action"
+  ],
+  "directores": [
+    "Richard Levinson",
+    "William Link"
+  ],
+  "sinopsis": "El teniente Colombo es un desaliñado y aparentemente despistado detective de policía que, a primera vista, suele ser considerado torpe e inofensivo. Lleva siempre gabardina y un puro mientras investiga y resuelve los casos más sorprendentes.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/d7cH4zt3xoqRQnLqYXMPOrUz5k3.jpg",
+  "temporadas": [],
+  "total_temporadas": 0,
+  "total_episodios": 0
+}

@@ -1,0 +1,107 @@
+{
+  "url": "https://retrotve.com/serie/el-hombre-nuclear/",
+  "tipo": "serie",
+  "titulo": "El Hombre Nuclear",
+  "titulo_original": "The Six Million Dollar Man",
+  "primera_emision": "18-01-1974",
+  "ultima_emision": "06-03-1978",
+  "generos": [
+    "Action & Adventure",
+    "Ci-Fi & Fantasia",
+    "Drama",
+    "Live Action"
+  ],
+  "directores": [
+    "Kenneth Johnson",
+    "Martin Caidin"
+  ],
+  "sinopsis": "Durante un vuelo experimental, Steve Austin, piloto de pruebas y astronauta, sufrió un terrible accidente que le hizo perder las dos piernas, un brazo y la visión del ojo derecho. Su amigo el doctor Rudy Wells trabajaba entonces en un proyecto secreto llamado Biónica (mezcla de BIOlogía y electrÓNICA), gracias al cual los miembros amputados fueron sustituidos por partes biónicas que le dieron a Steve una fuerza y una velocidad enormes además de una visión envidiable. Para compensar a sus benefactores, Steve se hace agente especializado en el cumplimiento de peligrosas misiones.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/bUR931oWPKHfJLCQcab6uwkujku.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24003&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24004&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24005&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24006&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24007&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24008&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=24009&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24010&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24011&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24012&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24013&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24014&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/el-hombre-nuclear-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24015&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 13
+}

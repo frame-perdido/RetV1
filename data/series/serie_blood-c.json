@@ -1,0 +1,100 @@
+{
+  "url": "https://retrotve.com/serie/blood-c/",
+  "tipo": "serie",
+  "titulo": "Blood-C",
+  "titulo_original": "BLOOD-C",
+  "primera_emision": "01-07-2011",
+  "ultima_emision": "30-09-2011",
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Ci-Fi & Fantasia",
+    "Misterio"
+  ],
+  "directores": [
+    "CLAMP"
+  ],
+  "sinopsis": "Un pueblo tranquilo a orillas de un lago. Saya, una adolescente más bien torpe y de buen corazón, vive allí desde que tiene uso de razón rodeada de un padre que la ama y buenos amigos y profesores en clase. Pero su apacible vida a la luz del día se convierte en puro caos cada noche cuando maneja hábilmente su espada para combatir a unas extrañas criaturas con las más diversas formas, pero con un denominador común: se alimentan de seres humanos. Después de cada victoria, regresa a casa empapada de sangre y al día siguiente todo vuelve a la normalidad. Pero pronto comienzan a aparecer pequeñas grietas en su mundo de normalidad anormal e incapaz de conectar los sucesos que la rodean, Saya no se imagina que el verdadero horror aún está por revelarse…",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/5Mn9uQf5mqZ4ZqsZoi7oCcQslUj.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20420&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20421&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20422&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20423&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20424&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20425&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20426&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20427&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20428&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20429&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20430&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/blood-c-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20431&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 12
+}

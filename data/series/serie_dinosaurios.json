@@ -1,0 +1,433 @@
+{
+  "url": "https://retrotve.com/serie/dinosaurios/",
+  "tipo": "serie",
+  "titulo": "Dinosaurios",
+  "titulo_original": "Dinosaurs",
+  "primera_emision": "26-04-1991",
+  "ultima_emision": "10-11-1995",
+  "generos": [
+    "Ci-Fi & Fantasia",
+    "Comedia",
+    "Familia"
+  ],
+  "directores": [
+    "Bob Young",
+    "Michael Jacobs"
+  ],
+  "sinopsis": "Dinosaurios es una serie ambientada en el 60.000.003 aC. que muestra a una familia similar a los Los Simpson (padres, tres hijos y abuela). Los miembros de la familia son dinosaurios representados con características humanas, (viven con televisión, electrodomésticos, hablan, etc.), por lo que se califica como una parodia de nuestra sociedad. La madre es ama de casa, los hijos estudiantes (a excepción del más pequeño) y el padre trabaja como obrero en un bosque.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/rUuUTfGCaQY6sov3w5nrRly7snS.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23420&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23421&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23422&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23423&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada1-episodio5/",
+          "url_directa": null
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23425&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23426&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23427&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23428&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23429&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23430&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23431&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23432&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23433&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23434&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23435&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23436&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23437&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23438&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23439&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23440&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23441&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23442&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23443&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23444&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23445&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23446&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23447&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada2-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23448&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "temporada": 3,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23462&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23463&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23464&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23465&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23466&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23467&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23468&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23469&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23470&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23471&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23472&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23473&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23474&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23475&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23476&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23477&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23478&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23479&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23480&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23481&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23482&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada3-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23483&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "temporada": 4,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23776&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23777&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23778&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23779&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23780&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23781&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23782&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23783&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23784&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23785&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23786&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23787&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23788&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/dinosaurios-temporada4-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=23789&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 4,
+  "total_episodios": 65
+}

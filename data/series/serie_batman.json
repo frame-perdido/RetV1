@@ -1,0 +1,233 @@
+{
+  "url": "https://retrotve.com/serie/batman/",
+  "tipo": "serie",
+  "titulo": "Batman",
+  "titulo_original": "Batman",
+  "primera_emision": "12-01-1966",
+  "ultima_emision": "14-03-1968",
+  "generos": [
+    "Action & Adventure",
+    "Ci-Fi & Fantasia",
+    "Comedia",
+    "Live Action"
+  ],
+  "directores": [
+    "Lorenzo Semple Jr.",
+    "William Dozier"
+  ],
+  "sinopsis": "Con sólo cambiarse de traje, el rico y poderoso Bruce Wayne se transforma en el súper héroe de la ciudad de Gotham : Batman. Con la ayuda de su ayudante Robin , ayudan a la policía en la batalla por capturar a los malvados criminales.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/xGjg5J21pmMabRT4aDd9hyts4kP.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36253&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36254&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36255&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36256&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36257&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36258&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36259&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36260&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36261&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36262&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36263&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36264&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36265&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36266&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36267&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36268&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36269&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36270&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36271&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36272&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36273&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36274&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36275&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36276&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36277&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36278&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio27/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36279&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio28/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36280&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 29,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio29/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36281&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 30,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio30/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36282&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 31,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio31/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36283&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 32,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio32/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36284&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 33,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio33/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36285&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 34,
+          "url_pagina": "https://retrotve.com/seriestv/batman-temporada1-episodio34/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36286&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 34
+}

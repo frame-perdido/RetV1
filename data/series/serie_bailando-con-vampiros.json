@@ -1,0 +1,98 @@
+{
+  "url": "https://retrotve.com/serie/bailando-con-vampiros/",
+  "tipo": "serie",
+  "titulo": "Bailando con vampiros",
+  "titulo_original": "ダンス イン ザ ヴァンパイアバンド",
+  "primera_emision": "07-01-2010",
+  "ultima_emision": "01-04-2010",
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Anime",
+    "Ci-Fi & Fantasia",
+    "Drama"
+  ],
+  "sinopsis": "Tras cientos de años escondidos, Mina Tepes, soberana de todos los vampiros desea un cambio. Usando la inmensa riqueza obtenida a lo largo de centenares de años, decide pagar la deuda externa de Japón a cambio de poseer un distrito propio cerca de la costa el cual se convertirá en el hogar de todos los vampiros. Ahora, en la víspera de la conferencia de prensa que anuncia la existencia de los vampiros al mundo, terroristas y las facciones rivales tratan de asesinar a Mina Tepes antes de que pueda anunciar la existencia de los vampiros.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/7Q3ZU0hyUCJTLm56Lhj6Zxwe0kb.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20640&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20641&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20642&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20643&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20644&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20645&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20646&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20647&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20648&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20649&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20650&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/bailando-con-vampiros-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20651&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 12
+}

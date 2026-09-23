@@ -1,0 +1,465 @@
+{
+  "url": "https://retrotve.com/serie/el-galactico/",
+  "tipo": "serie",
+  "titulo": "El Galáctico",
+  "titulo_original": "El Galáctico",
+  "primera_emision": "02-04-1978",
+  "ultima_emision": "26-08-1979",
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Ci-Fi & Fantasia"
+  ],
+  "directores": [
+    "Leiji Matsumoto"
+  ],
+  "sinopsis": "La energía cósmica de la galaxia está perdiendo fuerza, lo que provoca que animales y plantas se transformen en perversos mutantes. La doctora Sandra y el Profesor Jorquel envían a la Princesa Aurora al Gran Planeta en una misión que intentará restaurar el equilibrio de estas energías. Para ello le asignan el mando de la poderosa nave “Reina del Cosmos”. La protección de la Princesa estará a cargo de 3 cibernéticos: Galáctico, Glotín y Giorgio.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/kBVz2tcSSw6xjVNWxrMagYIJMne.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32776&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32777&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32778&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32779&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32780&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32781&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio7/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32783&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32784&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32785&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio11/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32787&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32788&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32789&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32790&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32791&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32792&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio18/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32794&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32795&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio21/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32797&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32798&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32799&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32800&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32801&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio27/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32802&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio28/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32803&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 29,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio29/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32804&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 30,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio30/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32805&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 31,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio31/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32806&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 32,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio32/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32807&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 33,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio33/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32808&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 34,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio34/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32809&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 35,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio35/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32810&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 36,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio36/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32811&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 37,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio37/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32812&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 38,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio38/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32813&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 39,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio39/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32814&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 40,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio40/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32815&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 41,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio41/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32816&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 42,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio42/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32817&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 43,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio43/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32818&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 44,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio44/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32819&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 45,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio45/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32820&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 46,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio46/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32821&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 47,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio47/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32822&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 48,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio48/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32823&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 49,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio49/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32824&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 50,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio50/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32825&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 51,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio51/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32826&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 52,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio52/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32827&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 53,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio53/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32828&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 54,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio54/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32829&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 55,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio55/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32830&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 56,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio56/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32831&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 57,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio57/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32832&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 58,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio58/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32833&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 59,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio59/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32834&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 60,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio60/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32835&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 61,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio61/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32836&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 62,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio62/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32837&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 63,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio63/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32838&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 64,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio64/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32839&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 65,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio65/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32840&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 66,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio66/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32841&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 67,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio67/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32842&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 68,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio68/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32843&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 69,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio69/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32844&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 70,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio70/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32845&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 71,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio71/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32846&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 72,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio72/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32847&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 73,
+          "url_pagina": "https://retrotve.com/seriestv/el-galactico-temporada1-episodio73/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32848&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 73
+}

@@ -1,0 +1,421 @@
+{
+  "url": "https://retrotve.com/serie/el-inspector-gadget/",
+  "tipo": "serie",
+  "titulo": "El inspector Gadget",
+  "titulo_original": "Inspector Gadget",
+  "primera_emision": "05-09-1983",
+  "ultima_emision": "13-11-1985",
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Ci-Fi & Fantasia",
+    "Comedia",
+    "Kids"
+  ],
+  "directores": [
+    "Andy Heyward",
+    "Bruno Bianchi",
+    "Jean Chalopin"
+  ],
+  "sinopsis": "Serie de dibujos animados protagonizada por un detective torpe y despistado, el Inspector Gadget, que es además un cyborg equipado con varios artilugios (gadgets) colocados por todo su cuerpo. Su principal enemigo es el Dr. Gang, líder de la malvada organización MAD.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/vWaIxifDJeKXq4igHTOE5epqcop.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27141&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27142&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27143&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio4/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27145&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27146&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27147&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27148&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27149&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27150&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27151&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27152&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27153&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27154&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27155&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27156&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27157&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27158&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27159&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27160&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27161&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27162&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27163&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27164&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27165&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27166&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio27/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio28/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27168&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 29,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio29/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27169&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 30,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio30/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27170&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 31,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio31/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28025&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 32,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio32/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28026&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 33,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio33/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28027&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 34,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio34/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28028&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 35,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio35/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28029&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 36,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio36/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28030&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 37,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio37/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28031&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 38,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio38/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28032&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 39,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio39/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28033&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 40,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio40/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28034&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 41,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio41/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28035&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 42,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio42/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28036&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 43,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio43/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28037&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 44,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio44/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28038&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 45,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio45/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28039&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 46,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio46/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28040&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 47,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio47/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28041&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 48,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio48/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28042&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 49,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio49/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28043&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 50,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio50/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28044&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 51,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio51/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28045&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 52,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio52/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28046&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 53,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio53/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28047&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 54,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio54/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28048&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 55,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio55/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28049&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 56,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio56/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28050&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 57,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio57/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28051&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 58,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio58/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28052&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 59,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio59/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28053&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 60,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio60/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28054&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 61,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio61/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28055&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 62,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio62/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28056&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 63,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio63/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28057&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 64,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio64/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28058&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 65,
+          "url_pagina": "https://retrotve.com/seriestv/el-inspector-gadget-temporada1-episodio65/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28059&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 65
+}

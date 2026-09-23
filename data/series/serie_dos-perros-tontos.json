@@ -1,0 +1,107 @@
+{
+  "url": "https://retrotve.com/serie/dos-perros-tontos/",
+  "tipo": "serie",
+  "titulo": "Dos perros tontos",
+  "titulo_original": "Dos Perros Tontos",
+  "primera_emision": "05-09-1993",
+  "ultima_emision": "13-02-1995",
+  "generos": [
+    "Animación",
+    "Ci-Fi & Fantasia",
+    "Comedia",
+    "Familia",
+    "Kids"
+  ],
+  "directores": [
+    "Donovan Cook"
+  ],
+  "sinopsis": "La serie muestra las desventuras de dos perros, uno pequeño y otro grande los cuales no son nada inteligentes, además en algunos episodios los perros interactúan con sus dueños humanos, la serie incluye un segmento del inspector Ardilla.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/qyW97RT9OFwwQJteSQ1FACQfrBD.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29345&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29346&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29347&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29348&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29349&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29350&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29351&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29352&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29353&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29354&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29355&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=29356&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/dos-perros-tontos-temporada1-episodio13/",
+          "url_directa": null
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 13
+}

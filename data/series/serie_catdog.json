@@ -1,0 +1,418 @@
+{
+  "url": "https://retrotve.com/serie/catdog/",
+  "tipo": "serie",
+  "titulo": "CatDog",
+  "titulo_original": "CatDog",
+  "primera_emision": "04-04-1998",
+  "ultima_emision": "15-06-2005",
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "sinopsis": "Los CatDog viven en una casa con forma de pez con un hueso en el pueblo de “Cercaburgo”, que comparten con Tito, un pequeño ratón azul con actitud de niño sabio que los atormenta constantemente. Siempre se meten en problemas con los Grasosos, una pandilla formada por tres perros: el jefe es Kike, mientras que sus dos seguidores son Lube y Chica.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/yKHeZmJTFOp4lbWQE0iRKqKhP5X.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30959&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30960&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30961&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30962&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30963&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30964&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30965&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30966&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30967&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30968&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30969&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30970&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30971&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30972&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30973&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30974&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30975&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30976&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30977&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30978&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31000&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31001&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31002&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31003&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31004&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31005&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31006&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31007&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31008&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31009&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31010&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31011&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31012&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31013&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31014&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31015&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31016&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31017&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31018&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31019&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31082&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31083&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31084&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31085&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31086&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31087&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio27/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31088&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio28/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31089&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 29,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio29/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31090&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 30,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio30/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31091&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 31,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio31/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31092&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 32,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio32/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31093&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 33,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio33/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31094&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 34,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio34/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31095&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 35,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio35/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31096&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 36,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio36/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31097&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 37,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio37/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31098&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 38,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio38/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31099&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 39,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio39/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31100&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 40,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada2-episodio40/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31101&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "temporada": 3,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada3-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31181&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada3-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31182&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada3-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31183&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/catdog-temporada3-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31184&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 3,
+  "total_episodios": 64
+}

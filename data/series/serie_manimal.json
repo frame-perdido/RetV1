@@ -1,0 +1,75 @@
+{
+  "url": "https://retrotve.com/serie/manimal/",
+  "tipo": "serie",
+  "titulo": "Manimal",
+  "titulo_original": "Manimal",
+  "primera_emision": "30-09-1983",
+  "ultima_emision": "17-12-1983",
+  "generos": [
+    "Action & Adventure",
+    "Ci-Fi & Fantasia",
+    "Live Action"
+  ],
+  "directores": [
+    "Glen A. Larson"
+  ],
+  "sinopsis": "Jonathan Chase era un profesor universitario británico en la Universidad de Nueva York que tenía la inusual capacidad de transformarse en cualquier tipo de animal. Usó sus poderes para luchar contra el crimen junto a la bella policía Brooke y su amigo de la guerra de Vietnam Ty.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/51BoopTmVwTchhGFneUHOozlAtB.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/manimal-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27047&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/manimal-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27048&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/manimal-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27049&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/manimal-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27050&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/manimal-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27051&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/manimal-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27052&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/manimal-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27053&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/manimal-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27054&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 8
+}

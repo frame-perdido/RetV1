@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/serie/roma/",
+  "tipo": "serie",
+  "titulo": "Roma",
+  "titulo_original": "Rome",
+  "primera_emision": "28-08-2005",
+  "ultima_emision": "25-03-2007",
+  "generos": [
+    "Action & Adventure",
+    "Drama",
+    "Live Action",
+    "War & Politics"
+  ],
+  "directores": [
+    "Bruno Heller",
+    "John Milius",
+    "William J. MacDonald"
+  ],
+  "sinopsis": "Tambiemetrópoli cosmopolita de un millón de personas, el epicentro de un imperio en expansión. La República se basó en la separación de poderes y creó los mecanismos necesarios para evitar que un solo hombre acumulara demasiado poder. Sin embargo, con el paso del tiempo, la corrupción, el lujo y los excesos fueron carcomiendo esos principios.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/jSZsCkey60fz6BGAmAjkkW6pqx1.jpg",
+  "temporadas": [],
+  "total_temporadas": 0,
+  "total_episodios": 0
+}

@@ -1,0 +1,63 @@
+{
+  "url": "https://retrotve.com/serie/roots/",
+  "tipo": "serie",
+  "titulo": "Raíces",
+  "titulo_original": "Roots",
+  "primera_emision": "23-01-1977",
+  "ultima_emision": "30-01-1977",
+  "generos": [
+    "Drama",
+    "Live Action",
+    "Resubidas"
+  ],
+  "directores": [
+    "Alex Haley"
+  ],
+  "sinopsis": "En 1776, una nación lucha por la libertad – pero no para todos. Kunta Kinte escapa de nuevo y se ve mermada por los cazadores de esclavos. Se casa, gana una hija y pierde a su amigo de mucho tiempo Fiddler. Otra oportunidad para escapar surge, pero Kunta se sacrifica para cuidar de su mujer y el recién nacido",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/7Bs6CVXUmw2VJIfWLXoQd0LDlWJ.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/raices-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21737&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/raices-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21738&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/raices-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21739&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/raices-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21740&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/raices-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21741&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/raices-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21742&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 6
+}

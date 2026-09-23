@@ -1,0 +1,497 @@
+{
+  "url": "https://retrotve.com/serie/pucca/",
+  "tipo": "serie",
+  "titulo": "Pucca",
+  "titulo_original": "Pucca",
+  "primera_emision": "18-09-2006",
+  "ultima_emision": "11-08-2008",
+  "generos": [
+    "Animación",
+    "Ci-Fi & Fantasia",
+    "Comedia",
+    "Kids"
+  ],
+  "directores": [
+    "Boo Kyoung Kim",
+    "Calvin Kim"
+  ],
+  "sinopsis": "Pucca, es una serie de televisión animada. La serie gira en torno a Pucca, de 11 años, una joven que está enamorada y obsesionada con un ninja de 12 años llamado Garu. La serie, Pucca, comenzó a transmitirse por televisión en 2006, con un conjunto de 26 episodios (78 segmentos) en su primera temporada de 2006 y 13 episodios (39 segmentos) en su segunda temporada.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/nfAUOxd3qeZZpfPESIivZOyvije.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30231&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30232&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30233&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30234&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30235&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30236&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30237&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30238&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30239&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30240&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30241&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30242&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30243&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30244&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30245&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30246&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30247&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30248&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30249&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30250&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30251&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30252&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30253&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30254&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30255&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30256&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio27/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30257&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio28/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30258&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 29,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio29/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30259&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 30,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio30/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30260&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 31,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio31/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30261&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 32,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio32/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30262&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 33,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio33/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30263&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 34,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio34/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30264&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 35,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio35/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30265&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 36,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio36/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30266&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 37,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio37/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30267&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 38,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio38/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 39,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio39/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30269&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 40,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio40/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30270&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 41,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio41/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30271&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 42,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio42/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30272&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 43,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio43/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30273&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 44,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio44/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30274&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 45,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio45/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30275&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 46,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio46/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30276&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 47,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio47/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30277&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 48,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio48/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30278&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 49,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio49/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30279&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 50,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio50/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30280&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 51,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio51/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30281&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 52,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio52/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30282&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 53,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio53/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30283&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 54,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio54/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30284&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 55,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio55/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30285&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 56,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio56/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30286&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 57,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio57/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30287&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 58,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio58/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30288&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 59,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio59/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30289&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 60,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio60/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30290&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 61,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio61/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30291&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 62,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio62/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 63,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio63/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30293&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 64,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio64/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 65,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio65/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30295&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 66,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio66/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30296&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 67,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio67/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30297&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 68,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio68/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 69,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio69/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 70,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio70/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30300&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 71,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio71/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30301&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 72,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio72/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30302&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 73,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio73/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30303&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 74,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio74/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30304&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 75,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio75/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 76,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio76/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 77,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio77/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30307&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 78,
+          "url_pagina": "https://retrotve.com/seriestv/pucca-temporada1-episodio78/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30308&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 78
+}

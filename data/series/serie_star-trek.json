@@ -1,0 +1,362 @@
+{
+  "url": "https://retrotve.com/serie/star-trek/",
+  "tipo": "serie",
+  "titulo": "Star Trek: La Serie Original",
+  "titulo_original": "Star Trek",
+  "primera_emision": "08-09-1966",
+  "ultima_emision": "03-06-1969",
+  "generos": [
+    "Ci-Fi & Fantasia",
+    "Drama",
+    "Live Action"
+  ],
+  "directores": [
+    "Gene Roddenberry"
+  ],
+  "sinopsis": "Serie que relata los viajes de la astronave USS Enterprise. Su Misión de Cinco Años consiste en explorar nuevos mundos y buscar nuevas civilizaciones. Es el año 2264, dos siglos después de que el hombre superara en sus viajes la velocidad de la luz y se realizara el primer viaje de la Enterprise NX-01. Durante los tres primeros años, el capitán James T. Kirk y su tripulación encuentran criaturas que se metamorfosean, asesinos, locos, seres tan poderosos que pueden controlar la mente de sociedades enteras, pero también seres muy débiles e incapaces de controlar su propia mente. Los expedicionarios vivirán peligrosas aventuras que los obligarán a luchar por su vida y la de sus amigos. Todas esas pruebas contribuirán a forjar un vínculo de amistad entre tres insólitos personajes: el valiente y carismático capitán, el irascible doctor y el Vulcaniano sin emociones.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/w91TxLcUacoOyxT03iTIpglaegi.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26561&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26562&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26563&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26564&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26565&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio6/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26567&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio8/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26569&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26570&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26571&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26572&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26573&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26574&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26575&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26576&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26577&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio18/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio19/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26580&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26581&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26582&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26583&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26584&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26585&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26586&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio27/",
+          "url_directa": null
+        },
+        {
+          "temporada": 1,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio28/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26588&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 29,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada1-episodio29/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26589&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26780&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26781&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26782&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26783&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26784&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26785&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26786&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26787&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26788&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26789&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26790&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26791&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26792&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26793&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26794&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26795&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26796&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26797&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26798&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26799&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26800&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26801&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26802&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26803&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26804&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/star-trek-la-serie-original-temporada2-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=26805&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 2,
+  "total_episodios": 55
+}

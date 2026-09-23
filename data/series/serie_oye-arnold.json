@@ -1,0 +1,500 @@
+{
+  "url": "https://retrotve.com/serie/oye-arnold/",
+  "tipo": "serie",
+  "titulo": "¡Oye, Arnold!",
+  "titulo_original": "Hey Arnold!",
+  "primera_emision": "07-10-1996",
+  "ultima_emision": "08-06-2004",
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Kids"
+  ],
+  "directores": [
+    "Craig Bartlett"
+  ],
+  "sinopsis": "Arnold vive en Hillwood con sus abuelos en una casa de huéspedes. Cada día enfrenta problemas cotidianos junto a sus amigos, especialmente Gerald. Aunque parece tranquila, su vida está llena de aventuras urbanas, desafíos emocionales y personajes excéntricos. Helga, su compañera de clase, lo molesta constantemente, aunque en secreto está enamorada de él.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/1aHnP8oed54UMLEvTlY7VBl069q.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19922&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19923&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19924&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19925&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19926&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19927&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19928&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19929&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19930&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19931&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19932&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19933&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19934&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19935&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19936&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19937&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19938&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19939&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19940&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19941&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20062&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20063&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20064&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20065&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20066&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20067&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20068&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20069&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20070&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20071&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20072&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20073&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20074&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20075&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20076&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20077&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20078&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20079&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada2-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20080&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "temporada": 3,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33161&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33162&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33163&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33164&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33165&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33166&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33167&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33168&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33169&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33170&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33171&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33172&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33173&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33174&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33175&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33176&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33177&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33178&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33179&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33180&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33181&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33182&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33183&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33184&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33185&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33186&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio27/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33187&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio28/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 29,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio29/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 30,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio30/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 31,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio31/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 32,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio32/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 33,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio33/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 34,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio34/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 35,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio35/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 36,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio36/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 37,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio37/",
+          "url_directa": null
+        },
+        {
+          "temporada": 3,
+          "episodio": 38,
+          "url_pagina": "https://retrotve.com/seriestv/oye-arnold-temporada3-episodio38/",
+          "url_directa": null
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 3,
+  "total_episodios": 77
+}

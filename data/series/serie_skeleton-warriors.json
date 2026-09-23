@@ -1,0 +1,104 @@
+{
+  "url": "https://retrotve.com/serie/skeleton-warriors/",
+  "tipo": "serie",
+  "titulo": "Skeleton Warriors (Esqueletos Guerreros)",
+  "titulo_original": "Skeleton Warriors",
+  "primera_emision": "23-03-1995",
+  "ultima_emision": "15-06-1995",
+  "generos": [
+    "Animación",
+    "Resubidas"
+  ],
+  "directores": [
+    "Playmates Toys"
+  ],
+  "sinopsis": "La serie giraba en torno a la Legión de la Luz, un grupo de defensores formados por el Príncipe Lightstar, Grimskull y Talyn, quienes debían frenar los intentos del malvado Baron Dark para sumir el planeta a su control.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/opOgs7yIpWEPr3SmMlVAYvJLHIr.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19674&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19675&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19676&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19677&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19678&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19679&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19680&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19681&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19682&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19683&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19684&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19685&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/skeleton-warriors-esqueletos-guerreros-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19686&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 13
+}

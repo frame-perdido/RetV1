@@ -1,0 +1,99 @@
+{
+  "url": "https://retrotve.com/serie/my-pet-monster/",
+  "tipo": "serie",
+  "titulo": "Mi Monstruito",
+  "titulo_original": "My Pet Monster",
+  "primera_emision": "12-09-1987",
+  "ultima_emision": "19-12-1987",
+  "generos": [
+    "Animación"
+  ],
+  "imagen_hd": "//image.tmdb.org/t/p/w780/fPHEpEHIMlTuG0A9LIwtHpKnf3V.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7232&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7233&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7234&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7235&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7236&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7237&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7238&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7239&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7240&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7241&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7242&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7243&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/mi-monstruito-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=7244&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 13
+}

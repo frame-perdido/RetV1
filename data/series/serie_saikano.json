@@ -1,0 +1,104 @@
+{
+  "url": "https://retrotve.com/serie/saikano/",
+  "tipo": "serie",
+  "titulo": "Saikano",
+  "titulo_original": "最終兵器彼女",
+  "primera_emision": "02-07-2002",
+  "ultima_emision": "24-09-2002",
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Ci-Fi & Fantasia",
+    "Drama",
+    "War & Politics"
+  ],
+  "sinopsis": "Chise, una chica tímida, se enamora de Shuji y le pide salir. Su romance se complica cuando Japón entra en guerra y se revela un oscuro secreto: Chise no es una chica normal, sino el arma definitiva de destrucción masiva. Su existencia amenaza no solo su relación, sino la vida de todos a su alrededor.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/bdCCnmI68GfAgaYQpFfFB0B9T1P.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28642&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28643&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28644&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28645&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28646&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28647&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28648&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28649&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28650&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28651&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28652&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28653&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/saikano-temporada1-episodio13/",
+          "url_directa": null
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 13
+}

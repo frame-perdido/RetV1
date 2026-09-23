@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/he-man-y-she-ra-especial-navideno/",
+  "tipo": "pelicula",
+  "titulo": "He-Man y She-Ra: Especial de Navidad",
+  "titulo_original": "He-Man and She-Ra: A Christmas Special",
+  "fecha_lanzamiento": "25-12-1985",
+  "generos": [
+    "Acción",
+    "Animación",
+    "Aventura",
+    "Familia",
+    "Película de TV"
+  ],
+  "directores": [
+    "Bill Reed",
+    "Ernie Schmidt"
+  ],
+  "sinopsis": "He-Man y She-Ra se unen para evitar que Horde Prime arruine la Navidad de unos niños de la Tierra varados en Eternia.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/uVSHuOy4TEPyks29yeia2Cxa0XI.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8371&trtype=1"
+  ]
+}

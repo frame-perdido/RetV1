@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/ran/",
+  "tipo": "pelicula",
+  "titulo": "Ran",
+  "titulo_original": "乱",
+  "fecha_lanzamiento": "01-06-1985",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Akira Kurosawa",
+    "Bernard Cohn",
+    "Ichiro Yamamoto",
+    "Ishiro Honda",
+    "小泉堯史",
+    "米田興弘"
+  ],
+  "sinopsis": "En el Japón medieval, el poderoso señor Hidetora decide abdicar y repartir sus dominios entre sus tres hijos. El menor considera que la idea es absurda y sólo servirá para causar problemas. Su padre, enfurecido, lo deshereda. Muy pronto descubrirá su error: la ambición hará que sus hijos mayores se enfrenten por el poder en una cruenta guerra. Se inspira en el drama de Shakespeare “El rey Lear”.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/eR4t0diFApeFIKAdZveyeRKj2Gl.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10781&trtype=1"
+  ]
+}

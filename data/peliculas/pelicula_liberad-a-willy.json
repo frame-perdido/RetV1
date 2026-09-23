@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/liberad-a-willy/",
+  "tipo": "pelicula",
+  "titulo": "Liberad a Willy",
+  "titulo_original": "Free Willy",
+  "fecha_lanzamiento": "16-07-1993",
+  "generos": [
+    "Aventura",
+    "Drama",
+    "Familia"
+  ],
+  "directores": [
+    "Jim Van Wyck",
+    "Mark Cotone",
+    "Simon Wincer"
+  ],
+  "sinopsis": "Willy es una impresionante orca confinada en un pequeño parque acuático en el Pacífico Norte, lejos de su hábitat natural y separada de toda su familia y hogar. Nadie en el parque entiende el comportamiento y los sentimentos de Willy, excepto un muchacho de 12 años, quien al igual que Willy sabe muy bien lo que significa estar lejos de su familia.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/mXkUfzJfdWx9y4Zlm7wsvQ0uvYo.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11145&trtype=1"
+  ]
+}

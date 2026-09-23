@@ -1,0 +1,27 @@
+{
+  "url": "https://retrotve.com/pelicula/matrix/",
+  "tipo": "pelicula",
+  "titulo": "Matrix",
+  "titulo_original": "The Matrix",
+  "fecha_lanzamiento": "31-03-1999",
+  "generos": [
+    "Acción",
+    "Ciencia ficción"
+  ],
+  "directores": [
+    "Colin Fletcher",
+    "James McTeigue",
+    "Lana Wachowski",
+    "Lilly Wachowski",
+    "Noni Roy",
+    "Paul Sullivan",
+    "Toby Pease",
+    "Tom Read",
+    "Victoria Sullivan"
+  ],
+  "sinopsis": "Un hacker informático aprende de misteriosos rebeldes la verdadera naturaleza de su realidad y su papel en la guerra contra sus controladores.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/tlm8UkiQsitc8rSuIAscQDCnP8d.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12238&trtype=1"
+  ]
+}

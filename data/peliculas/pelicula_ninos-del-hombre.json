@@ -1,0 +1,33 @@
+{
+  "url": "https://retrotve.com/pelicula/ninos-del-hombre/",
+  "tipo": "pelicula",
+  "titulo": "Niños del hombre",
+  "titulo_original": "Children of Men",
+  "fecha_lanzamiento": "22-09-2006",
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Suspense"
+  ],
+  "directores": [
+    "Alex Oakley",
+    "Alfonso Cuarón",
+    "Andrew McEwan",
+    "Beverly Winston",
+    "Ceri Evans",
+    "Emma Horton",
+    "Kim Whittaker",
+    "Liz West",
+    "Louise Wade",
+    "Michael Michael",
+    "Michael Stevenson",
+    "Paul Bennett",
+    "Richard Goodwin",
+    "Terry Needham"
+  ],
+  "sinopsis": "En 2027, en un mundo caótico en el que las mujeres se han vuelto de alguna manera infértiles, un antiguo activista accede a ayudar a transportar a una mujer milagrosamente embarazada a un santuario en el mar.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/gFGLwUBhVrq0bq4j9DU08xQDRU2.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12182&trtype=1"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/norbit/",
+  "tipo": "pelicula",
+  "titulo": "Norbit",
+  "titulo_original": "Norbit",
+  "fecha_lanzamiento": "08-02-2007",
+  "generos": [
+    "Comedia"
+  ],
+  "directores": [
+    "Andy Gill",
+    "Brian Robbins",
+    "Lars P. Winther"
+  ],
+  "sinopsis": "Norbit (Eddie Murphy) no ha tenido una vida fácil. De pequeño fue abandonado ante la puerta de un restaurante chino, que hacía las veces de orfanato, donde le crió el Sr. Wong (Eddie Murphy). Las cosas se ponen aún peor cuando se ve obligado a casarse con Rasputia (Eddie Murphy), la malvada y tragona reina de la comida basura. Cuando Norbit ya no puede más y está a punto de rendirse, reaparece Kate (Thandie Newton), su gran amor de infancia…",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/nMgQD51KzAqrt4F6iwxw5TetVLW.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11800&trtype=1"
+  ]
+}

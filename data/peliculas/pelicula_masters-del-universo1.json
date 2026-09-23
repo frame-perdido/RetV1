@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/masters-del-universo1/",
+  "tipo": "pelicula",
+  "titulo": "Masters del universo",
+  "titulo_original": "Masters of the Universe",
+  "fecha_lanzamiento": "07-08-1987",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción",
+    "Fantasía",
+    "Suspense"
+  ],
+  "directores": [
+    "Adrienne Hamalian-Mangine",
+    "Frederic B. Blankfein",
+    "Gary Goddard",
+    "John Eyler"
+  ],
+  "sinopsis": "Basada en la famosa serie animada. He-man y sus amigos deben viajar a la Tierra del siglo XX para rescatar una llave cósmica que les permita derrotar a Skeletor, que se ha apoderado del castillo de Grayskull y que mantiene prisionera a Sorceress. Los inconvenientes son que Skeletor posee otra llave y que la original está en manos de unos jóvenes terrícolas, que creen que es un instrumento musical.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/v2IoEKNJIvBneE6qBgntY0nlmhM.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10628&trtype=1"
+  ]
+}

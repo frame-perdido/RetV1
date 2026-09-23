@@ -1,0 +1,26 @@
+{
+  "url": "https://retrotve.com/pelicula/pequenos-guerreros/",
+  "tipo": "pelicula",
+  "titulo": "Pequeños guerreros",
+  "titulo_original": "Small Soldiers",
+  "fecha_lanzamiento": "10-07-1998",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción",
+    "Comedia",
+    "Fantasía"
+  ],
+  "directores": [
+    "Benita Allen",
+    "Dieter Busch",
+    "Joe Dante",
+    "M. James Arnett",
+    "Nancy L. Ventura"
+  ],
+  "sinopsis": "El Comando Elite está formado por una patrulla de muñecos militares muy arrogantes y agresivos que han cobrado vida y escapado de sus cajas para acabar con los gorgonitas, unos muñecos de aspecto extraño pero absolutamente pacíficos que sólo sueñan con encontrar la isla de Gorgon. El adolescente Alan Abernathy se verá envuelto en esta contienda y tomará posiciones a favor de los Gorgonitas, lo que le llevará a él y a toda su familia a convertirse en el nuevo objetivo del Comando Elite, capaces de crear el caos en toda la ciudad.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/l4RtVcfyCEbH6XfTn9Rv5OUuEM6.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10623&trtype=1"
+  ]
+}

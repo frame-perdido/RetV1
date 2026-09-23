@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/regreso-al-futuro/",
+  "tipo": "pelicula",
+  "titulo": "Regreso al futuro",
+  "titulo_original": "Back to the Future",
+  "fecha_lanzamiento": "03-07-1985",
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Comedia"
+  ],
+  "directores": [
+    "David McGiffert",
+    "Frank Marshall",
+    "Pamela M. Eilerson",
+    "Robert Zemeckis"
+  ],
+  "sinopsis": "El adolescente Marty McFly es amigo de Doc, un científico al que todos toman por loco. Cuando Doc crea una máquina para viajar en el tiempo, un error fortuito hace que Marty llegue a 1955, año en el que sus futuros padres aún no se habían conocido. Después de impedir su primer encuentro, deberá conseguir que se conozcan y se casen; de lo contrario, su existencia no sería posible.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/yz8QL8WFD8yj0LA5zIlNOgcHvZK.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10592&trtype=1"
+  ]
+}

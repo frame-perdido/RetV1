@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/operacion-caceria/",
+  "tipo": "pelicula",
+  "titulo": "Operación Cacería",
+  "titulo_original": "Hard Target",
+  "fecha_lanzamiento": "27-04-1993",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "directores": [
+    "Dennis Maguire",
+    "Faith Conroy",
+    "John Gallagher",
+    "Nancy Blewer",
+    "William H. Burton Sr.",
+    "吴宇森"
+  ],
+  "sinopsis": "Dos hombres despiadados, Fouchon y Van Cleaf, han convertido Nueva Orleans en su particular coto de caza, donde organizan siniestros torneos que enfrentan a sus asesinos con veteranos de guerra, a quienes prometen 10.000 dólares si logran sobrevivir. Desde luego, ninguno de los infortunados que se atreve a probar suerte en tan sangriento juego llega a cobrar el premio. Las cosas cambiarán el día en que Chance Boudreaux decide participar en el juego… Chance, sin embargo, no es un héroe noble y altruista, sino un solitario “cajun” que solamente quiere cobrar los 217 dólares que necesita para saldar sus deudas con el sindicato de marineros mercantes.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/4IRHnS9Ljvb4tGI2SGaSiQikcaE.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12037&trtype=1"
+  ]
+}

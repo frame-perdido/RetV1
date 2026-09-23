@@ -1,0 +1,27 @@
+{
+  "url": "https://retrotve.com/pelicula/rescatando-al-soldado-ryan/",
+  "tipo": "pelicula",
+  "titulo": "Rescatando al soldado Ryan",
+  "titulo_original": "Saving Private Ryan",
+  "fecha_lanzamiento": "24-07-1998",
+  "generos": [
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Adam Goodman",
+    "Ana Maria Quintana",
+    "Daisy Cummins",
+    "Karen Richards",
+    "Martin Krauka",
+    "Sara Desmond",
+    "Sergio Mimica-Gezzan",
+    "Steven Spielberg"
+  ],
+  "sinopsis": "Segunda Guerra Mundial, 1944. Tras el desembarco de los Aliados en Normandía, a un grupo de soldados americanos se le encomienda una peligrosa misión: poner a salvo al soldado James Ryan. Los hombres de la patrulla del capitán John Miller deben arriesgar sus vidas para encontrar a este soldado, cuyos tres hermanos han muerto en la guerra. Lo único que se sabe del soldado Ryan es que se lanzó con su escuadrón de paracaidistas detrás de las líneas enemigas.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/bdD39MpSVhKjxarTxLSfX6baoMP.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12230&trtype=1"
+  ]
+}

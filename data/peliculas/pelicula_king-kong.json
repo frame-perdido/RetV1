@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/king-kong/",
+  "tipo": "pelicula",
+  "titulo": "King Kong",
+  "titulo_original": "King Kong",
+  "fecha_lanzamiento": "15-03-1933",
+  "generos": [
+    "Aventura",
+    "Fantasía",
+    "Terror"
+  ],
+  "directores": [
+    "Betty Goode",
+    "Doran Cox",
+    "Ernest B. Schoedsack",
+    "Ivan Thomas",
+    "Merian C. Cooper",
+    "Walter Daniels"
+  ],
+  "sinopsis": "Un equipo de cine van a rodar una película a la misteriosa isla de Teschio, al este de Sumatra. Allí los recién llegados descubren la existencia de una civilización prehistórica y de una tribu ancestral que secuestra a la atractiva Ann, la actriz protagonista, para ofrecerla en sacrificio ritual a King, un gigantesco gorila.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lYfHa1AtkUMtplrKx7SRLHpwonW.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8057&trtype=1"
+  ]
+}

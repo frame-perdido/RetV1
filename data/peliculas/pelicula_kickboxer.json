@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/kickboxer/",
+  "tipo": "pelicula",
+  "titulo": "Kickboxer",
+  "titulo_original": "Kickboxer",
+  "fecha_lanzamiento": "20-04-1989",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Suspense"
+  ],
+  "directores": [
+    "Charlie Sungkawess",
+    "David Worth",
+    "Jean-Claude Van Damme",
+    "Kenneth Siao Wai-Keung",
+    "Mark DiSalle"
+  ],
+  "sinopsis": "Cuando Tong Po, el sanguinario campeón de Kickboxing, deja paralítico a su hermano, Eric jura vengarse del hombre a quienes todos consideran invencible, aunque le cueste la vida.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/sl7hpSJR11FlfcewMJ6ihsbbAuJ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11060&trtype=1"
+  ]
+}

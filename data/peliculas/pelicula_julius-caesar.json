@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/julius-caesar/",
+  "tipo": "pelicula",
+  "titulo": "Julius Caesar",
+  "titulo_original": "Julius Caesar",
+  "fecha_lanzamiento": "04-06-1970",
+  "generos": [
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Christopher Dryhurst",
+    "Joe Canutt",
+    "Peter Macgregor-Scott",
+    "Phyllis Townshend",
+    "Stuart Burge",
+    "Tony Buck",
+    "Tony McWhirter"
+  ],
+  "imagen_hd": "//image.tmdb.org/t/p/w780/iNIWcge4EGGBMKHJ6M2uphniGIW.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12015&trtype=1"
+  ]
+}

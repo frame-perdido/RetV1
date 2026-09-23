@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/la-lista-de-adrian-messenger/",
+  "tipo": "pelicula",
+  "titulo": "La lista de Adrian Messenger",
+  "titulo_original": "The List of Adrian Messenger",
+  "fecha_lanzamiento": "23-05-1963",
+  "generos": [
+    "Misterio",
+    "Suspense"
+  ],
+  "directores": [
+    "John Huston",
+    "Tom Shaw"
+  ],
+  "sinopsis": "Adrian Messenger, un famoso escritor, pide a su amigo Anthony Gethryn, un exagente británico, que le ayude a investigar el paradero de las personas que aparecen en una lista, sin preguntarle la razón por la que debe hacerlo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/78PxoEpvLiGWBg1qEnSsAGiDkgU.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8022&trtype=1"
+  ]
+}

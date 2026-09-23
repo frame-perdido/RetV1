@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/mortal-kombat1/",
+  "tipo": "pelicula",
+  "titulo": "Mortal Kombat",
+  "titulo_original": "Mortal Kombat",
+  "fecha_lanzamiento": "18-08-1995",
+  "generos": [
+    "Acción",
+    "Fantasía"
+  ],
+  "directores": [
+    "Apichart Chusakul",
+    "Dea Cantu",
+    "Jesse V. Johnson",
+    "Jules Stewart",
+    "Paul W. S. Anderson",
+    "Robin R. Oliver",
+    "Thomas Schellenberg"
+  ],
+  "sinopsis": "Durante nueve generaciones, Shang Tsung, un brujo malvado, ha llevado a un poderoso príncipe a la victoria contra sus mortales enemigos. Si vence el décimo torneo Mortal Kombat, la desolación y el mal que han florecido en el mundo exterior reinarán la Tierra por siempre.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/dfU9xyEEyLxvZ5unTn05Whm9Lce.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10898&trtype=1"
+  ]
+}

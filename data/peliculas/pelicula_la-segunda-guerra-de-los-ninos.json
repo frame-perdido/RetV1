@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/la-segunda-guerra-de-los-ninos/",
+  "tipo": "pelicula",
+  "titulo": "La segunda guerra de los niños",
+  "titulo_original": "La segunda guerra de los niños",
+  "fecha_lanzamiento": "17-02-1981",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Música"
+  ],
+  "directores": [
+    "Javier Aguirre"
+  ],
+  "sinopsis": "Un grupo de niños ganan como premio un viaje a Disneylandia, y lo donan al profesor de su escuela, para fondo de becas.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/kmLKF6DwB4YSDzrWFI9bVMvxAcr.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=7981&trtype=1"
+  ]
+}

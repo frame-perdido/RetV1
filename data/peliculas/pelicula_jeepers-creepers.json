@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/jeepers-creepers/",
+  "tipo": "pelicula",
+  "titulo": "Jeepers Creepers",
+  "titulo_original": "Jeepers Creepers",
+  "fecha_lanzamiento": "01-07-2001",
+  "generos": [
+    "Terror"
+  ],
+  "directores": [
+    "George Bamber",
+    "Jason Roberts",
+    "Mary Kilgannon",
+    "Patricia A. Fullerton",
+    "Victor Salva"
+  ],
+  "sinopsis": "Trish y su hermano menor Darry cruzan los Estados Unidos en coche, en un viaje largo y aburrido cuya monotonía sólo se rompe por sus continuas discusiones. De pronto, en mitad de ninguna parte, descubren una iglesia abandonada donde un misterioso personaje arroja un cadáver al interior de una gran boca de alcantarillado. A partir de ese momento comienzan una huida aterradora, perseguidos por una de las criaturas más letales que se puedan imaginar.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/m0yTFeh8vrsMP0fQDdYGSh4xthX.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11303&trtype=1"
+  ]
+}

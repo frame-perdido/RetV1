@@ -1,0 +1,18 @@
+{
+  "url": "https://retrotve.com/pelicula/operacion-dragon/",
+  "tipo": "pelicula",
+  "titulo": "Operación Dragón",
+  "titulo_original": "Enter the Dragon",
+  "fecha_lanzamiento": "17-08-1973",
+  "generos": [
+    "Acción"
+  ],
+  "directores": [
+    "Robert Clouse"
+  ],
+  "sinopsis": "Un joven, experto en artes marciales, es reclutado por el servicio de inteligencia inglés. Su misión es viajar a Hong Kong y desenmascarar las fraudulentas actividades de un hombre de negocios.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/npLwIeUobjVCM4fLfdeLqQhAoey.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10509&trtype=1"
+  ]
+}

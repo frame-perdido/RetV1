@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/greystoke-la-leyenda-de-tarzan/",
+  "tipo": "pelicula",
+  "titulo": "Greystoke: La leyenda de Tarzán",
+  "titulo_original": "Greystoke: The Legend of Tarzan, Lord of the Apes",
+  "fecha_lanzamiento": "30-03-1984",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Romance"
+  ],
+  "directores": [
+    "Hugh Hudson"
+  ],
+  "sinopsis": "El heredero de la familia Greystoke, John Clayton, huérfano a los pocos meses de nacer, es adoptado por una tribu de simios, entre los que vive durante años. Descubierto por el Capitán D’Arnot, el joven Tarzán es llevado a Inglaterra, presentado a su familia y educado de acuerdo con su rango.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lYLWwO3rlLmBOEWq7C7uZkS15Gs.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10703&trtype=1"
+  ]
+}

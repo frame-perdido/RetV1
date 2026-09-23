@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/la-mosca/",
+  "tipo": "pelicula",
+  "titulo": "La mosca",
+  "titulo_original": "The Fly",
+  "fecha_lanzamiento": "15-08-1986",
+  "generos": [
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "David Cronenberg",
+    "Gillian Richardson",
+    "John Board",
+    "Kim H. Winther",
+    "Patricia Rozema",
+    "Tom Quinn"
+  ],
+  "sinopsis": "Seth Brundle, un excéntrico y solitario científico que crea uno de los inventos más revolucionarios de la historia: la cabina de teletransportación. En un intento por ponerla a prueba a la vez que ignora todo atisbo de prudencia, decide usarse a sí mismo como cobaya en la primera teletransportación aplicada a un humano, con la mala suerte de que una mosca se introduce junto con él en el artefacto. A partir de allí comenzará para Brundle una gradual pero definitiva transformación, una inquietante metamorfosis que le consumirá poco a poco, poniéndole en peligro a él y a los que le rodean.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/2olgnm402FuL7kQHUQwyRSj0SmD.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10448&trtype=1"
+  ]
+}

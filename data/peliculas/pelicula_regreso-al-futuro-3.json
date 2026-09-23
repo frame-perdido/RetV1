@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/regreso-al-futuro-3/",
+  "tipo": "pelicula",
+  "titulo": "Regreso al futuro III",
+  "titulo_original": "Back to the Future Part III",
+  "fecha_lanzamiento": "25-05-1990",
+  "generos": [
+    "Aventura",
+    "Ciencia ficción",
+    "Comedia"
+  ],
+  "directores": [
+    "Batan Silva",
+    "Cara Giallanza",
+    "Carla Corwin",
+    "David McGiffert",
+    "Max Kleven",
+    "Robert Zemeckis"
+  ],
+  "sinopsis": "Marty McFly sigue en 1955 y su amigo Doc ha retrocedido al año 1885, la época del salvaje oeste. Éste le envía una carta donde comenta que la máquina del tiempo está averiada, y que es imposible repararla. Sin embargo no le preocupa estar atrapado en el pasado, pues allí es muy feliz trabajando de herrero aunque convive con malhechores. Pero Marty descubre una vieja tumba en la que lee que Doc murió en 1885 y, sin pensárselo dos veces, irá a rescatar a su amigo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/vKp3NvqBkcjHkCHSGi6EbcP7g4J.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10821&trtype=1"
+  ]
+}

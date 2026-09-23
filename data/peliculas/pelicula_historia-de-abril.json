@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/historia-de-abril/",
+  "tipo": "pelicula",
+  "titulo": "Historia de Abril",
+  "titulo_original": "四月物語",
+  "fecha_lanzamiento": "14-03-1998",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "directores": [
+    "Shunji Iwai",
+    "行定勲"
+  ],
+  "sinopsis": "Durante la primavera, una joven deja la isla de Hokkaido para cursar estudios universitarios en Tokio. Una vez llegada, deberá revelar la verdadera razón de su estancia en la capital japonesa.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/yFJRDGZ2We3MbwJ4ihtSKArP6Ei.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10785&trtype=1"
+  ]
+}

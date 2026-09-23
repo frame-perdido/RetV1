@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/geronimo/",
+  "tipo": "pelicula",
+  "titulo": "Geronimo",
+  "titulo_original": "Geronimo",
+  "fecha_lanzamiento": "27-04-1962",
+  "generos": [
+    "Historia",
+    "Western"
+  ],
+  "directores": [
+    "Arnold Laven",
+    "Henry Spitz"
+  ],
+  "sinopsis": "Biografía del legendario jefe apache Geronimo (Chuck Connors). Corre el año 1883. El valiente jefe indio Geronimo y su pequeño grupo de guerreros apaches, sometidos al constante hostigamiento de las tropas de los Estados Unidos y México, deciden rendirse a cambio de comida y de tierras. Pero los hombres blancos rompen sus promesas y los apaches son condenados a vivir en la miseria. Cuando las tierras que le habían asignado les son arrebatadas, Geronimo escapa y conduce a sus gentes hasta México, donde declara la guerra a los Estados Unidos. Geronimo, acompañado de los pocos guerreros aún con vida, se enfrentará con fiera determinación a su enemigo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/aVWtleBwULL24bR2ehbwfdANZYR.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10584&trtype=1"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/rambo-iii/",
+  "tipo": "pelicula",
+  "titulo": "Rambo III",
+  "titulo_original": "Rambo III",
+  "fecha_lanzamiento": "24-05-1988",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Bélica",
+    "Suspense"
+  ],
+  "directores": [
+    "Michael Stevenson",
+    "Peter MacDonald",
+    "Ronit Ravich-Boss"
+  ],
+  "sinopsis": "Cuando descubre que el coronel Trautman ha caído en manos soviéticas en Afganistán, Rambo regresa al servicio para intentar liberar a su amigo. Después de contactar a la resistencia afgana, entra en la zona sitiada por las tropas enemigas.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/nEuPSz6LhmrtYp7K56dbsmomuqA.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11174&trtype=1"
+  ]
+}

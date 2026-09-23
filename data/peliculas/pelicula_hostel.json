@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/hostel/",
+  "tipo": "pelicula",
+  "titulo": "Hostel",
+  "titulo_original": "Hostel",
+  "fecha_lanzamiento": "06-01-2006",
+  "generos": [
+    "Terror"
+  ],
+  "directores": [
+    "Eli Roth",
+    "Kazi Kopecká",
+    "Mark Taylor",
+    "Petra Ratner",
+    "Philip Seeger",
+    "Roman Janečka"
+  ],
+  "sinopsis": "Paxton y Josh, dos jóvenes norteamericanos amigos de la universidad, recorren Europa con sus mochilas junto con Oli, un islandés que conocen en el camino. En Eslovaquia conocen a Natalya y Svetlan, dos exóticas bellezas con las que se distraen…. para aparecer atrapados en un siniestro y lúgubre sitio. Su angustiosa situación, como descubrirán más tarde, es tan profunda como el más oscuro y enfermizo recoveco de la propia naturaleza humana… si sobreviven.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/dF6GNQ0TnZkr1t4wBt36Xc0Pccd.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11753&trtype=1"
+  ]
+}

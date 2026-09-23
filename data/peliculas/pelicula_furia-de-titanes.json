@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/furia-de-titanes/",
+  "tipo": "pelicula",
+  "titulo": "Furia de Titanes",
+  "titulo_original": "Clash of the Titans",
+  "fecha_lanzamiento": "12-06-1981",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Familia",
+    "Fantasía"
+  ],
+  "directores": [
+    "Anthony Waye",
+    "Desmond Davis",
+    "Doreen Soan",
+    "Gerry Gavigan",
+    "Terry Madden"
+  ],
+  "sinopsis": "Cuando el rey de Argos está a punto de sacrificar a su hija Dánae y a su nieto Perseo, Zeus (padre del niño) decide salvarlos y arrasar la ciudad. Perseo crece feliz hasta que la diosa Thetis para vengarse de Zeus, que ha castigado a su hijo Calibos con una horrible deformidad, lo secuestra y lo abandona a su suerte. Al conocer la noticia, Zeus ordena a los demás dioses que ofrezcan a su hijo regalos que le permitan defenderse: una espada capaz de cortar la piedra, un casco que lo vuelve invisible y un escudo que lo hace invulnerable. Con estas armas se dirige a la ciudad de Joppa, cuya princesa es víctima de una maldición.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/3hhxmfgSBd7dh9DKO5uheLEuiur.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8252&trtype=1"
+  ]
+}

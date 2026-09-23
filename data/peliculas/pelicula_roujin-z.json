@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/roujin-z/",
+  "tipo": "pelicula",
+  "titulo": "Roujin Z",
+  "titulo_original": "老人Z",
+  "fecha_lanzamiento": "14-09-1991",
+  "generos": [
+    "Animación",
+    "Ciencia ficción",
+    "Drama"
+  ],
+  "directores": [
+    "北久保弘之"
+  ],
+  "sinopsis": "El Sr. Takazawa, un anciano inválido que es atendido en su casa por Haruko, una joven estudiante de enfermería, es elegido por el Ministerio de Bienestar Público japonés para probar el Z-001, una cama de hospital computarizada con características robóticas que supuestamente muestra más eficiencia y habilidades que cualquier enfermera humana, pero Haruko desconfía de una máquina incapaz de considerar los sentimientos humanos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/dfP5F5i3a4FfkVXiEAdLgo61lGj.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11256&trtype=1"
+  ]
+}

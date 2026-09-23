@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/eureka/",
+  "tipo": "pelicula",
+  "titulo": "Eureka",
+  "titulo_original": "Eureka",
+  "fecha_lanzamiento": "01-05-1983",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Suspense"
+  ],
+  "directores": [
+    "Nicolas Roeg"
+  ],
+  "imagen_hd": "//image.tmdb.org/t/p/w780/fkeXtf4ePBRvrAAtOeytNwsUHxn.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=7964&trtype=1"
+  ]
+}

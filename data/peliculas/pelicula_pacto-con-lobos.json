@@ -1,0 +1,28 @@
+{
+  "url": "https://retrotve.com/pelicula/pacto-con-lobos/",
+  "tipo": "pelicula",
+  "titulo": "Pacto con Lobos",
+  "titulo_original": "Le Pacte des loups",
+  "fecha_lanzamiento": "31-01-2001",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Historia",
+    "Terror"
+  ],
+  "directores": [
+    "Christophe Gans",
+    "Claudine Strasser",
+    "David Campi-Lemaire",
+    "Lionel Steketee",
+    "Marc-Antoine Trani",
+    "Shaun O'Dell",
+    "Valentine Traclet",
+    "William Gereghty"
+  ],
+  "sinopsis": "Francia, siglo XVIII. Una monstruosa criatura devora salvajemente a los habitantes de un pueblo francés. Recién llegado de América, Grégoire de Fronsac recibe el encargo del rey Luis XV de encontrar a la fiera. Grégorie y su misterioso hermano de sangre, un indio llamado Mani, intentan descubrir qué hay detrás de estos sangrientos sucesos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/wxijmbo9Oy5L9M9e4K1QhXVBRgm.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12391&trtype=1"
+  ]
+}

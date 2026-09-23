@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/los-diez-mandamientos/",
+  "tipo": "pelicula",
+  "titulo": "Los Diez Mandamientos",
+  "titulo_original": "The Ten Commandments",
+  "fecha_lanzamiento": "05-10-1956",
+  "generos": [
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Arthur Rosson",
+    "Cecil B. DeMille",
+    "Daniel McCauley",
+    "Edward Salven",
+    "Fouad Aref",
+    "Francisco Day",
+    "Michael D. Moore"
+  ],
+  "sinopsis": "Drama bíblico ambientado en el Antiguo Egipto que narra la historia de Moisés, favorito de la familia del faraón, que decide renunciar a su vida de privilegios para conducir a su pueblo, los hebreos esclavizados en Egipto, hacia la libertad.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/3e3dVaVrla2GH6CWKbNRjTvk3s8.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10563&trtype=1"
+  ]
+}

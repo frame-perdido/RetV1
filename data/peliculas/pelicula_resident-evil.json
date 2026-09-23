@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/resident-evil/",
+  "tipo": "pelicula",
+  "titulo": "Resident Evil",
+  "titulo_original": "Resident Evil",
+  "fecha_lanzamiento": "15-03-2002",
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "Bharat Nalluri",
+    "Caroline Sax",
+    "Jan Sebastian Ballhaus",
+    "Paul Goldsmith",
+    "Paul W. S. Anderson",
+    "Simon Emanuel"
+  ],
+  "sinopsis": "En un centro clandestino de investigación genética -con fines militares- de una poderosa multinacional se produce un brote vírico que contamina todo el edificio. Para contener la fuga el ordenador que controla el centro sella toda la instalación y, en un principio se cree que mueren todos los empleados, pero en realidad se han convertido en feroces zombis…",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/xcENFGw9AlsmtiQGWuzIGbg1bdi.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11760&trtype=1"
+  ]
+}

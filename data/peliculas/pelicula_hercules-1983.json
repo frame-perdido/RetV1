@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/hercules-1983/",
+  "tipo": "pelicula",
+  "titulo": "Hercules",
+  "titulo_original": "Hercules",
+  "fecha_lanzamiento": "12-08-1983",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "directores": [
+    "Giancarlo Santi",
+    "Luigi Cozzi"
+  ],
+  "sinopsis": "Hercules, que tenia tanta fuerza como cien hombres, fue enviado desde los cielos por Zeus para combatir al Rey Minos y a su malvada hija Arianna, que intentaban someter a todo el género humano. Ya entre los hombres, el Rey Augelius, impresionado por su fuerza, le otorga el honor de ser el guardián de su hija Cassiopea. Hércules cumplirá su tarea, llevando a cabo fabulosas aventuras y combatiendo como un héroe invencible contra la malvada Arianna y el Rey Minos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lEf9WXUppQU3oRnkGyTAcm0TgJz.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8234&trtype=1"
+  ]
+}

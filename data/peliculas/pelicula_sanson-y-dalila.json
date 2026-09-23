@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/sanson-y-dalila/",
+  "tipo": "pelicula",
+  "titulo": "Sansón y Dalila",
+  "titulo_original": "Samson and Delilah",
+  "fecha_lanzamiento": "21-12-1949",
+  "generos": [
+    "Drama",
+    "Historia",
+    "Romance"
+  ],
+  "directores": [
+    "Bill Shanks",
+    "Cecil B. DeMille",
+    "Edward Salven"
+  ],
+  "sinopsis": "Adaptación del famoso relato bíblico del forzudo Sansón y la bella Dalila, ambientado en la Palestina del año 1000 A.C.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/vH5jfiKPG8N5suLbGLutZZulYAH.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11831&trtype=1"
+  ]
+}

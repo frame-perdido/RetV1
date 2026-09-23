@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/recetas-del-alma/",
+  "tipo": "pelicula",
+  "titulo": "La Chica Ramen",
+  "titulo_original": "The Ramen Girl",
+  "fecha_lanzamiento": "08-02-2008",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Romance"
+  ],
+  "directores": [
+    "Ed Licht",
+    "Robert Allan Ackerman"
+  ],
+  "sinopsis": "Abandonada inesperadamente por su novio, una joven norteamericana llamada Abby (Brittany Murphy) se encuentra de repente sola y sin saber qué hacer en la ciudad de Tokyo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/21mAnWSUYLAIJpmqUd1QgzblpcM.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12140&trtype=1"
+  ]
+}

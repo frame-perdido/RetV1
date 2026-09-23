@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/los-goonies1/",
+  "tipo": "pelicula",
+  "titulo": "Los Goonies",
+  "titulo_original": "The Goonies",
+  "fecha_lanzamiento": "07-06-1985",
+  "generos": [
+    "Aventura",
+    "Comedia",
+    "Familia"
+  ],
+  "directores": [
+    "Betsy Norton",
+    "Dan Kolsrud",
+    "Patrick Cosgrove",
+    "Richard Donner",
+    "Sharon Gerhard"
+  ],
+  "sinopsis": "Mikey, un muchacho de trece años, que junto con su hermano mayor y sus amigos se hacen llamar ‘Los Goonies’, decide subir a jugar al desván de su casa, donde su padre guarda antigüedades. Allí, el grupo encuentra el mapa de un tesoro.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/r0p9IeVzVP4OULWWw0UsDSCWtKb.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11005&trtype=1"
+  ]
+}

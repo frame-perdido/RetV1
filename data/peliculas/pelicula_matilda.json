@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/matilda/",
+  "tipo": "pelicula",
+  "titulo": "Matilda",
+  "titulo_original": "Matilda",
+  "fecha_lanzamiento": "02-08-1996",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Fantasía"
+  ],
+  "directores": [
+    "Cara Giallanza",
+    "Danny DeVito",
+    "Marge Piane"
+  ],
+  "sinopsis": "Matilda Wormwood es una jovencita extremadamente curiosa e inteligente, todo lo contrario que sus chabacanos padres, que a menudo la ignoran. A medida que crece va descubriendo que posee poderes telequinéticos, hasta que un día un profesor le enseña que puede usar esos poderes para ayudar a sus amigos. Además las personas que hasta ese momento le han hecho la vida imposible sufrirán las consecuencias.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/iXlHfi9hq7nfSv31pBab8fpMfZh.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11001&trtype=1"
+  ]
+}

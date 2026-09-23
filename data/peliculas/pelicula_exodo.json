@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/exodo/",
+  "tipo": "pelicula",
+  "titulo": "Éxodo",
+  "titulo_original": "Exodus",
+  "fecha_lanzamiento": "27-03-1960",
+  "generos": [
+    "Acción",
+    "Bélica",
+    "Historia"
+  ],
+  "directores": [
+    "Angela Martelli",
+    "Otto Preminger"
+  ],
+  "sinopsis": "El tema es la fundación del estado de Israel. La acción comienza en un barco lleno de inmigrantes judíos con destino a Israel que están siendo descargados en Chipre. Un oficial de inteligencia logra que vuelvan a bordo de su barco solo para que el puerto sea bloqueado por los británicos con los que deben negociar. La segunda parte trata de declarar la independencia y la guerra resultante.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/bLz4oDdbIok6BTKbQvSl8v3rmhr.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8339&trtype=1"
+  ]
+}

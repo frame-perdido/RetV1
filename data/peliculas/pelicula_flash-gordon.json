@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/flash-gordon/",
+  "tipo": "pelicula",
+  "titulo": "Flash Gordon",
+  "titulo_original": "Flash Gordon",
+  "fecha_lanzamiento": "01-09-1980",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "directores": [
+    "Brian W. Cook",
+    "June Randall",
+    "Michael Stevenson",
+    "Mike Hodges",
+    "Terry Needham",
+    "William Kronick"
+  ],
+  "sinopsis": "El doctor Zarkov, un científico expulsado de la NASA, viaja en un cohete espacial, junto al joven jugador de rugby Flash Gordon y su amiga Dale Arden. Los tres intentarán salvar al planeta de la amenaza de Ming, el emperador del lejano reino Mongo, que ha lanzado una de sus lunas para que choque contra la Tierra.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/fU92iWyQbysjAQmkfkuFxNlWzz1.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10667&trtype=1"
+  ]
+}

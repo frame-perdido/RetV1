@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/quien-quiere-ser-millonario/",
+  "tipo": "pelicula",
+  "titulo": "Quién Quiere Ser Millonario",
+  "titulo_original": "Slumdog Millionaire",
+  "fecha_lanzamiento": "12-11-2008",
+  "generos": [
+    "Drama",
+    "Romance"
+  ],
+  "directores": [
+    "Danny Boyle",
+    "Loveleen Tandan",
+    "Nuvendra Singh"
+  ],
+  "sinopsis": "Un adolescente de Mumbai reflexiona sobre su vida después de ser acusado de engañar a la versión india de «¿Quién quiere ser millonario?».",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/1wZoVT9RJsZmNjg8CecXqSgFUd9.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12173&trtype=1"
+  ]
+}

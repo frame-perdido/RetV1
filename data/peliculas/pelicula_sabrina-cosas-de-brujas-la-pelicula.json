@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/sabrina-cosas-de-brujas-la-pelicula/",
+  "tipo": "pelicula",
+  "titulo": "Sabrina La película",
+  "titulo_original": "Sabrina the Teenage Witch",
+  "fecha_lanzamiento": "07-04-1996",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Fantasía",
+    "Película de TV"
+  ],
+  "directores": [
+    "Tibor Takács"
+  ],
+  "sinopsis": "Una chica, enviada por sus padres para vivir con sus dos tías excéntricas, descubre en su decimosexto cumpleaños que es una bruja.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/5EFATeYsjwo6Hjud91JEpy8SK4G.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11241&trtype=1"
+  ]
+}

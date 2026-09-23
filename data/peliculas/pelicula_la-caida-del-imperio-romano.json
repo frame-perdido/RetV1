@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/la-caida-del-imperio-romano/",
+  "tipo": "pelicula",
+  "titulo": "La caída del Imperio romano",
+  "titulo_original": "The Fall of the Roman Empire",
+  "fecha_lanzamiento": "24-03-1964",
+  "generos": [
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Anthony Mann",
+    "Elaine Schreyeck",
+    "José López Rodero",
+    "José María Ochoa",
+    "Yakima Canutt"
+  ],
+  "sinopsis": "Imperio Romano, siglo II d.C. Marco Aurelio (160-181), el emperador filósofo, fue el último gobernante de la Edad de Oro romana. Muy a su pesar, tuvo que luchar contra diversos pueblos para defender las fronteras del Imperio. En política interior, su sueño era restaurar las instituciones republicanas, razón por la cual nombró sucesor a su protegido Livio, en detrimento de su ambicioso y corrupto hijo Cómodo. Pero éste no aceptó la decisión de su padre y se apoderó del trono.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/wpTgHZCCfM3SffZvq6tCFdkkMz0.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8294&trtype=1"
+  ]
+}

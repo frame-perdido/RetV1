@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/romeo-debe-morir/",
+  "tipo": "pelicula",
+  "titulo": "Romeo debe morir",
+  "titulo_original": "Romeo Must Die",
+  "fecha_lanzamiento": "22-03-2000",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "directores": [
+    "Andrzej Bartkowiak",
+    "Conrad E. Palmisano",
+    "David Arnold",
+    "Jim Van Wyck"
+  ],
+  "sinopsis": "Dos bandas (Asiática y afroamericana) enzarzadas en una “guerra de mafias” están disputándose el control de los muelles. La situación se vuelve aún más peligrosa cuando el hijo del capo asiático es asesinado; es entonces cuando su hermano Han, ex policía encarcelado en Hong Kong, escapa de la cárcel para vengar su muerte, convirtiéndose él en objetivo de las bandas, lo que le lleva a declarar la guerra por su cuenta.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/qiN9QGs9XZQ0R5D02hwNE66CXpB.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11129&trtype=1"
+  ]
+}

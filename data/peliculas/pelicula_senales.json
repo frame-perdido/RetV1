@@ -1,0 +1,26 @@
+{
+  "url": "https://retrotve.com/pelicula/senales/",
+  "tipo": "pelicula",
+  "titulo": "Señales",
+  "titulo_original": "Signs",
+  "fecha_lanzamiento": "02-08-2002",
+  "generos": [
+    "Ciencia ficción",
+    "Drama",
+    "Misterio",
+    "Suspense"
+  ],
+  "directores": [
+    "Alison C. Rosa",
+    "Brick Mason",
+    "Dianne Dreyer",
+    "John Rusk",
+    "Kathryn-Ann Oaks Shertzer",
+    "M. Night Shyamalan"
+  ],
+  "sinopsis": "Graham Hess es un pastor protestante que vive con sus dos hijos y con su hermano, Merrill, una antigua estrella del béisbol que trabaja en una gasolinera. Tras la muerte de su esposa en un accidente de tráfico, Graham pierde la fe y, en consecuencia, abandona a sus feligreses. Una mañana, al despertarse, se encuentra con que sus hijos han hecho un descubrimiento escalofriante en los campos de maíz que rodean su granja.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/rsPjEr7o02mo8ex6wD2PbRwasUe.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11346&trtype=1"
+  ]
+}

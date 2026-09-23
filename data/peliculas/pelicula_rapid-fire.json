@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/rapid-fire/",
+  "tipo": "pelicula",
+  "titulo": "Rapid fire",
+  "titulo_original": "Rapid Fire",
+  "fecha_lanzamiento": "21-08-1992",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "directores": [
+    "Dwight H. Little",
+    "Gerald T. Olson",
+    "Sharron Reynolds-Enriquez"
+  ],
+  "sinopsis": "Jake Lo, un joven estudiante, es testigo de un asesinato, por lo que se convierte en el objetivo de un gran traficante de drogas al que su testimonio podría llevar a la cárcel. Traicionado por los agentes federales que debían protegerlo, su único aliado será Ryan, un honesto policía de Chicago, que fue amigo de su padre. Ambos unirán sus fuerzas para limpiar el nombre de Jake y detener al traficante.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/ECILueM2qNRK0eSNMr6OtldZcA.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11084&trtype=1"
+  ]
+}

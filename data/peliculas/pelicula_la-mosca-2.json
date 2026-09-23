@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/la-mosca-2/",
+  "tipo": "pelicula",
+  "titulo": "La mosca 2",
+  "titulo_original": "The Fly II",
+  "fecha_lanzamiento": "10-02-1989",
+  "generos": [
+    "Ciencia ficción",
+    "Terror"
+  ],
+  "directores": [
+    "Chris Walas",
+    "Jean Bereziuk",
+    "Kenna Marshall-Pittman",
+    "Peter D. Marshall",
+    "Peter Talbot",
+    "Richard Coleman"
+  ],
+  "sinopsis": "Tras la muerte del científico Seth Brundle a consecuencia de sus experimentos sobre la transmisión de la materia, una empresa de investigación genética, que estaba al tanto de sus descubrimientos, consigue que su compañera sentimental tenga el bebé que esperaba. El pequeño, debido a los genes de su padre, padece una alteración cromosomática que acelera de manera vertiginosa su crecimiento",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/gqQK0CIwAoNwQeUoVxhgv6Fw3T9.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11064&trtype=1"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/la-llave-magica/",
+  "tipo": "pelicula",
+  "titulo": "La llave mágica",
+  "titulo_original": "The Indian in the Cupboard",
+  "fecha_lanzamiento": "14-07-1995",
+  "generos": [
+    "Aventura",
+    "Familia",
+    "Fantasía"
+  ],
+  "directores": [
+    "David Fudge",
+    "Eric Brevig",
+    "Frank Oz",
+    "Michele Panelli-Venetis"
+  ],
+  "sinopsis": "Cuando cumple nueve años, Omri sólo recibe regalos convencionales. Sin embargo, descubrirá que dos de ellos, los que, a primera vista, parecen menos interesantes, tienen un carácter mágico, gracias al cual Omri vivirá emocionantes aventuras.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/zIDwM5vjcBMSeTIlGzubpabRgKt.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11046&trtype=1"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/la-cosa-el-enigma-de-otro-mundo/",
+  "tipo": "pelicula",
+  "titulo": "La cosa (El enigma de otro mundo)",
+  "titulo_original": "The Thing",
+  "fecha_lanzamiento": "25-06-1982",
+  "generos": [
+    "Ciencia ficción",
+    "Misterio",
+    "Terror"
+  ],
+  "directores": [
+    "Candy Artmont",
+    "Christine Wilson",
+    "Jeffrey Chernov",
+    "John Carpenter",
+    "Larry Franco",
+    "Michael Steele"
+  ],
+  "sinopsis": "En una estación experimental de la Antártida, un equipo de investigadores descubre a un ente extraño venido del espacio, que según todos los indicios ha permanecido enterrado en la nieve durante más de 100.000 años. Al descongelarse, experimenta una metamorfosis sorprendente…",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/jaO8WurWoUBE55nskqtFqPZFFaO.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10553&trtype=1"
+  ]
+}

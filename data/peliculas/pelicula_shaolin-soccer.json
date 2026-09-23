@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/shaolin-soccer/",
+  "tipo": "pelicula",
+  "titulo": "Shaolin Soccer",
+  "titulo_original": "少林足球",
+  "fecha_lanzamiento": "05-07-2001",
+  "generos": [
+    "Acción",
+    "Comedia"
+  ],
+  "directores": [
+    "Paco Yiu Fung-Suen",
+    "Poon Chun-Lam",
+    "Stephen Wong Wai-Him",
+    "周星馳",
+    "姚敏琦",
+    "程小東"
+  ],
+  "sinopsis": "Un joven seguidor de Shaolin reúne a sus hermanos para formar un equipo de fútbol usando sus habilidades en artes marciales a su favor.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lMRX4cLx4hxYth3iQ96c0E1RHGB.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11237&trtype=1"
+  ]
+}

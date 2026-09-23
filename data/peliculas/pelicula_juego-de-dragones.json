@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/juego-de-dragones/",
+  "tipo": "pelicula",
+  "titulo": "Juego de dragones",
+  "titulo_original": "Bridge of Dragons",
+  "fecha_lanzamiento": "30-06-1999",
+  "generos": [
+    "Acción",
+    "Ciencia ficción",
+    "Romance",
+    "Suspense"
+  ],
+  "directores": [
+    "Isaac Florentine",
+    "Krasimira Karachorova"
+  ],
+  "sinopsis": "En un futuro apocalíptico, después de un devastador holocausto bélico, dos naciones se enfrentan sin piedad para imponer su dominio. Una es partidaria del avance científico, mientras que la otra la rechaza. En medio de esta guerra se encuentra Warchild, un experto e invencible mercenario que pelea para una de las facciones. Después de una misión especialmente sangrienta, empieza a replantearse su trabajo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/j6zbQuWNPoLmwWsYsm7u3roXYuZ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10998&trtype=1"
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "url": "https://retrotve.com/pelicula/king-kong-2/",
+  "tipo": "pelicula",
+  "titulo": "King Kong",
+  "titulo_original": "King Kong",
+  "fecha_lanzamiento": "12-12-2005",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "directores": [
+    "Carolynne Cunningham",
+    "Del Chatterton",
+    "Merrin Ruck",
+    "Peter Jackson",
+    "Randall William Cook",
+    "Richard Matthews",
+    "Skot Thomas",
+    "Stephanie Weststrate",
+    "Veronique Lawrence",
+    "Victoria Sullivan"
+  ],
+  "sinopsis": "La suerte de Ann Darrow cambia cuando conoce a Carl Denham, un empresario que lucha para abrirse camino en el mundo del espectáculo. A ellos se une Jack Driscoll, un autor de teatro neoyorquino. Los tres emprenden un viaje que los llevará hasta una remota isla, donde Denham tiene previsto dirigir una película. Allí descubren un ser increíble, un gorila gigante, King Kong, que habita en una frondosa selva, donde criaturas prehistóricas han vivido ocultas durante millones de años. Denham, con un apetito insaciable de grandeza, enseguida ve la fama que puede reportarle la captura del gorila y su exhibición en Nueva York.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/mRM2NB0i3wv4HqxXvwIjEVi4Qqq.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11350&trtype=1"
+  ]
+}

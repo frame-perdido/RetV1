@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/la-rapsodia-del-vaquero/",
+  "tipo": "pelicula",
+  "titulo": "La Rapsodia Del Vaquero",
+  "titulo_original": "Rustlers' Rhapsody",
+  "fecha_lanzamiento": "10-05-1985",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Western"
+  ],
+  "directores": [
+    "Hugh Wilson"
+  ],
+  "sinopsis": "es una película estadounidense del género comedia y western de 1985, escrita y dirigida por Hugh Wilson.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/21QnPWq9Fcih2JmEylPG6Opus5T.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8186&trtype=1"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/la-matanza-de-texas/",
+  "tipo": "pelicula",
+  "titulo": "La matanza de Texas",
+  "titulo_original": "The Texas Chainsaw Massacre",
+  "fecha_lanzamiento": "21-05-2003",
+  "generos": [
+    "Terror"
+  ],
+  "directores": [
+    "Kathie Tull",
+    "Kenny Bates",
+    "Marcus Nispel",
+    "Pam Fuller",
+    "Phil Hardage",
+    "Randy Fletcher"
+  ],
+  "sinopsis": "Durante un viaje de Texas a México, un grupo de jóvenes recoge a una autoestopista ensangrentada que asegura que es la única superviviente de una masacre ocurrida la noche anterior en una casa cercana. Remake del clásico homónimo de Tobe Hooper (1974).",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/joj4ONoHmLGDoNGYph8ZPISphZ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11309&trtype=1"
+  ]
+}

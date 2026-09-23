@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/gente-como-uno/",
+  "tipo": "pelicula",
+  "titulo": "Gente como uno",
+  "titulo_original": "Ordinary People",
+  "fecha_lanzamiento": "19-09-1980",
+  "generos": [
+    "Drama"
+  ],
+  "directores": [
+    "Julie Pitkanen",
+    "Robert Redford"
+  ],
+  "sinopsis": "Un adolescente se culpa después de que su hermano murió ahogado en su barco. A pesar de intensas sesiones de terapia, no puede liberarse de la creencia de que debería haber muerto en su lugar y sus padres tampoco le ofrecen mucho consuelo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/vI626IhqpcwiASA7F5boT0mhxje.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=7961&trtype=1"
+  ]
+}

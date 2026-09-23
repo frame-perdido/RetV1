@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/la-marca-del-zorro/",
+  "tipo": "pelicula",
+  "titulo": "La marca del Zorro",
+  "titulo_original": "The Mark of Zorro",
+  "fecha_lanzamiento": "08-11-1940",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama",
+    "Romance"
+  ],
+  "directores": [
+    "Rouben Mamoulian"
+  ],
+  "sinopsis": "Cuando Don Diego Vega regresa a su hogar, descubre que su padre, el alcalde del pueblo de Los Angeles, ha sido destituido por el capitán Esteban Pasquale. Ocultando su identidad bajo una máscara, se convierte en el abanderado de la justicia social; e intentará que Don Luis Quintero abandone el puesto usurpado.  Obra maestra que narra las aventuras de El Zorro, el famoso espadachín. Tyrone Power tenía el difícil reto de hacer olvidar a Fairbanks, pero la acertada decisión de acentuar el lado romántico del personaje -en contraposición a su faceta atlética- ayudó a conseguir una versión a la altura de sus predecesoras.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/suJoy0DOeWIEW4EgnFwEfFDqSJb.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8179&trtype=1"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/juana-de-arco/",
+  "tipo": "pelicula",
+  "titulo": "Juana de Arco",
+  "titulo_original": "Joan of Arc",
+  "fecha_lanzamiento": "27-10-1999",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Luc Besson"
+  ],
+  "sinopsis": "En 1412, nace en Domrémy (Francia) la Doncella de Orleáns. La guerra de los Cien Años contra Inglaterra dura ya casi un siglo y ha devastado Francia. Juana es una muchacha profundamente religiosa. Después de tener su primera visión, vuelve a su hogar y se encuentra con que los ingleses han matado a su familia. Algunos años después, completamente convencida de que Dios le ha encomendado la misión de expulsar a los ingleses de Francia, va a ver al Delfín, el futuro Carlos VII, que le proporciona tropas para levantar el cerco de Orleáns.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/iW2ZLRkKJvFuI6ZkSchk5f8kCPc.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10962&trtype=1"
+  ]
+}

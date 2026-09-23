@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/linda-linda-linda/",
+  "tipo": "pelicula",
+  "titulo": "LINDA LINDA LINDA",
+  "titulo_original": "リンダ リンダ リンダ",
+  "fecha_lanzamiento": "23-07-2005",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Música"
+  ],
+  "directores": [
+    "佐藤英明",
+    "山下敦弘"
+  ],
+  "sinopsis": "La historia comienza con el inminente concurso que se celebra en el instituto Shibazaki y con la separación de la banda. Su cofundadora, Kei, decide pedir a la estudiante de intercambio coreana, Son, que sea la vocalista del grupo. El problema es que Son no se sabe las canciones y apenas habla japonés y sólo quedan tres días para el concurso.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/xSwyEYimb59e8Xcxvd3yZgR4249.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11292&trtype=1"
+  ]
+}

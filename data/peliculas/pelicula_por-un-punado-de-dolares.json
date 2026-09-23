@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/por-un-punado-de-dolares/",
+  "tipo": "pelicula",
+  "titulo": "Por un puñado de dólares",
+  "titulo_original": "Per un pugno di dollari",
+  "fecha_lanzamiento": "18-01-1964",
+  "generos": [
+    "Western"
+  ],
+  "directores": [
+    "Franco Giraldi",
+    "Julio Sempere",
+    "María Antonia Puerta",
+    "Mario Caiano",
+    "Sergio Leone",
+    "Tilde Watson",
+    "Tonino Valerii"
+  ],
+  "sinopsis": "Un forastero llega al pequeño pueblo de San Miguel. Silvanito, el posadero de la ciudad, le cuenta al forastero sobre una disputa entre dos familias que compiten por obtener el control de un pueblo de hombres muertos y mujeres viudas.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/ApjqczKExVLnHqnXEkibbBTbyTc.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8104&trtype=1"
+  ]
+}

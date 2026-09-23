@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/harakiri/",
+  "tipo": "pelicula",
+  "titulo": "Harakiri",
+  "titulo_original": "切腹",
+  "fecha_lanzamiento": "15-09-1962",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Kôji Niwa",
+    "小林正樹"
+  ],
+  "sinopsis": "Un samurái pide permiso para practicarse el Seppuku (o Harakiri), ceremonia durante la cual se quitará la vida abriéndose el estómago al tiempo que otro samurái lo decapitará. Solicita también poder contar la historia que le ha llevado a tomar tan trágica decisión.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/nC3IjYhUgZWgfKfFX0ygMigFwgc.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10443&trtype=1"
+  ]
+}

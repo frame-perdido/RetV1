@@ -1,0 +1,27 @@
+{
+  "url": "https://retrotve.com/pelicula/la-momia/",
+  "tipo": "pelicula",
+  "titulo": "La momia",
+  "titulo_original": "The Mummy",
+  "fecha_lanzamiento": "16-04-1999",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Fantasía"
+  ],
+  "directores": [
+    "Adam Somner",
+    "Cliff Lanning",
+    "Gary Talbot",
+    "Greg Michael",
+    "Jamie Christopher",
+    "Jim Threapleton",
+    "Stephen Sommers",
+    "Sylvie Chesneau"
+  ],
+  "sinopsis": "El legionario Rick O’Connell y su socio descubren durante una batalla en Egipto las ruinas de Hamunaptra, la ciudad de los muertos. Pasado un tiempo, este descubrimiento le permitirá salvar su vida y volver al lugar con una egiptóloga y su hermano, donde coinciden con un grupo de americanos. Todos ellos, seducidos por la aventura, provocarán la resurrección de la momia de un diabólico sacerdote egipcio que intenta desesperadamente recuperar a su amada.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/8zLS8p1tRyWFLRFfmgQq0j5WE6z.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10433&trtype=1"
+  ]
+}

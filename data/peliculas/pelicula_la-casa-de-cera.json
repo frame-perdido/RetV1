@@ -1,0 +1,26 @@
+{
+  "url": "https://retrotve.com/pelicula/la-casa-de-cera/",
+  "tipo": "pelicula",
+  "titulo": "La casa de cera",
+  "titulo_original": "House of Wax",
+  "fecha_lanzamiento": "05-05-2005",
+  "generos": [
+    "Misterio",
+    "Suspense",
+    "Terror"
+  ],
+  "directores": [
+    "Jamie Crooks",
+    "Jaume Collet-Serra",
+    "Jo Weeks",
+    "Julie Burton",
+    "Paul Sullivan",
+    "Tim Hughes",
+    "William H. Burton Sr."
+  ],
+  "sinopsis": "Un grupo de adolescentes inadvertidos se encuentran varados cerca de un extraño museo de cera y pronto deben luchar para sobrevivir y evitar convertirse en la próxima exposición.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/2J7re6BvXXxLFXCYZpTUmRKkTHn.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12092&trtype=1"
+  ]
+}

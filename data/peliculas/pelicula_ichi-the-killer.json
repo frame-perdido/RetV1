@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/ichi-the-killer/",
+  "tipo": "pelicula",
+  "titulo": "Ichi the Killer",
+  "titulo_original": "殺し屋1",
+  "fecha_lanzamiento": "22-12-2001",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Terror"
+  ],
+  "directores": [
+    "Takashi Miike"
+  ],
+  "sinopsis": "Un conocido jefe de la Yakuza (la mafia japonesa) desaparece junto con un botín de 100 millones de yenes. Su mano derecha, el sanguinario y masoquista Kakihara, y el resto del clan, emprenden su búsqueda, ya que no creen que se haya fugado. Para encontrarlo utilizarán todos los métodos que consideren oportunos, ya sea torturando o matando. Así, Kakihara consigue averiguar que lo que pensaban que era una desaparición, es en realidad un asesinato, cometido por un hombre llamado Ichi, un esquizofrénico que cuando pierde el control puede hacer picadillo, literalmente, a cualquiera. Con esto, quiere resarcirse de los traumas de la infancia, aunque lo que consigue es lo contrario. Pero Ichi no esta sólo en esta lucha, le acompañan unos repudiados del clan, destacando a Jijii, que es la cabeza del grupo y quien incita al caos que se organiza.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/un66GZUrJERTue20sgQI4hXMLfh.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10796&trtype=1"
+  ]
+}

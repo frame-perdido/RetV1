@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/maciste-en-el-infierno/",
+  "tipo": "pelicula",
+  "titulo": "Maciste en el Infierno",
+  "titulo_original": "Maciste all'inferno",
+  "fecha_lanzamiento": "19-10-1925",
+  "generos": [
+    "Drama",
+    "Fantasía",
+    "Terror"
+  ],
+  "directores": [
+    "Guido Brignone"
+  ],
+  "sinopsis": "Un grupo de demonios vienen a la Tierra para llevarse a Maciste. Pretenden engañarle para que se quede en el Infierno para siempre. Pero una diablesa se enamora de él.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/uSnGq2wggE06JiQ5yMA96YXJl1j.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10882&trtype=1"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/marcha-de-valientes/",
+  "tipo": "pelicula",
+  "titulo": "Marcha de valientes",
+  "titulo_original": "The Horse Soldiers",
+  "fecha_lanzamiento": "11-06-1959",
+  "generos": [
+    "Aventura",
+    "Bélica",
+    "Historia",
+    "Western"
+  ],
+  "directores": [
+    "John Ford"
+  ],
+  "sinopsis": "Un severo coronel de La Unión (Wayne) está al frente de un regimiento que debe infiltrarse en pleno territorio confederado para cumplir una difícil misión. En esta aventura lo acompaña un médico de buenos sentimientos (Holden). Para evitar que revele sus planes al enemigo, se ven obligados a llevarse como rehén a una joven rebelde sureña (Constance Towers).",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/6hrKMw9GVKuiYAJzlVyVebrisqC.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8073&trtype=1"
+  ]
+}

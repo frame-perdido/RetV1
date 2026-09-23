@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/la-maquina-del-tiempo1/",
+  "tipo": "pelicula",
+  "titulo": "La máquina del tiempo",
+  "titulo_original": "The Time Machine",
+  "fecha_lanzamiento": "04-03-2002",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "directores": [
+    "Sharon 'Mae' West",
+    "Simon Wells",
+    "Trudy Ramirez"
+  ],
+  "sinopsis": "El científico e inventor Alexander Hartdegen ha tomado la decisión de probar que los viajes a través del tiempo son posibles. Una tragedia personal que lo ha sumido en la desesperación es la razón de su deseo de volver al pasado. Pero la máquina de su invención, en contra de sus deseos, lo lleva al futuro (800.000 después), donde descubre que la humanidad se ha dividido en dos bandos: perseguidores y perseguidos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/i0eOILDW8HipIkOUSKhB1dvZzNJ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10638&trtype=1"
+  ]
+}

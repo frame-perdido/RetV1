@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/la-salchicha-peleona/",
+  "tipo": "pelicula",
+  "titulo": "El Ninja Blanco",
+  "titulo_original": "Beverly Hills Ninja",
+  "fecha_lanzamiento": "17-01-1997",
+  "generos": [
+    "Acción",
+    "Comedia"
+  ],
+  "directores": [
+    "Dennis Dugan",
+    "Hal Olofsson",
+    "Heather Kritzer",
+    "J.B. Rogers",
+    "Jeff Shiffman",
+    "Rick Barker",
+    "Susan Bierbaum"
+  ],
+  "sinopsis": "Un Ninja sin demasiado talento está decidido a salvar a una misteriosa dama en apuros. Chris Farley en Haru, un niño huérfano que llega a Japón y es confundido con el legendario Gran Ninja Blanco. Criado con un grupo de ninjas de élite, debido a su gran tamaño se convierte en la vergüenza de su clan. Pero cuando una bella rubia le pide ayuda para resolver una peligrosa misión en Beverly Hills, Haru tiene una oportunidad de oro, aunque sea arriesgando su vida, para demostrar de lo que es capaz.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/9A0MSMSF9BzjTsVRuAO9crT8Oto.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11211&trtype=1"
+  ]
+}

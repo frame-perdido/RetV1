@@ -1,0 +1,19 @@
+{
+  "url": "https://retrotve.com/pelicula/la-laguna-azul/",
+  "tipo": "pelicula",
+  "titulo": "La laguna azul",
+  "titulo_original": "The Blue Lagoon",
+  "fecha_lanzamiento": "05-07-1980",
+  "generos": [
+    "Aventura",
+    "Romance"
+  ],
+  "directores": [
+    "Randal Kleiser"
+  ],
+  "sinopsis": "Durante la época victoriana, dos jóvenes niños, Emmeline y Richard Lestrange son pasajeros de un velero que hace la ruta del cabo de Hornos con el padre de Richard, ya que los padres de Emmeline están muertos, y actúa como su tío. Un incendio provoca la destrucción de la nave, y el ayudante de cocina, Paddy, lleva a los niños en un bote salvavidas con él, pero ésto hace que los separen de los demás supervivientes, y los dejan a la deriva. Después de días sin rumbo fijo, llegan a una exuberante isla tropical.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/tSXYoqjCgPqlNuPNTCBbXJM5kYj.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8118&trtype=1"
+  ]
+}

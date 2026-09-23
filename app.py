@@ -1,9 +1,19 @@
 from fastapi import FastAPI, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from pathlib import Path
 import json
 from collections import Counter
 
 app = FastAPI(title="RetroTVE API", version="1.0")
+
+# CORS — permite peticiones desde tu web (y cualquier origen)
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=["*"],
+    allow_methods=["*"],
+    allow_headers=["*"],
+)
+
 DATA_DIR = Path(__file__).parent / "data"
 
 SERIES, PELICULAS = {}, {}

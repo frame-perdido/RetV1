@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/serie/transformers/",
+  "tipo": "serie",
+  "titulo": "Transformers G1",
+  "titulo_original": "The Transformers",
+  "primera_emision": "06-10-1984",
+  "ultima_emision": "11-11-1987",
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Ci-Fi & Fantasia",
+    "Kids"
+  ],
+  "directores": [
+    "Bob Budiansky",
+    "Kouzou Morishita"
+  ],
+  "sinopsis": "Un grupo de robots gigantes con la capacidad de transformarse en vehículos y animales mecánicos, los Autobots liderados por Optimus Prime están en una constante lucha contra los Decepticons liderados por Megatro, quien intentara apoderarse de la energía del planeta y conquistar el universo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/1XpTPpBDqMrP1USdJIiH2oBd7UU.jpg",
+  "temporadas": [],
+  "total_temporadas": 0,
+  "total_episodios": 0
+}

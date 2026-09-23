@@ -1,0 +1,117 @@
+{
+  "url": "https://retrotve.com/serie/yogis-gang/",
+  "tipo": "serie",
+  "titulo": "El Clan De Yogui",
+  "titulo_original": "Yogi's Gang",
+  "primera_emision": "08-09-1973",
+  "ultima_emision": "15-12-1973",
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "directores": [
+    "Joseph Barbera"
+  ],
+  "sinopsis": "La serie sigue al Oso Yogui junto a sus amigos — como Boo Boo, Huckleberry Hound, El Lagarto Juancho, entre muchos otros personajes del universo Hanna-Barbera.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/dhnYvRRRN3lPafL5RFxGBGLF6QH.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30905&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30906&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30907&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30908&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30909&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30910&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30911&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30912&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30913&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30914&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30915&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30916&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30917&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30918&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/el-clan-de-yogui-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=30919&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 15
+}

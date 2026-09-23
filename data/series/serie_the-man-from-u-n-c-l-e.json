@@ -1,0 +1,48 @@
+{
+  "url": "https://retrotve.com/serie/the-man-from-u-n-c-l-e/",
+  "tipo": "serie",
+  "titulo": "El agente de CIPOL",
+  "titulo_original": "The Man from U.N.C.L.E.",
+  "primera_emision": "22-09-1964",
+  "ultima_emision": "15-01-1968",
+  "generos": [
+    "Action & Adventure",
+    "Comedia",
+    "Live Action"
+  ],
+  "sinopsis": "El agente de CIPOL (Comisión Internacional Para la Observación de la Ley) es una serie de televisión estadounidense emitida por la cadena NBC desde septiembre de 1964 hasta enero de 1968.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/8h5ux2XmtevHqxJj6vRE2Zr9a0E.jpg",
+  "temporadas": [
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/el-agente-de-cipol-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32964&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/el-agente-de-cipol-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32965&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/el-agente-de-cipol-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32966&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/el-agente-de-cipol-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=32967&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 4
+}

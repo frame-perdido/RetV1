@@ -1,0 +1,463 @@
+{
+  "url": "https://retrotve.com/serie/yu-yu-hakusho/",
+  "tipo": "serie",
+  "titulo": "Yu Yu Hakusho",
+  "titulo_original": "幽☆遊☆白書",
+  "primera_emision": "10-10-1992",
+  "ultima_emision": "17-12-1994",
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Ci-Fi & Fantasia"
+  ],
+  "directores": [
+    "Yoshihiro Togashi"
+  ],
+  "sinopsis": "Yusuke Urameshi, un chico de catorce años un poco gamberro es atropellado por un coche cuando intentaba salvar la vida de un niño pequeño. Al ser atropellado, no sobrevive y muere. Entonces es cuando Botan le dice que su muerte no estaba prevista asi que no va ni al cielo ni al infierno, por lo cual se queda en la tierra como fantasma. Botan le dice de hacer una prueba para volver a la vida, la consigue superar y entonces es cuando le encomiendan la tarea de ser detective espiritual, con lo cual tendrá que resolver varios casos utilizando poderes espirituales que le dan.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/jhASKU27mt5jHTQbOItATshDcGY.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19991&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19992&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19993&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19994&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19995&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19996&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19997&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19998&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19999&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20000&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20001&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20002&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20003&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20004&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20005&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20006&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20007&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20008&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20009&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20010&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20011&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20012&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20013&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20014&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada1-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20015&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "temporada": 3,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20016&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20017&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20018&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20019&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20020&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20021&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20022&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20023&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20024&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20025&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20026&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20027&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20028&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20029&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20030&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20031&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20032&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20033&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20034&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20035&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20036&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20037&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20038&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20039&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20040&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20041&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio27/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20042&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada3-episodio28/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20043&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "temporada": 4,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20044&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20045&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20046&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20047&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20048&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20049&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20050&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20051&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20052&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20053&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20054&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20055&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20056&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20057&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20058&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20059&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20060&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/yu-yu-hakusho-temporada4-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=20061&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 3,
+  "total_episodios": 71
+}

@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/serie/tom-jerry/",
+  "tipo": "serie",
+  "titulo": "Tom & Jerry (1940-1967)",
+  "titulo_original": "The Tom and Jerry Show",
+  "primera_emision": "06-09-1940",
+  "ultima_emision": "13-12-1975",
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "directores": [
+    "Joseph Barbera",
+    "William Hanna"
+  ],
+  "sinopsis": "Tom y Jerry son dos personajes animados, un gato (Tom) y un ratón (Jerry), que protagonizaron un gran número de cortometrajes, escritos y dirigidos por William Hanna y Joseph Barbera (anterior a la fama de Hanna-Barbera). Las series fueron producidas por el estudio de Hollywood Metro-Goldwyn-Mayer desde 1940 hasta 1958, cuando el grupo de animación del e",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/qzt4GD1W5FLDqHwMVDjwkeNH843.jpg",
+  "temporadas": [],
+  "total_temporadas": 0,
+  "total_episodios": 0
+}

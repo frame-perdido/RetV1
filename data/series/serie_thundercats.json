@@ -1,0 +1,417 @@
+{
+  "url": "https://retrotve.com/serie/thundercats/",
+  "tipo": "serie",
+  "titulo": "ThunderCats",
+  "titulo_original": "ThunderCats",
+  "primera_emision": "23-01-1985",
+  "ultima_emision": "29-09-1989",
+  "generos": [
+    "Action & Adventure",
+    "Animación",
+    "Ci-Fi & Fantasia"
+  ],
+  "directores": [
+    "Tobin Wolf"
+  ],
+  "sinopsis": "Los ThunderCats (Felinos Cósmicos) son personajes mitad humanos y mitad felinos. Ellos huyen de su natal Thundera porque el planeta estaba a punto de estallar, en su nave espacial se colocan en una especie de cápsulas donde no envejecerían el único que no entró en ellas fue Jaga el líder. Malignos seres atacan la nave dañándola severamente. Antes de morir Jaga logra llevar a la nave al Tercer Planeta en donde los felinos estarían a salvo…",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/g932ssM33fpOJaHYnrQHa2nmBXy.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33275&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33276&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33277&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33278&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33279&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33280&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33281&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33282&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33283&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33284&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33285&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33286&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33287&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33288&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33289&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33290&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33291&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33292&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33293&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33294&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33295&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33296&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33297&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33298&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33299&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33300&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 27,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio27/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33301&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 28,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio28/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33302&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 29,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio29/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33303&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 30,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio30/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33304&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 31,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio31/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33305&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 32,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio32/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33306&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 33,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio33/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33307&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 34,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio34/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33308&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 35,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio35/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33309&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 36,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio36/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33310&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 37,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio37/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33311&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 38,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio38/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33312&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 39,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio39/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33313&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 40,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio40/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33314&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 41,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio41/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33315&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 42,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio42/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33316&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 43,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio43/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33317&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 44,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio44/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33318&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 45,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio45/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33319&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 46,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio46/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33320&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 47,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio47/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33321&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 48,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio48/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33322&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 49,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio49/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33323&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 50,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio50/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33324&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 51,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio51/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33325&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 52,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio52/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33326&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 53,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio53/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33327&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 54,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio54/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33328&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 55,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio55/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33329&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 56,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio56/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33330&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 57,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio57/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33331&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 58,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio58/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33332&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 59,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio59/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33333&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 60,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio60/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33334&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 61,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio61/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33335&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 62,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio62/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33336&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 63,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio63/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33337&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 64,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio64/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33338&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 65,
+          "url_pagina": "https://retrotve.com/seriestv/thundercats-temporada1-episodio65/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=33339&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 65
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://retrotve.com/pelicula/tornado/",
+  "tipo": "pelicula",
+  "titulo": "Tornado",
+  "titulo_original": "Twister",
+  "fecha_lanzamiento": "10-05-1996",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Drama"
+  ],
+  "directores": [
+    "Alexander Witt",
+    "David K. Riebel",
+    "Jan de Bont",
+    "John M. Morse",
+    "Matthew Carlisle",
+    "Richard Oswald",
+    "Trudy Ramirez"
+  ],
+  "sinopsis": "El meteorólogo de televisión Bill Harding está tratando de conseguir que su esposa, la cazadora de tormentas, Jo, firme documentos de divorcio para poder casarse con su novia Melissa. Pero la Madre Naturaleza, en forma de una serie de intensas tormentas que recorren Oklahoma, tiene otros planes. Pronto, los tres se unieron al equipo de stormchasers mientras intentaban insertar un revolucionario dispositivo de medición en el corazón de varios tornados extremadamente violentos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/5oCAo7LFj2x0yByfi5JYirGnK8I.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12107&trtype=1"
+  ]
+}

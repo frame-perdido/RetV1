@@ -1,0 +1,21 @@
+{
+  "url": "https://retrotve.com/pelicula/tropa-de-elite/",
+  "tipo": "pelicula",
+  "titulo": "Tropa de élite",
+  "titulo_original": "Tropa de Elite",
+  "fecha_lanzamiento": "12-10-2007",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama"
+  ],
+  "directores": [
+    "José Padilha",
+    "Olivia Rabacov"
+  ],
+  "sinopsis": "Inspirada en hechos reales del Batallón de Operaciones Policiales Especiales (BOPE). En 1997, el capitán Nascimento tiene que encontrara su sucesor, entre tanto continúa intentando limpiar las calles de Río de narcos y criminales antes de la llegada del Papa.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/huUgrGkCetYSkDl5fMvZCXCbFKl.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11218&trtype=1"
+  ]
+}

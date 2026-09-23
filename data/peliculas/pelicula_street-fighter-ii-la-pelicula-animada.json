@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/street-fighter-ii-la-pelicula-animada/",
+  "tipo": "pelicula",
+  "titulo": "Street Fighter II",
+  "titulo_original": "ストリートファイター II MOVIE",
+  "fecha_lanzamiento": "06-08-1994",
+  "generos": [
+    "Acción",
+    "Animación"
+  ],
+  "directores": [
+    "杉井ギサブロー",
+    "遠藤卓司"
+  ],
+  "sinopsis": "Bison, el líder despiadado de la organización terrorista internacional Shadowlaw, ha estado buscando desesperadamente el mayor combatiente del planeta durante años. Lo encuentra en Ryu, un joven vagabundo que nunca permanece en un lugar el tiempo suficiente para que Bison lo encuentre. Él, sin embargo, consigue una solución en Ken Masters, un campeón de artes marciales de América que estudió con Ryu como un niño bajo el mismo maestro. Mientras tanto, el mayor Guile del ejército de Estados Unidos se ve obligado a unirse a Chun Li de China con la esperanza de detener a Bison y poner fin a su círculo internacional de delitos.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/1UQ1CrivYG1duZZGHZ9SXemC3UA.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12052&trtype=1"
+  ]
+}

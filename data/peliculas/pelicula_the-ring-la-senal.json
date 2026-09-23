@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/the-ring-la-senal/",
+  "tipo": "pelicula",
+  "titulo": "The Ring (La señal)",
+  "titulo_original": "The Ring",
+  "fecha_lanzamiento": "18-10-2002",
+  "generos": [
+    "Misterio",
+    "Terror"
+  ],
+  "directores": [
+    "Benita Allen",
+    "Charles Gibson",
+    "Frederic Roth",
+    "Giselle Gurza",
+    "Gore Verbinski"
+  ],
+  "sinopsis": "Rachel Keller es una periodista de investigación que no da mucho crédito a lo que considera una especie de leyenda urbana: al parecer, circula por ahí una cinta de vídeo con imágenes aterradoras, que va acompañada de una llamada telefónica en la que se predice, con una semana de antelación, la muerte de quien las ha visto. Sin embargo, cuando cuatro adolescentes encuentran la muerte exactamente una semana después de ver el vídeo, la curiosidad se apodera de ella y no parará hasta encontrar la cinta y verla.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/kQOLgJGvFjQ7EwGfaPkW9dlGFXJ.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11296&trtype=1"
+  ]
+}

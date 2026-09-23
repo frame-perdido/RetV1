@@ -1,0 +1,22 @@
+{
+  "url": "https://retrotve.com/pelicula/zoolander/",
+  "tipo": "pelicula",
+  "titulo": "Zoolander",
+  "titulo_original": "Zoolander",
+  "fecha_lanzamiento": "28-09-2001",
+  "generos": [
+    "Comedia"
+  ],
+  "directores": [
+    "Amy Sayres",
+    "Ben Stiller",
+    "Bradley Morris",
+    "Eva Z. Cabrera",
+    "Maggie Murphy"
+  ],
+  "sinopsis": "Basada en los caracteres co-creados por Ben Stiller y Drake Sather. La comedia original Zoolander sigue a los más famosos del mundo y huecos de la cabeza. Un modelo descubre el horripilante secreto detrás de Por que no hay hombres modelos que viven pasando los 30s.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/lIyyiBOuyokL82rPEDcZaMKleA3.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12243&trtype=1"
+  ]
+}

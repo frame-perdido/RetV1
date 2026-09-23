@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/tren-de-medio-dia/",
+  "tipo": "pelicula",
+  "titulo": "Tren De Medio Dia",
+  "titulo_original": "High Noon",
+  "fecha_lanzamiento": "09-06-1952",
+  "generos": [
+    "Suspense",
+    "Western"
+  ],
+  "directores": [
+    "Emmett Emerson",
+    "Fred Zinnemann"
+  ],
+  "sinopsis": "Will Kane (Gary Cooper), el sheriff del pequeño pueblo de Hadleyville, acaba de contraer matrimonio con Amy (Grace Kelly). Los recién casados proyectan trasladarse a la ciudad y abrir un pequeño negocio; pero, de repente, empieza a correr por el pueblo la noticia de que Frank Miller (Ian MacDonald), un criminal que Kane había atrapado y llevado ante la justicia, ha salido de la cárcel y llegará al pueblo en el tren del mediodía para vengarse. El tiempo va pasando lentamente, pero nadie en el pueblo está dispuesto a ayudar al sheriff.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/6S4gjpkd359UuMLfrnUV1M695DF.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8169&trtype=1"
+  ]
+}

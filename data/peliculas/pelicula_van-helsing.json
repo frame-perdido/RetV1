@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/van-helsing/",
+  "tipo": "pelicula",
+  "titulo": "Van Helsing",
+  "titulo_original": "Van Helsing",
+  "fecha_lanzamiento": "03-05-2004",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Terror"
+  ],
+  "directores": [
+    "Greg Michael",
+    "Lukáš Líbal",
+    "Maria Battle Campbell",
+    "Stephen Sommers",
+    "Sylvie Chesneau"
+  ],
+  "sinopsis": "Siglo XIX. En medio de los montes de los Cárpatos está la misteriosa y mítica Transilvania, donde el mal siempre está presente, el peligro aparece cuando el sol se pone… y donde toman forma los monstruos que habitan las pesadillas de los hombres.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/d72ROyJqXQtw2OupW0l15eicRAF.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10943&trtype=1"
+  ]
+}

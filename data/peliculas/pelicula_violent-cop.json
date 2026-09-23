@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/violent-cop/",
+  "tipo": "pelicula",
+  "titulo": "Violent Cop",
+  "titulo_original": "その男、凶暴につき",
+  "fecha_lanzamiento": "12-08-1989",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Drama",
+    "Suspense"
+  ],
+  "directores": [
+    "Takeshi Kitano",
+    "Toshihiro Tenma",
+    "月野木隆"
+  ],
+  "sinopsis": "El detective Azuma es un policía solitario de métodos expeditivos que se ve envuelto en asuntos turbios al intentar salvar a su amigo y compañero corrupto Iwaki, que suministra y se abastece de sustancias confiscadas por la policía. Cuando una organización criminal de narcotraficantes yakuza asesina a su amigo y secuestra a su hermana, Azuma inicia una violenta y despiadada forma de justicia.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/pke5AwrVUHqHlhNqFwE70haXYCP.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10789&trtype=1"
+  ]
+}

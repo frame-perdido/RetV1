@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/stalingrado/",
+  "tipo": "pelicula",
+  "titulo": "Stalingrado",
+  "titulo_original": "Stalingrad",
+  "fecha_lanzamiento": "20-01-1993",
+  "generos": [
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "Ilona Brennicke",
+    "Joseph Vilsmaier",
+    "Sabine Riedrich",
+    "Sonja Pawlowa"
+  ],
+  "sinopsis": "Riviera italiana, finales del año 1942. Un grupo de soldados alemanes goza de unos días de descanso antes de acudir al frente ruso para combatir en Stalingrado. El conflicto será tan sangriento que minará sus fuerzas y su moral. Una de las producciones más costosas del cine alemán de los últimos años, realizada con motivo del 50º aniversario de la conocida batalla. Su director, Joseph Vilsmaier (“Leche de otoño”), realiza un análisis psicológico de los cuatro soldados protagonistas. Todo sirve a Vilsmaier para denunciar la crueldad de la guerra. A destacar también las escenas de batalla, sin duda las más crudas de la historia del género hasta que llegó “Salvar al soldado Ryan”.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/mo2O5ESdB7PWnY3OBS9jjvjeskB.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10527&trtype=1"
+  ]
+}

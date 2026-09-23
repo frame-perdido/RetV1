@@ -1,0 +1,24 @@
+{
+  "url": "https://retrotve.com/pelicula/temblores-2-la-respuesta/",
+  "tipo": "pelicula",
+  "titulo": "Temblores 2: La respuesta",
+  "titulo_original": "Tremors 2: Aftershocks",
+  "fecha_lanzamiento": "09-04-1996",
+  "generos": [
+    "Acción",
+    "Comedia",
+    "Terror"
+  ],
+  "directores": [
+    "Harri James",
+    "Hilbert Hakim",
+    "Jeffrey Wetzel",
+    "Peter Chesney",
+    "S.S. Wilson"
+  ],
+  "sinopsis": "Las criaturas subterráneas que aterrorizaron a un pueblecito se abren ahora camino a través de los campos mexicanos. De nuevo, la población vuelve a estar a la expectativa, deseando que esta situación acabe pronto.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/n5nhW9WXfGyeXCTF8I0E5g219Hs.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10749&trtype=1"
+  ]
+}

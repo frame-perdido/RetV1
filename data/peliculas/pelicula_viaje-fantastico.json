@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/viaje-fantastico/",
+  "tipo": "pelicula",
+  "titulo": "Viaje fantástico",
+  "titulo_original": "Fantastic Voyage",
+  "fecha_lanzamiento": "24-08-1966",
+  "generos": [
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "directores": [
+    "Ad Schaumer",
+    "Richard Fleischer"
+  ],
+  "sinopsis": "El profesor Bennet es un científico que ha creado una fórmula que permitiría reducir el cuerpo humano a un tamaño microscópico durante un tiempo ilimitado. Cuando se dispone a entregarla al Pentágono, unos espías provocan un accidente de tráfico que deja al profesor incapacitado para toda labor científica. Pero las Fuerzas Disuasorias de Miniaturas Combinadas ponen en marcha un plan para operarlo desde el interior.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/mXMoQjJjoAhLl51uVDZlSGMPb9S.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=12158&trtype=1"
+  ]
+}

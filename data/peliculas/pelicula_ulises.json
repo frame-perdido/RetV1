@@ -1,0 +1,23 @@
+{
+  "url": "https://retrotve.com/pelicula/ulises/",
+  "tipo": "pelicula",
+  "titulo": "Las Aventuras De Ulises",
+  "titulo_original": "Ulisse",
+  "fecha_lanzamiento": "06-10-1954",
+  "generos": [
+    "Aventura",
+    "Fantasía"
+  ],
+  "directores": [
+    "Giovannella Zannoni",
+    "Guidarino Guidi",
+    "Mario Camerini",
+    "Otto Pellegrini",
+    "Serge Vallin"
+  ],
+  "sinopsis": "Adaptación de “La Odisea” de Homero. Terminada la guerra de Troya con la victoria de los griegos, Ulises (Kirk Douglas) navegará durante diez largos años, teniendo que superar terribles dificultades, antes de llegar a su palacio de Ítaca.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/cOwiPEr9cXPojo1VcwrwXHgPfGd.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10840&trtype=1"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "url": "https://retrotve.com/pelicula/tiburon/",
+  "tipo": "pelicula",
+  "titulo": "Tiburón",
+  "titulo_original": "Jaws",
+  "fecha_lanzamiento": "20-06-1975",
+  "generos": [
+    "Aventura",
+    "Suspense",
+    "Terror"
+  ],
+  "directores": [
+    "Barbara Bass",
+    "Charlsie Bryant",
+    "Joe Alves",
+    "L. Andrew Stone",
+    "Steven Spielberg",
+    "Tom Joyner",
+    "Verna Fields"
+  ],
+  "sinopsis": "En la costa de un pequeño pueblo del Este de Estados Unidos, un enorme tiburón ataca a varias personas. Temiendo las fatales consecuencias que esto puede provocar en el negocio turístico, el alcalde se niega a cerrar las playas y a difundir la noticia. Pero un nuevo ataque del tiburón, en la propia playa, termina con la vida de otro bañista. El terror se ha hecho público, así que un veterano cazador de tiburones, un científico y el jefe de la policía local se unen para dar caza al temible escualo…",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/i1yf91svRHX45l9BXL8rVFzLoPH.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11718&trtype=1"
+  ]
+}

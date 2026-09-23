@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/tres-forajidos-y-un-pistolero/",
+  "tipo": "pelicula",
+  "titulo": "Tres forajidos y un pistolero",
+  "titulo_original": "The Spikes Gang",
+  "fecha_lanzamiento": "11-04-1974",
+  "generos": [
+    "Acción",
+    "Western"
+  ],
+  "directores": [
+    "Isabel Mulá",
+    "Richard Fleischer"
+  ],
+  "sinopsis": "Tres muchachos, deseosos de vivir aventuras y de escapar de una vida de miseria y malos tratos, se unen a un viejo y legendario atracador de bancos, al que consideran un héroe.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/6YE0hLfI0GSFWravBxEc63oe63P.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11674&trtype=1"
+  ]
+}

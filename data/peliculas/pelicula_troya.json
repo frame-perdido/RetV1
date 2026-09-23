@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/troya/",
+  "tipo": "pelicula",
+  "titulo": "Troya",
+  "titulo_original": "Troy",
+  "fecha_lanzamiento": "13-05-2004",
+  "generos": [
+    "Acción",
+    "Bélica",
+    "Historia"
+  ],
+  "directores": [
+    "Anna Worley",
+    "Ben Burt",
+    "Javier Clave",
+    "Simon Crane",
+    "Tara McNamee",
+    "Wolfgang Petersen"
+  ],
+  "sinopsis": "A lo largo de los tiempos, los hombres han hecho la guerra. Unos por poder, otros por gloria o por honor, y algunos por amor. En la antigua Grecia, la pasión de dos de los amantes más legendarios de la historia, Paris, príncipe de Troya y Helena, reina de Esparta, desencadena una guerra que asolará una civilización. El rapto de Helena por Paris, separándola de su esposo, el rey Menelao, es un insulto que El orgullo familiar establece que una afrenta a Menelao es una afrenta a su hermano Agamenón, el poderoso rey de Micenas, que no tarda en reunir a todas las grandes tribus de Grecia para recuperar a Helena de manos de los troyanos y defender el honor de su hermano. La verdad es que la lucha por el honor por parte de Agamenón está corrompida por su incontenible codicia ya que necesita conquistar Troya para asumir el control del mar Egeo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/y51M7Ca95sCXTCDvJaRP1uzxKbg.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=11124&trtype=1"
+  ]
+}

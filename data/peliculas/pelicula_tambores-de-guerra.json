@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/tambores-de-guerra/",
+  "tipo": "pelicula",
+  "titulo": "A Lo Largo Del Mohawk",
+  "titulo_original": "Drums Along the Mohawk",
+  "fecha_lanzamiento": "10-11-1939",
+  "generos": [
+    "Bélica",
+    "Drama",
+    "Historia"
+  ],
+  "directores": [
+    "John Ford"
+  ],
+  "sinopsis": "Albany, Nueva York, 1776. Después de casarse, Gil y Lana viajan al norte para instalarse en una pequeña granja en el valle del río Mohawk; pero pronto su creciente prosperidad y felicidad se ven amenazadas por el siniestro sonido de los tambores que anuncian oscuros tiempos de revolución y guerra.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/7WAIVDbISW49JZapha2Do88v8mr.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=8064&trtype=1"
+  ]
+}

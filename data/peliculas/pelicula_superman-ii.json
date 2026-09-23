@@ -1,0 +1,33 @@
+{
+  "url": "https://retrotve.com/pelicula/superman-ii/",
+  "tipo": "pelicula",
+  "titulo": "Superman II",
+  "titulo_original": "Superman II",
+  "fecha_lanzamiento": "12-12-1980",
+  "generos": [
+    "Acción",
+    "Aventura",
+    "Ciencia ficción"
+  ],
+  "directores": [
+    "Christopher Newman",
+    "David Tomblin",
+    "Doris Martin",
+    "Dusty Symonds",
+    "Elaine Schreyeck",
+    "Gareth Tandy",
+    "Katya Kolpaktchy",
+    "Pamela Davies",
+    "Paul Storey",
+    "Raoul Girard",
+    "Richard Lester",
+    "Robert Lynn",
+    "Roy Button",
+    "Terry Madden"
+  ],
+  "sinopsis": "Tres criminales, procedentes del planeta Krypton, a los que el padre de Superman condenó a vagar por el espacio, eluden su condena y se dirigen a la Tierra para enfrentarse a Superman, en una batalla cósmica por la supremacía sobre el planeta. Al mismo tiempo, el superhéroe continúa ocultando su identidad tras la tímida personalidad del reportero Clark Kent, aunque su novia Lois Lane comienza a sospechar algo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/e77VeVcrXhxfCdJWD9rameYn7Qn.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10671&trtype=1"
+  ]
+}

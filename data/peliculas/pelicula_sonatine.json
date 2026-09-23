@@ -1,0 +1,20 @@
+{
+  "url": "https://retrotve.com/pelicula/sonatine/",
+  "tipo": "pelicula",
+  "titulo": "Sonatine (1993)",
+  "titulo_original": "Sonatine",
+  "fecha_lanzamiento": "10-09-1993",
+  "generos": [
+    "Acción",
+    "Crimen",
+    "Suspense"
+  ],
+  "directores": [
+    "Takeshi Kitano"
+  ],
+  "sinopsis": "Murakawa (Kitano) es un yakuza de Tokyo que es enviado por su jefe a terminar una guerra de gángsters en Okinawa. (FILMAFFINITY)",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/wVQbMLpczyxlPKJWo6Qk3A1v2rB.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10909&trtype=1"
+  ]
+}

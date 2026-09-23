@@ -1,0 +1,25 @@
+{
+  "url": "https://retrotve.com/pelicula/sin-escape-ganar-o-morir/",
+  "tipo": "pelicula",
+  "titulo": "Sin Escape (Ganar o morir)",
+  "titulo_original": "Nowhere to Run",
+  "fecha_lanzamiento": "15-01-1993",
+  "generos": [
+    "Acción",
+    "Drama",
+    "Romance",
+    "Suspense"
+  ],
+  "directores": [
+    "Brian W. Cook",
+    "Carl Goldstein",
+    "Peter MacDonald",
+    "Robert Brooks Mendel",
+    "Robert Harmon"
+  ],
+  "sinopsis": "Un preso logra escapar del furgón policial que le trasladaba y se oculta en las proximidades de una granja. Allí vive una mujer dominada por un terrateniente que quiere apoderarse de sus tierras, y el proscrito no puede evitar intervenir en el asunto aunque suponga arriesgar demasiado.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/5VF6N8dPSSPeyQdQoQ53mxDcUjw.jpg",
+  "urls_directas": [
+    "https://retrotve.com/?trembed=0&trid=10634&trtype=1"
+  ]
+}

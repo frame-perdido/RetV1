@@ -1,0 +1,107 @@
+{
+  "url": "https://retrotve.com/serie/la-fuga-de-logan/",
+  "tipo": "serie",
+  "titulo": "La fuga de Logan",
+  "titulo_original": "Logan's Run",
+  "primera_emision": "16-09-1977",
+  "ultima_emision": "06-02-1978",
+  "generos": [
+    "Action & Adventure",
+    "Ci-Fi & Fantasia"
+  ],
+  "sinopsis": "Esta distopía, publicada en 1967 y ambientada en 2116, describe una sociedad formada exclusivamente por jóvenes de hasta 21 años, que deben entregarse al llegar a esa edad para ser dormidos en un sueño inducido. Los que no se entregan son perseguidos por los Vigilantes, con permiso para matar a los fugitivos con un arma dotada de distintos tipos de proyectiles. El control de la edad se efectúa mediante una flor “colocada” en la mano de cada persona al nacer, y cambia de color hasta llegar al negro, que marca el momento de cumplir la edad máxima permitida.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/tb44dPJeYyKMJ8qW9X9tvhCD7X8.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19305&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19306&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19307&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19308&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19309&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19310&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19311&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19312&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19313&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19314&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19315&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19316&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19317&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-fuga-de-logan-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19318&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 14
+}

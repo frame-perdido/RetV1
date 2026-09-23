@@ -1,0 +1,326 @@
+{
+  "url": "https://retrotve.com/serie/garfield-y-sus-amigos/",
+  "tipo": "serie",
+  "titulo": "Garfield y sus amigos",
+  "titulo_original": "Garfield and Friends",
+  "primera_emision": "17-09-1988",
+  "ultima_emision": "10-12-1994",
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "directores": [
+    "Jim Davis"
+  ],
+  "sinopsis": "Cada espectáculo se divide en historias sobre ya sea Garfield y Odie y en los problemas en los que se meten, u Orson el cerdo y sus aventuras en una granja con sus compañeros los animales de granja.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/69g8NnStOySjRgaRQxmV21gSrrF.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31221&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31222&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31223&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31224&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31225&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31226&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31227&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31228&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31229&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31230&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31231&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31232&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31233&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31234&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31235&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31236&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31237&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31238&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31239&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31240&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31241&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31242&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31243&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada1-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31244&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31360&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31361&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31362&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31363&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31364&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31365&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31366&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31367&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31368&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31369&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31370&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31371&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31372&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31373&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31374&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31375&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31376&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31377&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31378&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31379&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31380&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31381&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31382&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=31383&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 40,
+          "url_pagina": "https://retrotve.com/seriestv/garfield-y-sus-amigos-temporada2-episodio40/",
+          "url_directa": null
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 2,
+  "total_episodios": 49
+}

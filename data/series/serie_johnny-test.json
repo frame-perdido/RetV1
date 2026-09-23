@@ -1,0 +1,271 @@
+{
+  "url": "https://retrotve.com/serie/johnny-test/",
+  "tipo": "serie",
+  "titulo": "Johnny Test",
+  "titulo_original": "Johnny Test",
+  "primera_emision": "17-09-2005",
+  "ultima_emision": "18-06-2014",
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Kids"
+  ],
+  "directores": [
+    "Scott Fellows"
+  ],
+  "sinopsis": "Johnny Test, un ingenioso niño de 11 años, y Dukey, su perro transgénico parlante, protagonizan aventuras para salvar a su familia y al mundo.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/ecxpOnYv7iTUVNUmZRoxRksaC1f.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21924&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21925&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21926&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21927&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21928&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21929&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21930&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21931&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21932&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21933&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21934&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21935&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21936&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21951&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21952&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21953&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21954&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21955&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21956&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21957&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21958&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21959&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21960&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21961&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21962&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=21963&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "temporada": 3,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22086&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22087&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22088&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22089&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22090&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22091&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22092&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22093&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22094&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22095&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22096&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22097&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/johnny-test-temporada3-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=22098&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 3,
+  "total_episodios": 39
+}

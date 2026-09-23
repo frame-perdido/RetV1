@@ -1,0 +1,367 @@
+{
+  "url": "https://retrotve.com/serie/la-bella-y-la-bestia/",
+  "tipo": "serie",
+  "titulo": "La bella y la bestia",
+  "titulo_original": "Beauty and the Beast",
+  "primera_emision": "25-09-1987",
+  "ultima_emision": "04-08-1990",
+  "generos": [
+    "Crimen",
+    "Drama",
+    "Live Action"
+  ],
+  "directores": [
+    "Ron Koslow"
+  ],
+  "sinopsis": "Las aventuras y el romance de un hombre-león sensible y culto y un asistente del fiscal de distrito cruzado en Manhattan, Ciudad de Nueva York.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/4K3CozV3rsdM5YAkoic1018Rbp0.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19386&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19387&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19388&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19389&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19390&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19391&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19392&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19393&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19394&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=19395&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=2&trid=19396&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19397&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19398&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19399&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19400&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19401&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19402&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19403&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19404&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19405&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19406&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=19407&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28188&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28189&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28190&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28191&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28192&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28193&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28194&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28195&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28196&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28197&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28198&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28199&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28200&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28201&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28202&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28203&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28204&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28205&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28206&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28207&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28208&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada2-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28209&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "temporada": 3,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28598&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28599&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28600&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28601&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28602&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28603&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28604&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28605&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28606&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28607&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-bella-y-la-bestia-temporada3-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=28608&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 3,
+  "total_episodios": 55
+}

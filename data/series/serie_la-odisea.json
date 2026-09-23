@@ -1,0 +1,35 @@
+{
+  "url": "https://retrotve.com/serie/la-odisea/",
+  "tipo": "serie",
+  "titulo": "La odisea",
+  "titulo_original": "La Odisea",
+  "primera_emision": "18-05-1997",
+  "ultima_emision": "19-05-1997",
+  "generos": [
+    "Action & Adventure",
+    "Ci-Fi & Fantasia",
+    "Drama",
+    "Live Action"
+  ],
+  "directores": [
+    "Homero",
+    "Андрей Кончаловский"
+  ],
+  "sinopsis": "Miniserie de TV. 2 episodios. Ulises es el rey de Ítaca. Comparte el trono con Penélope, su bella esposa, con la que tiene un hijo, Telémaco. La campaña de Troya requiere su presencia, por lo que, muy a su pesar, debe dejar a su familia y a su patria por un tiempo. Durante la guerra ideará el legendario ardid del caballo de madera, con el que conseguirá engañar a sus enemigos y poner fin a la guerra. Sin embargo, durante la noche comete un grave error: llevado por la euforia y el alcohol, blasfema inocentemente contra los dioses. Poseidón, gravemente ofendido, decide poner sobre Ulises y sus hombres una terrible maldición: jamás podrán regresar a sus hogares hasta que comprendan que no pueden enfrentarse a sus divinidades. A partir de ahora, deberán superar una serie de peligrosas pruebas que convertirán su viaje de regreso en una increíble aventura. Así, Ulises recibirá una gran lección: aprenderá cuál es la diferencia existente entre astucia y sabiduría, y que la felicidad, precisamente, reside en ésta última.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/jmCegdxo0woQ3GpI3IuR7XxSMWN.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-odisea-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=24250&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 1
+}

@@ -1,0 +1,917 @@
+{
+  "url": "https://retrotve.com/serie/la-ninera/",
+  "tipo": "serie",
+  "titulo": "La Niñera",
+  "titulo_original": "The Nanny",
+  "primera_emision": "03-11-1993",
+  "ultima_emision": "12-05-1999",
+  "generos": [
+    "Comedia",
+    "Familia",
+    "Live Action"
+  ],
+  "directores": [
+    "Fran Drescher",
+    "Peter Marc Jacobson"
+  ],
+  "sinopsis": "Fran Fine (Fran Drescher), una joven judía del barrio de Queens de Nueva York, al ser despedida de la tienda donde trabajaba junto a su ex novio, encuentra un empleo como canguro en casa de Maxwell Sheffield (Charles Shaughnessy), un millonario productor de Broadway que vive solo con sus tres hijos. Fran vive una vida llena de sorpresas en la que trata de enamorar al padre de los niños que cuida.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/hMHTCkiwUzsSZeDqeMiRdtX3qSG.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=34421&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34422&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34423&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34424&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34425&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34426&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34427&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34428&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34429&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34430&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34431&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34432&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34433&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34434&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34435&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34436&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34437&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34438&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34439&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34440&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34441&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada1-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34442&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 2,
+      "episodios": [
+        {
+          "temporada": 2,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35707&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35708&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35709&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35710&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio5/",
+          "url_directa": null
+        },
+        {
+          "temporada": 2,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35712&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35713&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35714&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35715&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35716&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35717&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35718&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35719&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35720&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35721&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35722&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35723&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35724&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35725&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35726&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35727&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35728&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35729&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35730&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35731&trtype=2"
+        },
+        {
+          "temporada": 2,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada2-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=35732&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 3,
+      "episodios": [
+        {
+          "temporada": 3,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34220&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34221&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34222&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34223&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34224&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34225&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34226&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34227&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34228&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34229&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34230&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34231&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34232&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34233&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34234&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34235&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34236&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34237&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34238&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34239&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34240&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34241&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34242&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34243&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34244&trtype=2"
+        },
+        {
+          "temporada": 3,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada3-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34245&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 4,
+      "episodios": [
+        {
+          "temporada": 4,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34348&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34349&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34350&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34351&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34352&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34353&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34354&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34355&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34356&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34357&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34358&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34359&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34360&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34361&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34362&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34363&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34364&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34365&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34366&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34367&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34368&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio22/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34369&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34370&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 24,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio24/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34371&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 25,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio25/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34372&trtype=2"
+        },
+        {
+          "temporada": 4,
+          "episodio": 26,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada4-episodio26/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34373&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 5,
+      "episodios": [
+        {
+          "temporada": 5,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34928&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34929&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34930&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34931&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34932&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34933&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34934&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34935&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34936&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34937&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34938&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34939&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio13/",
+          "url_directa": null
+        },
+        {
+          "temporada": 5,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34941&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34942&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34943&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34944&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio18/",
+          "url_directa": null
+        },
+        {
+          "temporada": 5,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio19/",
+          "url_directa": null
+        },
+        {
+          "temporada": 5,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34947&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34948&trtype=2"
+        },
+        {
+          "temporada": 5,
+          "episodio": 22,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio22/",
+          "url_directa": null
+        },
+        {
+          "temporada": 5,
+          "episodio": 23,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada5-episodio23/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=34950&trtype=2"
+        }
+      ]
+    },
+    {
+      "numero": 6,
+      "episodios": [
+        {
+          "temporada": 6,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36545&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36546&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36547&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36548&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36549&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36550&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36551&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36552&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36553&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36554&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36555&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36556&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36557&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36558&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36559&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36560&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 17,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio17/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36561&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 18,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio18/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36562&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 19,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio19/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36563&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 20,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio20/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36564&trtype=2"
+        },
+        {
+          "temporada": 6,
+          "episodio": 21,
+          "url_pagina": "https://retrotve.com/seriestv/la-ninera-temporada6-episodio21/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=36565&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 6,
+  "total_episodios": 144
+}

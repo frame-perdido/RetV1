@@ -1,0 +1,121 @@
+{
+  "url": "https://retrotve.com/serie/jeannie/",
+  "tipo": "serie",
+  "titulo": "Jeannie",
+  "titulo_original": "Jeannie",
+  "primera_emision": "08-09-1973",
+  "ultima_emision": "22-12-1973",
+  "generos": [
+    "Animación",
+    "Ci-Fi & Fantasia",
+    "Comedia",
+    "Resubidas"
+  ],
+  "sinopsis": "El adolescente promedio Corey Anders encuentra una botella de aspecto inusual en la playa, cuando la abre emerge un hermoso genio llamado Jeannie.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/2fCsDG0ImQxG7VraU3b3EZUcs7U.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20825&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20826&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20827&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20828&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20829&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20830&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20831&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20832&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20833&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20834&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20835&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20836&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20837&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 14,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio14/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20838&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 15,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio15/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20839&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 16,
+          "url_pagina": "https://retrotve.com/seriestv/jeannie-temporada1-episodio16/",
+          "url_directa": "https://retrotve.com/?trembed=1&trid=20840&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 16
+}

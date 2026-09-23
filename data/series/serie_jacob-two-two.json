@@ -1,0 +1,106 @@
+{
+  "url": "https://retrotve.com/serie/jacob-two-two/",
+  "tipo": "serie",
+  "titulo": "Jacob Dos-Dos",
+  "titulo_original": "Jacob Two-Two",
+  "primera_emision": "07-09-2003",
+  "ultima_emision": "17-09-2006",
+  "generos": [
+    "Animación",
+    "Comedia",
+    "Familia",
+    "Kids"
+  ],
+  "directores": [
+    "Mordecai Richler"
+  ],
+  "sinopsis": "Jacobo Dos Dos es una serie animada infantil basada en los libros de Mordecai Richler. La historia sigue a Jacobo, un niño pequeño que vive con su familia y es conocido por repetir todo dos veces cuando habla, lo que le da su peculiar apodo. Aunque es el más chico de la casa y a menudo es subestimado por sus hermanos mayores, Jacobo posee una imaginación desbordante y un gran corazón.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/eI8t3akmgheC3xNJ2WXik8qtVzK.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27483&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27484&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27485&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27486&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27487&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27488&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 7,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio7/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27489&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 8,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio8/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27490&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 9,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio9/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27491&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 10,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio10/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27492&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 11,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio11/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27493&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 12,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio12/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27494&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 13,
+          "url_pagina": "https://retrotve.com/seriestv/jacob-two-two-temporada1-episodio13/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=27495&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 13
+}

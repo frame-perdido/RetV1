@@ -1,0 +1,65 @@
+{
+  "url": "https://retrotve.com/serie/los-anos-maravillosos/",
+  "tipo": "serie",
+  "titulo": "Los Años Maravillosos",
+  "titulo_original": "The Wonder Years",
+  "primera_emision": "31-01-1988",
+  "ultima_emision": "12-05-1993",
+  "generos": [
+    "Comedia",
+    "Drama",
+    "Familia",
+    "Live Action"
+  ],
+  "directores": [
+    "Carol Black",
+    "Neal Marlens"
+  ],
+  "sinopsis": "Serie de TV (1988-1993). 6 temporadas. 115 episodios. Kevin Arnold vive en el seno de una familia de clase media norteamericana durante el final de los años 60 y la década de los 70. Kevin medita sobre todo lo que le pasó en aquellos turbulentos pero maravillosos años, llenos de cambios sociales, económicos y culturales, y en los que siendo un joven se enfrentaba a la adolescencia como una lucha casi diaria. Vietnam, el hombre en la luna, el movimiento hippie, el amor libre, el comunismo, el racismo, la política… había mucho sobre qué pensar y discutir. Con quien más discutía era con su padre Jack y su hermano Wayne, aunque en el fondo todos se querían. Su hermana Karen era un poco hippie, y no tuvo demasiado trato con ella, y su madre Norma… bueno, una madre a tiempo completo. También estaba su noviecita, la guapa Winnie Cooper (Danica McKellar), y su mejor amigo, Paul Pfeiffer.",
+  "imagen_hd": "//image.tmdb.org/t/p/w780/26JD1Ob6bAeOqHPlTdcdyjtNx5E.jpg",
+  "temporadas": [
+    {
+      "numero": 1,
+      "episodios": [
+        {
+          "temporada": 1,
+          "episodio": 1,
+          "url_pagina": "https://retrotve.com/seriestv/los-anos-maravillosos-temporada1-episodio1/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=25616&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 2,
+          "url_pagina": "https://retrotve.com/seriestv/los-anos-maravillosos-temporada1-episodio2/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=25617&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 3,
+          "url_pagina": "https://retrotve.com/seriestv/los-anos-maravillosos-temporada1-episodio3/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=25618&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 4,
+          "url_pagina": "https://retrotve.com/seriestv/los-anos-maravillosos-temporada1-episodio4/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=25619&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 5,
+          "url_pagina": "https://retrotve.com/seriestv/los-anos-maravillosos-temporada1-episodio5/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=25620&trtype=2"
+        },
+        {
+          "temporada": 1,
+          "episodio": 6,
+          "url_pagina": "https://retrotve.com/seriestv/los-anos-maravillosos-temporada1-episodio6/",
+          "url_directa": "https://retrotve.com/?trembed=0&trid=25621&trtype=2"
+        }
+      ]
+    }
+  ],
+  "total_temporadas": 1,
+  "total_episodios": 6
+}
